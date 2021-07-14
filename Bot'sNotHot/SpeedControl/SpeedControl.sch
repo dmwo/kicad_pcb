@@ -1,0 +1,1447 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 11693 9536
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1800 1200 1800 1300
+Text Label 1800 1200 0    10   ~ 0
+GND
+Wire Wire Line
+	2100 1200 2100 1300
+Text Label 2100 1200 0    10   ~ 0
+GND
+Wire Wire Line
+	2400 1200 2400 1300
+Text Label 2400 1200 0    10   ~ 0
+GND
+Wire Wire Line
+	7700 8300 7700 8400
+Wire Wire Line
+	7700 8400 7800 8400
+Wire Wire Line
+	7800 8400 7800 8300
+Wire Wire Line
+	7700 8400 7700 8500
+Connection ~ 7700 8400
+Text Label 7700 8300 0    10   ~ 0
+GND
+Wire Wire Line
+	9400 7600 9500 7600
+Text Label 9500 7600 0    70   ~ 0
+GND
+Wire Wire Line
+	9400 6800 9500 6800
+Text Label 9500 6800 0    70   ~ 0
+GND
+Wire Wire Line
+	9100 5500 9200 5500
+Wire Wire Line
+	9200 5500 9300 5500
+Wire Wire Line
+	9300 5500 9400 5500
+Wire Wire Line
+	9400 5500 9500 5500
+Wire Wire Line
+	9500 5500 9600 5500
+Wire Wire Line
+	9600 5500 9800 5500
+Connection ~ 9200 5500
+Connection ~ 9300 5500
+Connection ~ 9400 5500
+Connection ~ 9500 5500
+Connection ~ 9600 5500
+Text Label 9100 5500 0    10   ~ 0
+GND
+Wire Wire Line
+	8200 1800 8300 1800
+Wire Wire Line
+	8300 2000 8200 2000
+Wire Wire Line
+	8300 1800 8300 2000
+Wire Wire Line
+	8300 2000 8300 2100
+Connection ~ 8300 2000
+Text Label 8200 1800 0    10   ~ 0
+GND
+Wire Wire Line
+	8200 4100 8300 4100
+Wire Wire Line
+	8300 4300 8200 4300
+Wire Wire Line
+	8300 4100 8300 4300
+Wire Wire Line
+	8300 4300 8300 4400
+Connection ~ 8300 4300
+Text Label 8200 4100 0    10   ~ 0
+GND
+Wire Wire Line
+	9400 6000 9500 6000
+Text Label 9500 6000 0    70   ~ 0
+GND
+Wire Wire Line
+	9400 6200 9500 6200
+Text Label 9500 6200 0    70   ~ 0
+GND
+Wire Wire Line
+	1800 900  1800 800 
+Wire Wire Line
+	1800 800  2100 800 
+Wire Wire Line
+	2100 800  2100 900 
+Wire Wire Line
+	2100 800  2400 800 
+Wire Wire Line
+	2400 800  2400 900 
+Wire Wire Line
+	1800 800  1700 800 
+Connection ~ 2100 800 
+Connection ~ 1800 800 
+Text Label 1700 800  2    70   ~ 0
+VDD
+Wire Wire Line
+	4100 1950 4100 1900
+Wire Wire Line
+	4100 1900 4200 1900
+Text Label 4200 1900 0    70   ~ 0
+VDD
+Wire Wire Line
+	4100 5550 4100 5500
+Wire Wire Line
+	4100 5500 4200 5500
+Text Label 4200 5500 0    70   ~ 0
+VDD
+Wire Wire Line
+	7900 8300 7900 8400
+Text Label 7900 8400 3    70   ~ 0
+VDD
+Wire Wire Line
+	9400 7700 9500 7700
+Text Label 9500 7700 0    70   ~ 0
+VDD
+Wire Wire Line
+	9400 6900 9500 6900
+Text Label 9500 6900 0    70   ~ 0
+VDD
+Wire Wire Line
+	9400 6100 9500 6100
+Text Label 9500 6100 0    70   ~ 0
+VDD
+Wire Wire Line
+	9400 6300 9500 6300
+Text Label 9500 6300 0    70   ~ 0
+VDD
+Wire Wire Line
+	3700 2100 3600 2100
+Wire Wire Line
+	3600 2100 3400 2100
+Wire Wire Line
+	3400 2100 3200 2100
+Wire Wire Line
+	3600 2100 3600 1700
+Wire Wire Line
+	3600 1700 4000 1700
+Wire Wire Line
+	3400 1600 3400 2100
+Connection ~ 3600 2100
+Connection ~ 3400 2100
+Wire Wire Line
+	3700 2300 3600 2300
+Wire Wire Line
+	3600 2300 3600 2400
+Wire Wire Line
+	3600 2300 3200 2300
+Connection ~ 3600 2300
+Wire Wire Line
+	4600 2200 4500 2200
+Wire Wire Line
+	4300 1700 4600 1700
+Wire Wire Line
+	4600 1700 4600 2200
+Wire Wire Line
+	4600 2200 4700 2200
+Connection ~ 4600 2200
+Wire Wire Line
+	7500 2200 7600 2200
+Text Label 7600 2200 0    70   ~ 0
+SP1
+Wire Wire Line
+	2800 2100 2700 2100
+Text Label 2700 2100 2    70   ~ 0
+SP1
+Wire Wire Line
+	2700 3900 2800 3900
+Text Label 2700 3900 2    70   ~ 0
+SP1
+Wire Wire Line
+	7900 1800 7600 1800
+Wire Wire Line
+	7600 1800 7500 1800
+Wire Wire Line
+	7500 1600 7600 1600
+Wire Wire Line
+	7600 1800 7600 1600
+Connection ~ 7600 1800
+Connection ~ 7600 1600
+Wire Wire Line
+	7500 2000 7900 2000
+Wire Wire Line
+	9400 7000 9500 7000
+Text Label 9500 7000 0    70   ~ 0
+ENC2
+Wire Wire Line
+	5800 3900 5700 3900
+Text Label 5700 3900 2    70   ~ 0
+ENC2
+Wire Wire Line
+	8000 5900 8000 5800
+Text Label 8000 5800 1    70   ~ 0
+ENC2
+Wire Wire Line
+	7900 4100 7600 4100
+Wire Wire Line
+	7600 4100 7500 4100
+Wire Wire Line
+	7500 3900 7600 3900
+Wire Wire Line
+	7600 4100 7600 3900
+Connection ~ 7600 4100
+Connection ~ 7600 3900
+Wire Wire Line
+	7500 4300 7900 4300
+Wire Wire Line
+	7500 4500 7600 4500
+Text Label 7600 4500 0    70   ~ 0
+SP2
+Wire Wire Line
+	2800 5700 2700 5700
+Text Label 2700 5700 2    70   ~ 0
+SP2
+Wire Wire Line
+	2800 7500 2700 7500
+Text Label 2700 7500 2    70   ~ 0
+SP2
+Wire Wire Line
+	6500 1600 6400 1600
+Wire Wire Line
+	6400 1600 6400 1700
+Wire Wire Line
+	6200 1800 6200 1600
+Wire Wire Line
+	6200 1600 6400 1600
+Wire Wire Line
+	6100 1600 6200 1600
+Connection ~ 6400 1600
+Connection ~ 6200 1600
+Wire Wire Line
+	3200 3900 3400 3900
+Wire Wire Line
+	3400 3900 3600 3900
+Wire Wire Line
+	3600 3900 3700 3900
+Wire Wire Line
+	3600 3900 3600 3500
+Wire Wire Line
+	3600 3500 4000 3500
+Wire Wire Line
+	3400 3400 3400 3900
+Connection ~ 3600 3900
+Connection ~ 3400 3900
+Wire Wire Line
+	2800 2300 2700 2300
+Text Label 2700 2300 2    70   ~ 0
+VREF1
+Wire Wire Line
+	2800 4100 2700 4100
+Text Label 2700 4100 2    70   ~ 0
+VREF1
+Wire Wire Line
+	7500 5900 7500 5800
+Text Label 7500 5800 1    70   ~ 0
+VREF1
+Wire Wire Line
+	3200 4100 3600 4100
+Wire Wire Line
+	3600 4100 3700 4100
+Wire Wire Line
+	3600 4100 3600 4200
+Connection ~ 3600 4100
+Wire Wire Line
+	4300 3500 4600 3500
+Wire Wire Line
+	4600 3500 4600 4000
+Wire Wire Line
+	4600 4000 4500 4000
+Wire Wire Line
+	4600 4000 4700 4000
+Connection ~ 4600 4000
+Wire Wire Line
+	3200 1300 3100 1300
+Wire Wire Line
+	3100 1300 3100 1400
+Wire Wire Line
+	3100 1300 3000 1300
+Connection ~ 3100 1300
+Text Label 3000 1300 2    70   ~ 0
+C1
+Wire Wire Line
+	7800 5900 7800 5800
+Text Label 7800 5800 1    70   ~ 0
+C1
+Wire Wire Line
+	7000 1100 7000 1200
+Wire Wire Line
+	7000 1200 7000 1300
+Wire Wire Line
+	7600 1200 7000 1200
+Wire Wire Line
+	7600 1200 7800 1200
+Wire Wire Line
+	7800 1200 8100 1200
+Connection ~ 7000 1200
+Connection ~ 7600 1200
+Text Label 7000 1100 1    70   ~ 0
+VDC
+Connection ~ 7800 1200
+Wire Wire Line
+	7000 3400 7000 3500
+Wire Wire Line
+	7000 3500 7000 3600
+Wire Wire Line
+	7600 3500 7000 3500
+Wire Wire Line
+	7600 3500 7800 3500
+Connection ~ 7000 3500
+Connection ~ 7600 3500
+Text Label 7000 3400 1    70   ~ 0
+VDC
+Wire Wire Line
+	3400 1200 3400 1100
+Text Label 3400 1100 1    70   ~ 0
+VDC
+Wire Wire Line
+	3400 3000 3400 2900
+Text Label 3400 2900 1    70   ~ 0
+VDC
+Wire Wire Line
+	3400 4800 3400 4700
+Text Label 3400 4700 1    70   ~ 0
+VDC
+Wire Wire Line
+	3400 6600 3400 6500
+Text Label 3400 6500 1    70   ~ 0
+VDC
+Wire Wire Line
+	7600 8300 7600 8400
+Text Label 7600 8400 3    70   ~ 0
+VDC
+Wire Wire Line
+	6400 2100 6400 2200
+Wire Wire Line
+	6400 2200 6500 2200
+Wire Wire Line
+	6200 2000 6200 2200
+Wire Wire Line
+	6200 2200 6400 2200
+Connection ~ 6400 2200
+Text Label 6200 2200 2    70   ~ 0
+VDC
+Wire Wire Line
+	6400 4400 6400 4500
+Wire Wire Line
+	6400 4500 6500 4500
+Wire Wire Line
+	6200 4300 6200 4500
+Wire Wire Line
+	6200 4500 6400 4500
+Connection ~ 6400 4500
+Text Label 6200 4500 2    70   ~ 0
+VDC
+Wire Wire Line
+	5100 2200 5200 2200
+Text Label 5200 2200 0    70   ~ 0
+B1_L
+Wire Wire Line
+	9400 7500 9500 7500
+Text Label 9500 7500 0    70   ~ 0
+B1_L
+Wire Wire Line
+	5100 4000 5200 4000
+Text Label 5200 4000 0    70   ~ 0
+B2_L
+Wire Wire Line
+	9400 7400 9500 7400
+Text Label 9500 7400 0    70   ~ 0
+B2_L
+Wire Wire Line
+	3200 3100 3100 3100
+Wire Wire Line
+	3100 3100 3100 3200
+Wire Wire Line
+	3100 3100 3000 3100
+Connection ~ 3100 3100
+Text Label 3000 3100 2    70   ~ 0
+C2
+Wire Wire Line
+	7600 5900 7600 5800
+Text Label 7600 5800 1    70   ~ 0
+C2
+Wire Wire Line
+	3700 5700 3600 5700
+Wire Wire Line
+	3600 5700 3400 5700
+Wire Wire Line
+	3400 5700 3200 5700
+Wire Wire Line
+	3600 5700 3600 5300
+Wire Wire Line
+	3600 5300 4000 5300
+Wire Wire Line
+	3400 5200 3400 5700
+Connection ~ 3600 5700
+Connection ~ 3400 5700
+Wire Wire Line
+	3700 5900 3600 5900
+Wire Wire Line
+	3600 5900 3600 6000
+Wire Wire Line
+	3600 5900 3200 5900
+Connection ~ 3600 5900
+Wire Wire Line
+	4600 5800 4500 5800
+Wire Wire Line
+	4300 5300 4600 5300
+Wire Wire Line
+	4600 5300 4600 5800
+Wire Wire Line
+	4600 5800 4700 5800
+Connection ~ 4600 5800
+Wire Wire Line
+	3200 7500 3400 7500
+Wire Wire Line
+	3400 7500 3600 7500
+Wire Wire Line
+	3600 7500 3700 7500
+Wire Wire Line
+	3600 7500 3600 7100
+Wire Wire Line
+	3600 7100 4000 7100
+Wire Wire Line
+	3400 7000 3400 7500
+Connection ~ 3600 7500
+Connection ~ 3400 7500
+Wire Wire Line
+	3200 7700 3600 7700
+Wire Wire Line
+	3600 7700 3700 7700
+Wire Wire Line
+	3600 7700 3600 7800
+Connection ~ 3600 7700
+Wire Wire Line
+	4300 7100 4600 7100
+Wire Wire Line
+	4600 7100 4600 7600
+Wire Wire Line
+	4600 7600 4500 7600
+Wire Wire Line
+	4600 7600 4700 7600
+Connection ~ 4600 7600
+Wire Wire Line
+	3200 4900 3100 4900
+Wire Wire Line
+	3100 4900 3100 5000
+Wire Wire Line
+	3100 4900 3000 4900
+Connection ~ 3100 4900
+Text Label 3000 4900 2    70   ~ 0
+C3
+Wire Wire Line
+	7400 5900 7400 5800
+Text Label 7400 5800 1    70   ~ 0
+C3
+Wire Wire Line
+	3200 6700 3100 6700
+Wire Wire Line
+	3100 6700 3100 6800
+Wire Wire Line
+	3100 6700 3000 6700
+Connection ~ 3100 6700
+Text Label 3000 6700 2    70   ~ 0
+C4
+Wire Wire Line
+	7300 5900 7300 5800
+Text Label 7300 5800 1    70   ~ 0
+C4
+Wire Wire Line
+	5100 5800 5200 5800
+Text Label 5200 5800 0    70   ~ 0
+B1_R
+Wire Wire Line
+	9400 7300 9500 7300
+Text Label 9500 7300 0    70   ~ 0
+B1_R
+Wire Wire Line
+	5100 7600 5200 7600
+Text Label 5200 7600 0    70   ~ 0
+B2_R
+Wire Wire Line
+	9400 7200 9500 7200
+Text Label 9500 7200 0    70   ~ 0
+B2_R
+Wire Wire Line
+	2800 5900 2700 5900
+Text Label 2700 5900 2    70   ~ 0
+VREF2
+Wire Wire Line
+	2800 7700 2700 7700
+Text Label 2700 7700 2    70   ~ 0
+VREF2
+Wire Wire Line
+	7200 5900 7200 5800
+Text Label 7200 5800 1    70   ~ 0
+VREF2
+Wire Wire Line
+	8100 8300 8100 8400
+Text Label 8100 8400 3    70   ~ 0
+MIC
+Wire Wire Line
+	5800 1600 5700 1600
+Text Label 5700 1600 2    70   ~ 0
+ENC1
+Wire Wire Line
+	9400 7100 9500 7100
+Text Label 9500 7100 0    70   ~ 0
+ENC1
+Wire Wire Line
+	7900 5900 7900 5800
+Text Label 7900 5800 1    70   ~ 0
+ENC1
+Wire Wire Line
+	6500 3900 6400 3900
+Wire Wire Line
+	6400 3900 6400 4000
+Wire Wire Line
+	6200 4100 6200 3900
+Wire Wire Line
+	6200 3900 6400 3900
+Wire Wire Line
+	6200 3900 6100 3900
+Connection ~ 6400 3900
+Connection ~ 6200 3900
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C2
+U 1 1 C8DDE19D
+P 2100 1000
+F 0 "C2" H 2160 1015 59  0000 L BNN
+F 1 "0.1uF" H 2160 815 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 2100 1000 50  0001 C CNN
+F 3 "" H 2100 1000 50  0001 C CNN
+	1    2100 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C3
+U 1 1 88676885
+P 2400 1000
+F 0 "C3" H 2460 1015 59  0000 L BNN
+F 1 "0.1uF" H 2460 815 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 2400 1000 50  0001 C CNN
+F 3 "" H 2400 1000 50  0001 C CNN
+	1    2400 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY01
+U 1 1 F54A36B8
+P 1800 1400
+F 0 "#SUPPLY01" H 1800 1400 50  0001 C CNN
+F 1 "GND" H 1725 1275 59  0000 L BNN
+F 2 "" H 1800 1400 50  0001 C CNN
+F 3 "" H 1800 1400 50  0001 C CNN
+	1    1800 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY02
+U 1 1 19032892
+P 2100 1400
+F 0 "#SUPPLY02" H 2100 1400 50  0001 C CNN
+F 1 "GND" H 2025 1275 59  0000 L BNN
+F 2 "" H 2100 1400 50  0001 C CNN
+F 3 "" H 2100 1400 50  0001 C CNN
+	1    2100 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY03
+U 1 1 4F8E092B
+P 2400 1400
+F 0 "#SUPPLY03" H 2400 1400 50  0001 C CNN
+F 1 "GND" H 2325 1275 59  0000 L BNN
+F 2 "" H 2400 1400 50  0001 C CNN
+F 3 "" H 2400 1400 50  0001 C CNN
+	1    2400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:TLV272 U1
+U 1 1 94FABF20
+P 3800 2500
+F 0 "U1" H 3600 3300 42  0000 L BNN
+F 1 "TLV272" H 3800 2500 50  0001 C CNN
+F 2 "SpeedControl:DIL08" H 3800 2500 50  0001 C CNN
+F 3 "" H 3800 2500 50  0001 C CNN
+	1    3800 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY05
+U 1 1 20B1DDDE
+P 4100 2550
+F 0 "#SUPPLY05" H 4100 2550 50  0001 C CNN
+F 1 "GND" H 4025 2425 59  0000 L BNN
+F 2 "" H 4100 2550 50  0001 C CNN
+F 3 "" H 4100 2550 50  0001 C CNN
+	1    4100 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C4
+U 1 1 674C1B16
+P 4100 1700
+F 0 "C4" H 4160 1715 59  0000 L BNN
+F 1 "1uF" H 4160 1515 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 4100 1700 50  0001 C CNN
+F 3 "" H 4100 1700 50  0001 C CNN
+	1    4100 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C5
+U 1 1 4F4A95F0
+P 3600 2500
+F 0 "C5" H 3660 2515 59  0000 L BNN
+F 1 "1uF" H 3660 2315 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 3600 2500 50  0001 C CNN
+F 3 "" H 3600 2500 50  0001 C CNN
+	1    3600 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY06
+U 1 1 A7CD5EB6
+P 3600 2800
+F 0 "#SUPPLY06" H 3600 2800 50  0001 C CNN
+F 1 "GND" H 3525 2675 59  0000 L BNN
+F 2 "" H 3600 2800 50  0001 C CNN
+F 3 "" H 3600 2800 50  0001 C CNN
+	1    3600 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:555CN U2
+U 1 1 4E0AB7A9
+P 6600 2400
+F 0 "U2" H 6500 3500 59  0000 L BNN
+F 1 "555CN" H 6600 2400 50  0001 C CNN
+F 2 "SpeedControl:DIL08" H 6600 2400 50  0001 C CNN
+F 3 "" H 6600 2400 50  0001 C CNN
+	1    6600 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY09
+U 1 1 B8640D54
+P 7000 2600
+F 0 "#SUPPLY09" H 7000 2600 50  0001 C CNN
+F 1 "GND" H 6925 2475 59  0000 L BNN
+F 2 "" H 7000 2600 50  0001 C CNN
+F 3 "" H 7000 2600 50  0001 C CNN
+	1    7000 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R1
+U 1 1 A226F0B6
+P 6400 1900
+F 0 "R1" H 6250 1959 59  0000 L BNN
+F 1 "2k7" H 6250 1770 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 6400 1900 50  0001 C CNN
+F 3 "" H 6400 1900 50  0001 C CNN
+	1    6400 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R3
+U 1 1 A1D4CDDE
+P 7600 1400
+F 0 "R3" H 7450 1459 59  0000 L BNN
+F 1 "6k8" H 7450 1270 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 7600 1400 50  0001 C CNN
+F 3 "" H 7600 1400 50  0001 C CNN
+	1    7600 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R4
+U 1 1 BB404602
+P 3000 2100
+F 0 "R4" H 2850 2159 59  0000 L BNN
+F 1 "6k8" H 2850 1970 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 2100 50  0001 C CNN
+F 3 "" H 3000 2100 50  0001 C CNN
+	1    3000 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R5
+U 1 1 CB3B94CF
+P 3000 3900
+F 0 "R5" H 2850 3959 59  0000 L BNN
+F 1 "6k8" H 2850 3770 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 3900 50  0001 C CNN
+F 3 "" H 3000 3900 50  0001 C CNN
+	1    3000 3900
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R6
+U 1 1 1A38FCF5
+P 3000 2300
+F 0 "R6" H 2850 2359 59  0000 L BNN
+F 1 "6k8" H 2850 2170 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 2300 50  0001 C CNN
+F 3 "" H 3000 2300 50  0001 C CNN
+	1    3000 2300
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R7
+U 1 1 E7A50AEB
+P 3000 4100
+F 0 "R7" H 2850 4159 59  0000 L BNN
+F 1 "6k8" H 2850 3970 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 4100 50  0001 C CNN
+F 3 "" H 3000 4100 50  0001 C CNN
+	1    3000 4100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R8
+U 1 1 88122208
+P 4900 2200
+F 0 "R8" H 4750 2259 59  0000 L BNN
+F 1 "680" H 4750 2070 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 4900 2200 50  0001 C CNN
+F 3 "" H 4900 2200 50  0001 C CNN
+	1    4900 2200
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R9
+U 1 1 9A7AF9DF
+P 4900 4000
+F 0 "R9" H 4750 4059 59  0000 L BNN
+F 1 "680" H 4750 3870 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 4900 4000 50  0001 C CNN
+F 3 "" H 4900 4000 50  0001 C CNN
+	1    4900 4000
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R10
+U 1 1 C0B20218
+P 3100 1600
+F 0 "R10" H 2950 1659 59  0000 L BNN
+F 1 "10k" H 2950 1470 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3100 1600 50  0001 C CNN
+F 3 "" H 3100 1600 50  0001 C CNN
+	1    3100 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C6
+U 1 1 8451312A
+P 8000 1800
+F 0 "C6" H 8060 1815 59  0000 L BNN
+F 1 "0.1uF" H 8060 1615 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 8000 1800 50  0001 C CNN
+F 3 "" H 8000 1800 50  0001 C CNN
+	1    8000 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C7
+U 1 1 A5E7C4B6
+P 8000 2000
+F 0 "C7" H 8060 2015 59  0000 L BNN
+F 1 "1uF" H 8060 1815 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 8000 2000 50  0001 C CNN
+F 3 "" H 8000 2000 50  0001 C CNN
+	1    8000 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY011
+U 1 1 E0B04C0E
+P 8300 2200
+F 0 "#SUPPLY011" H 8300 2200 50  0001 C CNN
+F 1 "GND" H 8225 2075 59  0000 L BNN
+F 2 "" H 8300 2200 50  0001 C CNN
+F 3 "" H 8300 2200 50  0001 C CNN
+	1    8300 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:1N4148DO35-7 D1
+U 1 1 C78C3FBD
+P 6200 1900
+F 0 "D1" H 6300 1919 59  0000 L BNN
+F 1 "1N4148DO35-7" H 6300 1809 59  0000 L BNN
+F 2 "SpeedControl:DO35-7" H 6200 1900 50  0001 C CNN
+F 3 "" H 6200 1900 50  0001 C CNN
+	1    6200 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C8
+U 1 1 A7E76009
+P 7800 1300
+F 0 "C8" H 7860 1315 59  0000 L BNN
+F 1 "0.1uF" H 7860 1115 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 7800 1300 50  0001 C CNN
+F 3 "" H 7800 1300 50  0001 C CNN
+	1    7800 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY012
+U 1 1 31C2C8A5
+P 7800 1600
+F 0 "#SUPPLY012" H 7800 1600 50  0001 C CNN
+F 1 "GND" H 7725 1475 59  0000 L BNN
+F 2 "" H 7800 1600 50  0001 C CNN
+F 3 "" H 7800 1600 50  0001 C CNN
+	1    7800 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:555CN U3
+U 1 1 C6A83FC2
+P 6600 4700
+F 0 "U3" H 6500 5800 59  0000 L BNN
+F 1 "555CN" H 6600 4700 50  0001 C CNN
+F 2 "SpeedControl:DIL08" H 6600 4700 50  0001 C CNN
+F 3 "" H 6600 4700 50  0001 C CNN
+	1    6600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY010
+U 1 1 28999800
+P 7000 4900
+F 0 "#SUPPLY010" H 7000 4900 50  0001 C CNN
+F 1 "GND" H 6925 4775 59  0000 L BNN
+F 2 "" H 7000 4900 50  0001 C CNN
+F 3 "" H 7000 4900 50  0001 C CNN
+	1    7000 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R2
+U 1 1 731E170B
+P 6400 4200
+F 0 "R2" H 6250 4259 59  0000 L BNN
+F 1 "2k7" H 6250 4070 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 6400 4200 50  0001 C CNN
+F 3 "" H 6400 4200 50  0001 C CNN
+	1    6400 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R19
+U 1 1 7E3D6DF7
+P 7600 3700
+F 0 "R19" H 7450 3759 59  0000 L BNN
+F 1 "6k8" H 7450 3570 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 7600 3700 50  0001 C CNN
+F 3 "" H 7600 3700 50  0001 C CNN
+	1    7600 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C9
+U 1 1 234305B8
+P 8000 4100
+F 0 "C9" H 8060 4115 59  0000 L BNN
+F 1 "0.2uF" H 8060 3915 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 8000 4100 50  0001 C CNN
+F 3 "" H 8000 4100 50  0001 C CNN
+	1    8000 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C10
+U 1 1 0A51D459
+P 8000 4300
+F 0 "C10" H 8060 4315 59  0000 L BNN
+F 1 "1uF" H 8060 4115 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 8000 4300 50  0001 C CNN
+F 3 "" H 8000 4300 50  0001 C CNN
+	1    8000 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY013
+U 1 1 8D803956
+P 8300 4500
+F 0 "#SUPPLY013" H 8300 4500 50  0001 C CNN
+F 1 "GND" H 8225 4375 59  0000 L BNN
+F 2 "" H 8300 4500 50  0001 C CNN
+F 3 "" H 8300 4500 50  0001 C CNN
+	1    8300 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:1N4148DO35-7 D2
+U 1 1 0CADE672
+P 6200 4200
+F 0 "D2" H 6300 4219 59  0000 L BNN
+F 1 "1N4148DO35-7" H 6300 4109 59  0000 L BNN
+F 2 "SpeedControl:DO35-7" H 6200 4200 50  0001 C CNN
+F 3 "" H 6200 4200 50  0001 C CNN
+	1    6200 4200
+	0    1    1    0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C11
+U 1 1 5487FD53
+P 7800 3600
+F 0 "C11" H 7860 3615 59  0000 L BNN
+F 1 "0.1uF" H 7860 3415 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 7800 3600 50  0001 C CNN
+F 3 "" H 7800 3600 50  0001 C CNN
+	1    7800 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY014
+U 1 1 C4643C99
+P 7800 3900
+F 0 "#SUPPLY014" H 7800 3900 50  0001 C CNN
+F 1 "GND" H 7725 3775 59  0000 L BNN
+F 2 "" H 7800 3900 50  0001 C CNN
+F 3 "" H 7800 3900 50  0001 C CNN
+	1    7800 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C12
+U 1 1 25E4AAFD
+P 4100 3500
+F 0 "C12" H 4160 3515 59  0000 L BNN
+F 1 "1uF" H 4160 3315 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 4100 3500 50  0001 C CNN
+F 3 "" H 4100 3500 50  0001 C CNN
+	1    4100 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C13
+U 1 1 0D1A7AEB
+P 3600 4300
+F 0 "C13" H 3660 4315 59  0000 L BNN
+F 1 "1uF" H 3660 4115 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 3600 4300 50  0001 C CNN
+F 3 "" H 3600 4300 50  0001 C CNN
+	1    3600 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY015
+U 1 1 2739B52F
+P 3600 4600
+F 0 "#SUPPLY015" H 3600 4600 50  0001 C CNN
+F 1 "GND" H 3525 4475 59  0000 L BNN
+F 2 "" H 3600 4600 50  0001 C CNN
+F 3 "" H 3600 4600 50  0001 C CNN
+	1    3600 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:ZVP2106A Q1
+U 1 1 22BC07EB
+P 3300 1400
+F 0 "Q1" H 2850 1350 59  0000 L BNN
+F 1 "ZVP2106A" H 2850 1250 59  0000 L BNN
+F 2 "SpeedControl:TO92-BCE" H 3300 1400 50  0001 C CNN
+F 3 "" H 3300 1400 50  0001 C CNN
+	1    3300 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY016
+U 1 1 86F85EE9
+P 3100 1900
+F 0 "#SUPPLY016" H 3100 1900 50  0001 C CNN
+F 1 "GND" H 3025 1775 59  0000 L BNN
+F 2 "" H 3100 1900 50  0001 C CNN
+F 3 "" H 3100 1900 50  0001 C CNN
+	1    3100 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R20
+U 1 1 6A7A1984
+P 3100 3400
+F 0 "R20" H 2950 3459 59  0000 L BNN
+F 1 "10k" H 2950 3270 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3100 3400 50  0001 C CNN
+F 3 "" H 3100 3400 50  0001 C CNN
+	1    3100 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:ZVP2106A Q2
+U 1 1 FC4D4FCD
+P 3300 3200
+F 0 "Q2" H 2850 3150 59  0000 L BNN
+F 1 "ZVP2106A" H 2850 3050 59  0000 L BNN
+F 2 "SpeedControl:TO92-BCE" H 3300 3200 50  0001 C CNN
+F 3 "" H 3300 3200 50  0001 C CNN
+	1    3300 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY04
+U 1 1 1C9152C2
+P 3100 3700
+F 0 "#SUPPLY04" H 3100 3700 50  0001 C CNN
+F 1 "GND" H 3025 3575 59  0000 L BNN
+F 2 "" H 3100 3700 50  0001 C CNN
+F 3 "" H 3100 3700 50  0001 C CNN
+	1    3100 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:TLV272 U4
+U 1 1 AA9079E4
+P 3800 6100
+F 0 "U4" H 3600 6900 42  0000 L BNN
+F 1 "TLV272" H 3800 6100 50  0001 C CNN
+F 2 "SpeedControl:DIL08" H 3800 6100 50  0001 C CNN
+F 3 "" H 3800 6100 50  0001 C CNN
+	1    3800 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY07
+U 1 1 2907E397
+P 4100 6150
+F 0 "#SUPPLY07" H 4100 6150 50  0001 C CNN
+F 1 "GND" H 4025 6025 59  0000 L BNN
+F 2 "" H 4100 6150 50  0001 C CNN
+F 3 "" H 4100 6150 50  0001 C CNN
+	1    4100 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C14
+U 1 1 711FF4DB
+P 4100 5300
+F 0 "C14" H 4160 5315 59  0000 L BNN
+F 1 "1uF" H 4160 5115 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 4100 5300 50  0001 C CNN
+F 3 "" H 4100 5300 50  0001 C CNN
+	1    4100 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C15
+U 1 1 A2E1F285
+P 3600 6100
+F 0 "C15" H 3660 6115 59  0000 L BNN
+F 1 "1uF" H 3660 5915 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 3600 6100 50  0001 C CNN
+F 3 "" H 3600 6100 50  0001 C CNN
+	1    3600 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY08
+U 1 1 39566F8A
+P 3600 6400
+F 0 "#SUPPLY08" H 3600 6400 50  0001 C CNN
+F 1 "GND" H 3525 6275 59  0000 L BNN
+F 2 "" H 3600 6400 50  0001 C CNN
+F 3 "" H 3600 6400 50  0001 C CNN
+	1    3600 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R21
+U 1 1 07A010CB
+P 3000 5700
+F 0 "R21" H 2850 5759 59  0000 L BNN
+F 1 "6k8" H 2850 5570 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 5700 50  0001 C CNN
+F 3 "" H 3000 5700 50  0001 C CNN
+	1    3000 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R22
+U 1 1 AD287A73
+P 3000 7500
+F 0 "R22" H 2850 7559 59  0000 L BNN
+F 1 "6k8" H 2850 7370 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 7500 50  0001 C CNN
+F 3 "" H 3000 7500 50  0001 C CNN
+	1    3000 7500
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R23
+U 1 1 5345FC6A
+P 3000 5900
+F 0 "R23" H 2850 5959 59  0000 L BNN
+F 1 "6k8" H 2850 5770 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 5900 50  0001 C CNN
+F 3 "" H 3000 5900 50  0001 C CNN
+	1    3000 5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R24
+U 1 1 7B7C1F24
+P 3000 7700
+F 0 "R24" H 2850 7759 59  0000 L BNN
+F 1 "6k8" H 2850 7570 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3000 7700 50  0001 C CNN
+F 3 "" H 3000 7700 50  0001 C CNN
+	1    3000 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R25
+U 1 1 72ABDF14
+P 4900 5800
+F 0 "R25" H 4750 5859 59  0000 L BNN
+F 1 "680" H 4750 5670 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 4900 5800 50  0001 C CNN
+F 3 "" H 4900 5800 50  0001 C CNN
+	1    4900 5800
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R26
+U 1 1 E0339844
+P 4900 7600
+F 0 "R26" H 4750 7659 59  0000 L BNN
+F 1 "680" H 4750 7470 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 4900 7600 50  0001 C CNN
+F 3 "" H 4900 7600 50  0001 C CNN
+	1    4900 7600
+	-1   0    0    1   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R27
+U 1 1 548C94D3
+P 3100 5200
+F 0 "R27" H 2950 5259 59  0000 L BNN
+F 1 "10k" H 2950 5070 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3100 5200 50  0001 C CNN
+F 3 "" H 3100 5200 50  0001 C CNN
+	1    3100 5200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C16
+U 1 1 39535965
+P 4100 7100
+F 0 "C16" H 4160 7115 59  0000 L BNN
+F 1 "1uF" H 4160 6915 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 4100 7100 50  0001 C CNN
+F 3 "" H 4100 7100 50  0001 C CNN
+	1    4100 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C17
+U 1 1 225001D6
+P 3600 7900
+F 0 "C17" H 3660 7915 59  0000 L BNN
+F 1 "1uF" H 3660 7715 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 3600 7900 50  0001 C CNN
+F 3 "" H 3600 7900 50  0001 C CNN
+	1    3600 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY017
+U 1 1 26B7FE90
+P 3600 8200
+F 0 "#SUPPLY017" H 3600 8200 50  0001 C CNN
+F 1 "GND" H 3525 8075 59  0000 L BNN
+F 2 "" H 3600 8200 50  0001 C CNN
+F 3 "" H 3600 8200 50  0001 C CNN
+	1    3600 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:ZVP2106A Q3
+U 1 1 9A1C1EBA
+P 3300 5000
+F 0 "Q3" H 2850 4950 59  0000 L BNN
+F 1 "ZVP2106A" H 2850 4850 59  0000 L BNN
+F 2 "SpeedControl:TO92-BCE" H 3300 5000 50  0001 C CNN
+F 3 "" H 3300 5000 50  0001 C CNN
+	1    3300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY018
+U 1 1 C00D883A
+P 3100 5500
+F 0 "#SUPPLY018" H 3100 5500 50  0001 C CNN
+F 1 "GND" H 3025 5375 59  0000 L BNN
+F 2 "" H 3100 5500 50  0001 C CNN
+F 3 "" H 3100 5500 50  0001 C CNN
+	1    3100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:R-US_R0805 R28
+U 1 1 A83A3BF8
+P 3100 7000
+F 0 "R28" H 2950 7059 59  0000 L BNN
+F 1 "10k" H 2950 6870 59  0000 L BNN
+F 2 "SpeedControl:R0805" H 3100 7000 50  0001 C CNN
+F 3 "" H 3100 7000 50  0001 C CNN
+	1    3100 7000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:ZVP2106A Q4
+U 1 1 22452E8B
+P 3300 6800
+F 0 "Q4" H 2850 6750 59  0000 L BNN
+F 1 "ZVP2106A" H 2850 6650 59  0000 L BNN
+F 2 "SpeedControl:TO92-BCE" H 3300 6800 50  0001 C CNN
+F 3 "" H 3300 6800 50  0001 C CNN
+	1    3300 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY019
+U 1 1 9765D681
+P 3100 7300
+F 0 "#SUPPLY019" H 3100 7300 50  0001 C CNN
+F 1 "GND" H 3025 7175 59  0000 L BNN
+F 2 "" H 3100 7300 50  0001 C CNN
+F 3 "" H 3100 7300 50  0001 C CNN
+	1    3100 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:ARDUINO_R3_ICSP_NODIM M1
+U 1 1 63C736F8
+P 6400 8100
+F 0 "M1" H 6400 8100 50  0001 C CNN
+F 1 "ARDUINO_R3_ICSP_NODIM" H 6400 8100 50  0001 C CNN
+F 2 "SpeedControl:ARDUINOR3_ICSP_NODIM" H 6400 8100 50  0001 C CNN
+F 3 "" H 6400 8100 50  0001 C CNN
+	1    6400 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY020
+U 1 1 74256EE2
+P 7700 8600
+F 0 "#SUPPLY020" H 7700 8600 50  0001 C CNN
+F 1 "GND" H 7625 8475 59  0000 L BNN
+F 2 "" H 7700 8600 50  0001 C CNN
+F 3 "" H 7700 8600 50  0001 C CNN
+	1    7700 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:FE10-1 SV1
+U 1 1 1FCB83CC
+P 9100 7300
+F 0 "SV1" H 9050 7930 59  0000 L BNN
+F 1 "FE10-1" H 9050 6700 59  0000 L BNN
+F 2 "SpeedControl:FE10" H 9100 7300 50  0001 C CNN
+F 3 "" H 9100 7300 50  0001 C CNN
+	1    9100 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:SE11 LSP1
+U 1 1 98EDD9C3
+P 8200 8400
+F 0 "LSP1" H 8150 8515 59  0000 L BNN
+F 1 "SE11" H 8200 8400 50  0001 C CNN
+F 2 "SpeedControl:SE11" H 8200 8400 50  0001 C CNN
+F 3 "" H 8200 8400 50  0001 C CNN
+	1    8200 8400
+	0    1    1    0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY021
+U 1 1 5F7BB948
+P 9800 5600
+F 0 "#SUPPLY021" H 9800 5600 50  0001 C CNN
+F 1 "GND" H 9725 5475 59  0000 L BNN
+F 2 "" H 9800 5600 50  0001 C CNN
+F 3 "" H 9800 5600 50  0001 C CNN
+	1    9800 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:SMD5 PAD4
+U 1 1 2256D15B
+P 9100 5600
+F 0 "PAD4" H 9055 5673 59  0000 L BNN
+F 1 "SMD5" H 9055 5470 59  0000 L BNN
+F 2 "SpeedControl:SMD2,54-5,08" H 9100 5600 50  0001 C CNN
+F 3 "" H 9100 5600 50  0001 C CNN
+	1    9100 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:SMD5 PAD5
+U 1 1 26318524
+P 9200 5600
+F 0 "PAD5" H 9155 5673 59  0000 L BNN
+F 1 "SMD5" H 9155 5470 59  0000 L BNN
+F 2 "SpeedControl:SMD2,54-5,08" H 9200 5600 50  0001 C CNN
+F 3 "" H 9200 5600 50  0001 C CNN
+	1    9200 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:SMD5 PAD6
+U 1 1 6CB106E6
+P 9300 5600
+F 0 "PAD6" H 9255 5673 59  0000 L BNN
+F 1 "SMD5" H 9255 5470 59  0000 L BNN
+F 2 "SpeedControl:SMD2,54-5,08" H 9300 5600 50  0001 C CNN
+F 3 "" H 9300 5600 50  0001 C CNN
+	1    9300 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:SMD5 PAD7
+U 1 1 3E17184E
+P 9400 5600
+F 0 "PAD7" H 9355 5673 59  0000 L BNN
+F 1 "SMD5" H 9355 5470 59  0000 L BNN
+F 2 "SpeedControl:SMD2,54-5,08" H 9400 5600 50  0001 C CNN
+F 3 "" H 9400 5600 50  0001 C CNN
+	1    9400 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:SMD5 PAD8
+U 1 1 783DD497
+P 9500 5600
+F 0 "PAD8" H 9455 5673 59  0000 L BNN
+F 1 "SMD5" H 9455 5470 59  0000 L BNN
+F 2 "SpeedControl:SMD2,54-5,08" H 9500 5600 50  0001 C CNN
+F 3 "" H 9500 5600 50  0001 C CNN
+	1    9500 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:SMD5 PAD9
+U 1 1 DBF25510
+P 9600 5600
+F 0 "PAD9" H 9555 5673 59  0000 L BNN
+F 1 "SMD5" H 9555 5470 59  0000 L BNN
+F 2 "SpeedControl:SMD2,54-5,08" H 9600 5600 50  0001 C CNN
+F 3 "" H 9600 5600 50  0001 C CNN
+	1    9600 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:CPOL-USC C18
+U 1 1 37F85A6E
+P 1800 1000
+F 0 "C18" H 1840 1025 59  0000 L BNN
+F 1 "47uF" H 1840 835 59  0000 L BNN
+F 2 "SpeedControl:PANASONIC_C" H 1800 1000 50  0001 C CNN
+F 3 "" H 1800 1000 50  0001 C CNN
+	1    1800 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:CPOL-USC C19
+U 1 1 C9DC9569
+P 8100 1300
+F 0 "C19" H 8140 1325 59  0000 L BNN
+F 1 "47u" H 8140 1135 59  0000 L BNN
+F 2 "SpeedControl:PANASONIC_C" H 8100 1300 50  0001 C CNN
+F 3 "" H 8100 1300 50  0001 C CNN
+	1    8100 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:GND #SUPPLY022
+U 1 1 15C4ECC7
+P 8100 1600
+F 0 "#SUPPLY022" H 8100 1600 50  0001 C CNN
+F 1 "GND" H 8025 1475 59  0000 L BNN
+F 2 "" H 8100 1600 50  0001 C CNN
+F 3 "" H 8100 1600 50  0001 C CNN
+	1    8100 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C1
+U 1 1 6868C27D
+P 5900 1600
+F 0 "C1" H 5960 1615 59  0000 L BNN
+F 1 "1nF" H 5960 1415 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 5900 1600 50  0001 C CNN
+F 3 "" H 5900 1600 50  0001 C CNN
+	1    5900 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:C-EUC0805 C20
+U 1 1 B0943AE7
+P 5900 3900
+F 0 "C20" H 5960 3915 59  0000 L BNN
+F 1 "1nF" H 5960 3715 59  0000 L BNN
+F 2 "SpeedControl:C0805" H 5900 3900 50  0001 C CNN
+F 3 "" H 5900 3900 50  0001 C CNN
+	1    5900 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SpeedControl-eagle-import:MA04-1 SV2
+U 1 1 3E7D897A
+P 9100 6100
+F 0 "SV2" H 9050 6330 59  0000 L BNN
+F 1 "MA04-1" H 9050 5700 59  0000 L BNN
+F 2 "SpeedControl:MA04-1" H 9100 6100 50  0001 C CNN
+F 3 "" H 9100 6100 50  0001 C CNN
+	1    9100 6100
+	1    0    0    -1  
+$EndComp
+Text GLabel 7500 8300 0    10   BiDi ~ 0
+3.3V
+Text GLabel 7000 5900 0    10   BiDi ~ 0
+GND
+$EndSCHEMATC

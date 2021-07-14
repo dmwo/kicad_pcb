@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SpeedControl-eagle-import)(type Legacy)(uri ${KIPRJMOD}/SpeedControl-eagle-import.lib)(options "")(descr ""))
+)

@@ -1,0 +1,558 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5900 3800 5900 4100
+Wire Wire Line
+	5900 4100 5900 4400
+Wire Wire Line
+	6300 4200 6300 4100
+Wire Wire Line
+	6300 4100 5900 4100
+Connection ~ 5900 4100
+Wire Wire Line
+	5700 3600 5600 3600
+Wire Wire Line
+	5600 3600 5300 3600
+Wire Wire Line
+	5600 3400 5600 3600
+Wire Wire Line
+	5300 3600 5300 3900
+Connection ~ 5600 3600
+Wire Wire Line
+	5300 5200 5600 5200
+Wire Wire Line
+	5600 5200 5600 5100
+Wire Wire Line
+	5900 4800 5900 5200
+Wire Wire Line
+	5900 5200 5600 5200
+Wire Wire Line
+	5900 5200 5900 5400
+Wire Wire Line
+	5300 4200 5300 5200
+Connection ~ 5600 5200
+Connection ~ 5900 5200
+Wire Wire Line
+	5600 3000 5600 2900
+Wire Wire Line
+	5600 2900 5900 2900
+Wire Wire Line
+	5900 2900 5900 3400
+Wire Wire Line
+	6200 2900 5900 2900
+Wire Wire Line
+	5900 2700 5900 2900
+Connection ~ 5900 2900
+Wire Wire Line
+	6300 4500 6300 4600
+Text Label 6300 4500 0    10   ~ 0
+GND
+Wire Wire Line
+	5900 5800 5900 6000
+Text Label 5900 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	4400 5130 4400 5300
+Text Label 4400 5130 0    10   ~ 0
+GND
+Wire Wire Line
+	6700 3300 6700 3400
+Text Label 6700 3300 0    10   ~ 0
+GND
+Wire Wire Line
+	7100 3700 7100 3800
+Text Label 7100 3700 0    10   ~ 0
+GND
+Wire Wire Line
+	4100 4900 4100 5300
+Text Label 4100 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	7500 3600 7500 3800
+Text Label 7500 3600 0    10   ~ 0
+GND
+Wire Wire Line
+	4400 3800 4500 3800
+Wire Wire Line
+	4500 3800 4500 3900
+Text Label 4400 3800 0    10   ~ 0
+GND
+Wire Wire Line
+	4400 5900 4500 5900
+Text Label 4500 5900 0    70   ~ 0
+GND
+Wire Wire Line
+	7300 5300 7400 5300
+Wire Wire Line
+	7400 5300 7400 5400
+Wire Wire Line
+	7400 5400 7300 5400
+Wire Wire Line
+	7400 5300 7500 5300
+Connection ~ 7400 5300
+Text Label 7500 5300 0    70   ~ 0
+GND
+Wire Wire Line
+	7300 5900 7400 5900
+Wire Wire Line
+	7400 5900 7400 6000
+Wire Wire Line
+	7400 6000 7300 6000
+Wire Wire Line
+	7400 5900 7500 5900
+Connection ~ 7400 5900
+Text Label 7500 5900 0    70   ~ 0
+GND
+Wire Wire Line
+	5900 2300 5900 2200
+Wire Wire Line
+	5900 2200 5900 2100
+Wire Wire Line
+	5900 2200 5820 2200
+Text Label 5900 2100 1    70   ~ 0
+VCC
+Connection ~ 5900 2200
+Wire Wire Line
+	4400 6300 4500 6300
+Text Label 4500 6300 0    70   ~ 0
+VCC
+Wire Wire Line
+	5600 4600 5700 4600
+Wire Wire Line
+	5600 4700 5600 4600
+Wire Wire Line
+	5600 4600 5010 4600
+Connection ~ 5600 4600
+Wire Wire Line
+	5040 2200 4900 2200
+Text Label 4900 2200 2    70   ~ 0
+LED
+Wire Wire Line
+	4400 3000 4500 3000
+Text Label 4500 3000 0    70   ~ 0
+LED
+Wire Wire Line
+	4400 2800 4500 2800
+Text Label 4500 2800 0    70   ~ 0
+J_OUT
+Wire Wire Line
+	7300 5500 7500 5500
+Text Label 7500 5500 0    70   ~ 0
+J_OUT
+Wire Wire Line
+	4400 3400 4500 3400
+Text Label 4500 3400 0    70   ~ 0
+J_IN
+Wire Wire Line
+	7300 6100 7500 6100
+Text Label 7500 6100 0    70   ~ 0
+J_IN
+Wire Wire Line
+	5420 2200 5340 2200
+Wire Wire Line
+	7100 3400 7100 3500
+Wire Wire Line
+	4100 4300 4100 4200
+Wire Wire Line
+	4100 4200 4000 4200
+Text Label 4000 4200 2    70   ~ 0
+B_IN
+Wire Wire Line
+	4400 3600 4500 3600
+Text Label 4500 3600 0    70   ~ 0
+B_IN
+Wire Wire Line
+	7700 3300 7800 3300
+Text Label 7800 3300 0    70   ~ 0
+B_OUT
+Wire Wire Line
+	4400 3200 4500 3200
+Text Label 4500 3200 0    70   ~ 0
+B_OUT
+Wire Wire Line
+	6500 2900 6700 2900
+Wire Wire Line
+	6700 2900 6700 3100
+Wire Wire Line
+	6700 2900 7100 2900
+Wire Wire Line
+	7100 2900 7100 3000
+Wire Wire Line
+	7100 2900 7500 2900
+Wire Wire Line
+	7500 2900 7500 3000
+Connection ~ 6700 2900
+Connection ~ 7100 2900
+Wire Wire Line
+	4300 4600 4400 4600
+Wire Wire Line
+	4400 4600 4710 4600
+Wire Wire Line
+	4400 4830 4400 4600
+Connection ~ 4400 4600
+$Comp
+L Harmonic_Percolator-eagle-import:2N2484 Q2
+U 1 1 FC4D4FCD
+P 5800 3600
+F 0 "Q2" H 5890 3620 59  0000 L BNN
+F 1 "2N2484" H 5890 3520 59  0000 L BNN
+F 2 "Harmonic_Percolator:TO18" H 5800 3600 50  0001 C CNN
+F 3 "" H 5800 3600 50  0001 C CNN
+	1    5800 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:C-US025-024X044 C4
+U 1 1 A95A2A8E
+P 6300 4300
+F 0 "C4" H 6340 4325 59  0000 L BNN
+F 1 "47uF" H 6340 4135 59  0000 L BNN
+F 2 "Harmonic_Percolator:C025-024X044" H 6300 4300 50  0001 C CNN
+F 3 "" H 6300 4300 50  0001 C CNN
+	1    6300 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:C-EU050-024X044 C3
+U 1 1 2D93CF11
+P 5300 4000
+F 0 "C3" H 5360 4015 59  0000 L BNN
+F 1 "100nF" H 5360 3815 59  0000 L BNN
+F 2 "Harmonic_Percolator:C050-024X044" H 5300 4000 50  0001 C CNN
+F 3 "" H 5300 4000 50  0001 C CNN
+	1    5300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:C-EU050-024X044 C6
+U 1 1 21A596BE
+P 6300 2900
+F 0 "C6" V 6405 2900 59  0000 R TNN
+F 1 "100nF" V 6125 2980 59  0000 R TNN
+F 2 "Harmonic_Percolator:C050-024X044" H 6300 2900 50  0001 C CNN
+F 3 "" H 6300 2900 50  0001 C CNN
+	1    6300 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:C-EU150-054X183 C2
+U 1 1 86B41C19
+P 4810 4600
+F 0 "C2" V 4920 4605 59  0000 R TNN
+F 1 "50nF" V 4630 4655 59  0000 R TNN
+F 2 "Harmonic_Percolator:C150-054X183" H 4810 4600 50  0001 C CNN
+F 3 "" H 4810 4600 50  0001 C CNN
+	1    4810 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:R-US_0207_7 R1
+U 1 1 69FB6862
+P 5600 3200
+F 0 "R1" H 5540 3259 59  0000 L BNN
+F 1 "750k" H 5490 3070 59  0000 L BNN
+F 2 "Harmonic_Percolator:0207_7" H 5600 3200 50  0001 C CNN
+F 3 "" H 5600 3200 50  0001 C CNN
+	1    5600 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:R-US_0207_7 R2
+U 1 1 A00AE0B7
+P 5600 4900
+F 0 "R2" H 5540 4959 59  0000 L BNN
+F 1 "220k" H 5490 4770 59  0000 L BNN
+F 2 "Harmonic_Percolator:0207_7" H 5600 4900 50  0001 C CNN
+F 3 "" H 5600 4900 50  0001 C CNN
+	1    5600 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:R-US_0207_7 R3
+U 1 1 212ECE0A
+P 5900 2500
+F 0 "R3" H 5850 2559 59  0000 L BNN
+F 1 "91k" H 5820 2370 59  0000 L BNN
+F 2 "Harmonic_Percolator:0207_7" H 5900 2500 50  0001 C CNN
+F 3 "" H 5900 2500 50  0001 C CNN
+	1    5900 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:R-US_0207_7 R4
+U 1 1 080A39E0
+P 5900 5600
+F 0 "R4" H 5840 5669 59  0000 L BNN
+F 1 "20k" H 5820 5470 59  0000 L BNN
+F 2 "Harmonic_Percolator:0207_7" H 5900 5600 50  0001 C CNN
+F 3 "" H 5900 5600 50  0001 C CNN
+	1    5900 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:R-US_0207_7 R6
+U 1 1 A40A9EB3
+P 7100 3200
+F 0 "R6" H 7040 3259 59  0000 L BNN
+F 1 "4.7k" H 7000 3080 59  0000 L BNN
+F 2 "Harmonic_Percolator:0207_7" H 7100 3200 50  0001 C CNN
+F 3 "" H 7100 3200 50  0001 C CNN
+	1    7100 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:CD15FD101JO3F C1
+U 1 1 7475BC07
+P 4400 4930
+F 0 "C1" H 4460 4945 59  0000 L BNN
+F 1 "100pF" H 4460 4745 59  0000 L BNN
+F 2 "Harmonic_Percolator:C050-025X075" H 4400 4930 50  0001 C CNN
+F 3 "" H 4400 4930 50  0001 C CNN
+	1    4400 4930
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY01
+U 1 1 F54A36B8
+P 6300 4700
+F 0 "#SUPPLY01" H 6300 4700 50  0001 C CNN
+F 1 "GND" H 6225 4575 59  0000 L BNN
+F 2 "" H 6300 4700 50  0001 C CNN
+F 3 "" H 6300 4700 50  0001 C CNN
+	1    6300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY02
+U 1 1 19032892
+P 5900 6100
+F 0 "#SUPPLY02" H 5900 6100 50  0001 C CNN
+F 1 "GND" H 5825 5975 59  0000 L BNN
+F 2 "" H 5900 6100 50  0001 C CNN
+F 3 "" H 5900 6100 50  0001 C CNN
+	1    5900 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY03
+U 1 1 4F8E092B
+P 4400 5400
+F 0 "#SUPPLY03" H 4400 5400 50  0001 C CNN
+F 1 "GND" H 4325 5275 59  0000 L BNN
+F 2 "" H 4400 5400 50  0001 C CNN
+F 3 "" H 4400 5400 50  0001 C CNN
+	1    4400 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY04
+U 1 1 1C9152C2
+P 6700 3500
+F 0 "#SUPPLY04" H 6700 3500 50  0001 C CNN
+F 1 "GND" H 6625 3375 59  0000 L BNN
+F 2 "" H 6700 3500 50  0001 C CNN
+F 3 "" H 6700 3500 50  0001 C CNN
+	1    6700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY05
+U 1 1 20B1DDDE
+P 7100 3900
+F 0 "#SUPPLY05" H 7100 3900 50  0001 C CNN
+F 1 "GND" H 7025 3775 59  0000 L BNN
+F 2 "" H 7100 3900 50  0001 C CNN
+F 3 "" H 7100 3900 50  0001 C CNN
+	1    7100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:2N404A Q1
+U 1 1 22BC07EB
+P 5800 4600
+F 0 "Q1" H 5900 4620 59  0000 L BNN
+F 1 "2N404A" H 5900 4530 59  0000 L BNN
+F 2 "Harmonic_Percolator:TO5" H 5800 4600 50  0001 C CNN
+F 3 "" H 5800 4600 50  0001 C CNN
+	1    5800 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:R-US_0207_7 R7
+U 1 1 EDFF6BE7
+P 5620 2200
+F 0 "R7" H 5570 2259 59  0000 L BNN
+F 1 "2.2k" H 5540 2070 59  0000 L BNN
+F 2 "Harmonic_Percolator:0207_7" H 5620 2200 50  0001 C CNN
+F 3 "" H 5620 2200 50  0001 C CNN
+	1    5620 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:LED5MM LED1
+U 1 1 7DC8C285
+P 5240 2200
+F 0 "LED1" V 5380 2020 59  0000 L BNN
+F 1 "LED5MM" V 5465 2020 59  0000 L BNN
+F 2 "Harmonic_Percolator:LED5MM" H 5240 2200 50  0001 C CNN
+F 3 "" H 5240 2200 50  0001 C CNN
+	1    5240 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:1N60A D2
+U 1 1 0CADE672
+P 6700 3200
+F 0 "D2" H 6639 3304 59  0000 L BNN
+F 1 "1N60A" H 6559 3023 59  0000 L BNN
+F 2 "Harmonic_Percolator:DO-7" H 6700 3200 50  0001 C CNN
+F 3 "" H 6700 3200 50  0001 C CNN
+	1    6700 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:1N60A D3
+U 1 1 93886C31
+P 7100 3600
+F 0 "D3" H 7039 3704 59  0000 L BNN
+F 1 "1N60A" H 6959 3423 59  0000 L BNN
+F 2 "Harmonic_Percolator:DO-7" H 7100 3600 50  0001 C CNN
+F 3 "" H 7100 3600 50  0001 C CNN
+	1    7100 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY06
+U 1 1 A7CD5EB6
+P 4100 5400
+F 0 "#SUPPLY06" H 4100 5400 50  0001 C CNN
+F 1 "GND" H 4025 5275 59  0000 L BNN
+F 2 "" H 4100 5400 50  0001 C CNN
+F 3 "" H 4100 5400 50  0001 C CNN
+	1    4100 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY07
+U 1 1 2907E397
+P 7500 3900
+F 0 "#SUPPLY07" H 7500 3900 50  0001 C CNN
+F 1 "GND" H 7425 3775 59  0000 L BNN
+F 2 "" H 7500 3900 50  0001 C CNN
+F 3 "" H 7500 3900 50  0001 C CNN
+	1    7500 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:FOOTSWITCH S1
+U 1 1 788C9994
+P 3700 4000
+F 0 "S1" H 3700 4000 50  0001 C CNN
+F 1 "FOOTSWITCH" H 3700 4000 50  0001 C CNN
+F 2 "Harmonic_Percolator:FOOTSWITCH" H 3700 4000 50  0001 C CNN
+F 3 "" H 3700 4000 50  0001 C CNN
+	1    3700 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY08
+U 1 1 39566F8A
+P 4500 4000
+F 0 "#SUPPLY08" H 4500 4000 50  0001 C CNN
+F 1 "GND" H 4425 3875 59  0000 L BNN
+F 2 "" H 4500 4000 50  0001 C CNN
+F 3 "" H 4500 4000 50  0001 C CNN
+	1    4500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:DCJACK PS1
+U 1 1 48CCC9E0
+P 4400 6100
+F 0 "PS1" H 4400 6100 50  0001 C CNN
+F 1 "DCJACK" H 4400 6100 50  0001 C CNN
+F 2 "Harmonic_Percolator:DCJACK" H 4400 6100 50  0001 C CNN
+F 3 "" H 4400 6100 50  0001 C CNN
+	1    4400 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:NEUTRIKENCJACK U$1
+U 1 1 89E33A62
+P 6300 5700
+F 0 "U$1" H 6300 5700 50  0001 C CNN
+F 1 "NEUTRIKENCJACK" H 6300 5700 50  0001 C CNN
+F 2 "Harmonic_Percolator:NEUTRIKENCJACK" H 6300 5700 50  0001 C CNN
+F 3 "" H 6300 5700 50  0001 C CNN
+	1    6300 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:NEUTRIKENCJACK U$2
+U 1 1 87B7DF34
+P 6300 6300
+F 0 "U$2" H 6300 6300 50  0001 C CNN
+F 1 "NEUTRIKENCJACK" H 6300 6300 50  0001 C CNN
+F 2 "Harmonic_Percolator:NEUTRIKENCJACK" H 6300 6300 50  0001 C CNN
+F 3 "" H 6300 6300 50  0001 C CNN
+	1    6300 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:POTSPACERS U$3
+U 1 1 6E1B97F5
+P 7500 3300
+F 0 "U$3" V 7300 3200 59  0000 L BNN
+F 1 "POTSPACERS" V 7400 3200 59  0000 L BNN
+F 2 "Harmonic_Percolator:POTSPACERS" H 7500 3300 50  0001 C CNN
+F 3 "" H 7500 3300 50  0001 C CNN
+	1    7500 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:POTSPACERS U$4
+U 1 1 649D799B
+P 4100 4600
+F 0 "U$4" V 3900 4500 59  0000 L BNN
+F 1 "POTSPACERS" V 4000 4500 59  0000 L BNN
+F 2 "Harmonic_Percolator:POTSPACERS" H 4100 4600 50  0001 C CNN
+F 3 "" H 4100 4600 50  0001 C CNN
+	1    4100 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:SMD5 PAD1
+U 1 1 BDB91568
+P 7100 4300
+F 0 "PAD1" H 7055 4373 59  0000 L BNN
+F 1 "SMD5" H 7055 4170 59  0000 L BNN
+F 2 "Harmonic_Percolator:SMD2,54-5,08" H 7100 4300 50  0001 C CNN
+F 3 "" H 7100 4300 50  0001 C CNN
+	1    7100 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L Harmonic_Percolator-eagle-import:GND #SUPPLY09
+U 1 1 B8640D54
+P 7100 4500
+F 0 "#SUPPLY09" H 7100 4500 50  0001 C CNN
+F 1 "GND" H 7025 4375 59  0000 L BNN
+F 2 "" H 7100 4500 50  0001 C CNN
+F 3 "" H 7100 4500 50  0001 C CNN
+	1    7100 4500
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

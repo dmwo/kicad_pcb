@@ -1,0 +1,111 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5500 3700 6400 3700
+Wire Wire Line
+	5800 4300 5500 4300
+Wire Wire Line
+	5800 4300 5800 3800
+Wire Wire Line
+	5800 3800 6400 3800
+Wire Wire Line
+	6300 5000 5500 5000
+Wire Wire Line
+	6300 5000 6300 4400
+Wire Wire Line
+	6300 4400 6400 4400
+Wire Wire Line
+	6200 4900 5500 4900
+Wire Wire Line
+	6200 4900 6200 4500
+Wire Wire Line
+	6200 4500 6400 4500
+Wire Wire Line
+	5600 4600 5600 3800
+Wire Wire Line
+	5600 3800 5500 3800
+Wire Wire Line
+	5600 4600 6400 4600
+Wire Wire Line
+	6400 4100 5900 4100
+Wire Wire Line
+	5900 4100 5900 3600
+Wire Wire Line
+	5900 3600 5500 3600
+Wire Wire Line
+	6400 4000 6000 4000
+Wire Wire Line
+	6000 4000 6000 3500
+Wire Wire Line
+	6000 3500 5500 3500
+Wire Wire Line
+	6400 4200 6100 4200
+Wire Wire Line
+	6100 4200 6100 3300
+Wire Wire Line
+	6100 3300 5500 3300
+Wire Wire Line
+	6400 4300 6200 4300
+Wire Wire Line
+	6200 4300 6200 3200
+Wire Wire Line
+	6200 3200 5500 3200
+Wire Wire Line
+	6400 3900 6300 3900
+Wire Wire Line
+	6300 3900 6300 3100
+Wire Wire Line
+	6300 3100 5500 3100
+Wire Wire Line
+	7100 4200 7200 4200
+Wire Wire Line
+	7200 4200 7200 3400
+Wire Wire Line
+	7200 3400 5500 3400
+$Comp
+L nixie_mount-eagle-import:TSM-108-XX-XXX-SV U$1
+U 1 1 89E33A62
+P 5500 3800
+F 0 "U$1" H 5700 3930 50  0000 L BNN
+F 1 "TSM-108-XX-XXX-SV" H 5700 2920 50  0000 L BNN
+F 2 "nixie_mount:TSM-108-XX-XXX-SV" H 5500 3800 50  0001 C CNN
+F 3 "" H 5500 3800 50  0001 C CNN
+	1    5500 3800
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_mount-eagle-import:TSM-108-XX-XXX-SV U$2
+U 1 1 87B7DF34
+P 5500 5000
+F 0 "U$2" H 5700 5130 50  0000 L BNN
+F 1 "TSM-108-XX-XXX-SV" H 5700 4120 50  0000 L BNN
+F 2 "nixie_mount:TSM-108-XX-XXX-SV" H 5500 5000 50  0001 C CNN
+F 3 "" H 5500 5000 50  0001 C CNN
+	1    5500 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_mount-eagle-import:IN-14 N1
+U 1 1 1B43B371
+P 6700 4100
+F 0 "N1" H 6600 4825 70  0000 L BNN
+F 1 "IN-14" H 6700 4100 50  0001 C CNN
+F 2 "nixie_mount:IN-14" H 6700 4100 50  0001 C CNN
+F 3 "" H 6700 4100 50  0001 C CNN
+	1    6700 4100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

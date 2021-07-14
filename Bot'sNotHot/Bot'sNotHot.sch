@@ -1,0 +1,329 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4000 2800 4000 2700
+Wire Wire Line
+	4000 2700 4900 2700
+Wire Wire Line
+	4900 2700 4900 2800
+Wire Wire Line
+	3000 3200 3000 2700
+Wire Wire Line
+	3000 2700 4000 2700
+Wire Wire Line
+	3000 2700 2700 2700
+Connection ~ 4000 2700
+Connection ~ 3000 2700
+Text Label 2700 2700 2    70   ~ 0
+VCC
+Wire Wire Line
+	7500 2800 7500 2700
+Wire Wire Line
+	7500 2700 8400 2700
+Wire Wire Line
+	8400 2700 8400 2800
+Wire Wire Line
+	6500 3200 6500 2700
+Wire Wire Line
+	6500 2700 7500 2700
+Wire Wire Line
+	6500 2700 6200 2700
+Connection ~ 7500 2700
+Connection ~ 6500 2700
+Text Label 6200 2700 2    70   ~ 0
+VCC
+Wire Wire Line
+	3900 5400 4000 5400
+Text Label 4000 5400 0    70   ~ 0
+VCC
+Wire Wire Line
+	4000 3800 4000 3900
+Wire Wire Line
+	4000 3900 4900 3900
+Wire Wire Line
+	4900 3900 4900 3800
+Wire Wire Line
+	4000 3900 3000 3900
+Wire Wire Line
+	3000 3900 3000 3500
+Wire Wire Line
+	3000 3900 2700 3900
+Connection ~ 4000 3900
+Connection ~ 3000 3900
+Text Label 2700 3900 2    70   ~ 0
+GND
+Wire Wire Line
+	7500 3800 7500 3900
+Wire Wire Line
+	7500 3900 8400 3900
+Wire Wire Line
+	8400 3900 8400 3800
+Wire Wire Line
+	7500 3900 6500 3900
+Wire Wire Line
+	6500 3900 6500 3500
+Wire Wire Line
+	6500 3900 6200 3900
+Connection ~ 7500 3900
+Connection ~ 6500 3900
+Text Label 6200 3900 2    70   ~ 0
+GND
+Wire Wire Line
+	3900 5300 4000 5300
+Text Label 4000 5300 0    70   ~ 0
+GND
+Wire Wire Line
+	3900 4500 4000 4500
+Text Label 4000 4500 0    70   ~ 0
+DC2_R
+Wire Wire Line
+	8400 3400 8400 3300
+Wire Wire Line
+	8400 3300 8400 3200
+Wire Wire Line
+	8400 3300 8300 3300
+Connection ~ 8400 3300
+Text Label 8300 3300 2    70   ~ 0
+DC2_R
+Wire Wire Line
+	3900 4600 4000 4600
+Text Label 4000 4600 0    70   ~ 0
+DC1_R
+Wire Wire Line
+	7500 3200 7500 3300
+Wire Wire Line
+	7500 3300 7500 3400
+Wire Wire Line
+	7500 3300 7600 3300
+Connection ~ 7500 3300
+Text Label 7600 3300 0    70   ~ 0
+DC1_R
+Wire Wire Line
+	3900 4700 4000 4700
+Text Label 4000 4700 0    70   ~ 0
+DC2_L
+Wire Wire Line
+	4900 3400 4900 3300
+Wire Wire Line
+	4900 3300 4900 3200
+Wire Wire Line
+	4900 3300 4800 3300
+Connection ~ 4900 3300
+Text Label 4800 3300 2    70   ~ 0
+DC2_L
+Wire Wire Line
+	3900 4800 4000 4800
+Text Label 4000 4800 0    70   ~ 0
+DC1_L
+Wire Wire Line
+	4000 3200 4000 3300
+Wire Wire Line
+	4000 3300 4000 3400
+Wire Wire Line
+	4000 3300 4100 3300
+Connection ~ 4000 3300
+Text Label 4100 3300 0    70   ~ 0
+DC1_L
+Wire Wire Line
+	3900 4900 4000 4900
+Text Label 4000 4900 0    70   ~ 0
+B2_R
+Wire Wire Line
+	8600 3000 8700 3000
+Wire Wire Line
+	8700 3000 8700 3300
+Wire Wire Line
+	8700 3300 8700 3600
+Wire Wire Line
+	8700 3600 8600 3600
+Wire Wire Line
+	8700 3300 8800 3300
+Connection ~ 8700 3300
+Text Label 8800 3300 0    70   ~ 0
+B2_R
+Wire Wire Line
+	3900 5000 4000 5000
+Text Label 4000 5000 0    70   ~ 0
+B1_R
+Wire Wire Line
+	7300 3000 7200 3000
+Wire Wire Line
+	7200 3000 7200 3300
+Wire Wire Line
+	7200 3300 7200 3600
+Wire Wire Line
+	7200 3600 7300 3600
+Wire Wire Line
+	7200 3300 7100 3300
+Connection ~ 7200 3300
+Text Label 7100 3300 2    70   ~ 0
+B1_R
+Wire Wire Line
+	3900 5100 4000 5100
+Text Label 4000 5100 0    70   ~ 0
+B2_L
+Wire Wire Line
+	5100 3000 5200 3000
+Wire Wire Line
+	5200 3000 5200 3300
+Wire Wire Line
+	5200 3300 5200 3600
+Wire Wire Line
+	5200 3600 5100 3600
+Wire Wire Line
+	5200 3300 5300 3300
+Connection ~ 5200 3300
+Text Label 5300 3300 0    70   ~ 0
+B2_L
+Wire Wire Line
+	3900 5200 4000 5200
+Text Label 4000 5200 0    70   ~ 0
+B1_L
+Wire Wire Line
+	3800 3000 3700 3000
+Wire Wire Line
+	3700 3000 3700 3300
+Wire Wire Line
+	3700 3300 3700 3600
+Wire Wire Line
+	3700 3600 3800 3600
+Wire Wire Line
+	3700 3300 3600 3300
+Connection ~ 3700 3300
+Text Label 3600 3300 2    70   ~ 0
+B1_L
+$Comp
+L Bot'sNotHot-eagle-import:CPOL-US140CLH-1010 C1
+U 1 1 AE03ECD7
+P 3000 3300
+F 0 "C1" H 3040 3325 59  0000 L BNN
+F 1 "47 uF" H 3040 3135 59  0000 L BNN
+F 2 "Bot'sNotHot:140CLH-1010" H 3000 3300 50  0001 C CNN
+F 3 "" H 3000 3300 50  0001 C CNN
+	1    3000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSA473 Q3
+U 1 1 9A1C1EBA
+P 3900 3600
+F 0 "Q3" H 3500 3900 59  0000 L BNN
+F 1 "KSA473" H 3500 3800 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 3900 3600 50  0001 C CNN
+F 3 "" H 3900 3600 50  0001 C CNN
+	1    3900 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSA473 Q4
+U 1 1 22452E8B
+P 5000 3600
+F 0 "Q4" H 4600 3900 59  0000 L BNN
+F 1 "KSA473" H 4600 3800 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 5000 3600 50  0001 C CNN
+F 3 "" H 5000 3600 50  0001 C CNN
+	1    5000 3600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSC1173 Q1
+U 1 1 22BC07EB
+P 3900 3000
+F 0 "Q1" H 3500 3300 59  0000 L BNN
+F 1 "KSC1173" H 3500 3200 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 3900 3000 50  0001 C CNN
+F 3 "" H 3900 3000 50  0001 C CNN
+	1    3900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSC1173 Q2
+U 1 1 FC4D4FCD
+P 5000 3000
+F 0 "Q2" H 4600 3300 59  0000 L BNN
+F 1 "KSC1173" H 4600 3200 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 5000 3000 50  0001 C CNN
+F 3 "" H 5000 3000 50  0001 C CNN
+	1    5000 3000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:CPOL-US140CLH-1010 C2
+U 1 1 CA875E67
+P 6500 3300
+F 0 "C2" H 6540 3325 59  0000 L BNN
+F 1 "47 uF" H 6540 3135 59  0000 L BNN
+F 2 "Bot'sNotHot:140CLH-1010" H 6500 3300 50  0001 C CNN
+F 3 "" H 6500 3300 50  0001 C CNN
+	1    6500 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSA473 Q7
+U 1 1 6A33A87D
+P 7400 3600
+F 0 "Q7" H 7000 3900 59  0000 L BNN
+F 1 "KSA473" H 7000 3800 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 7400 3600 50  0001 C CNN
+F 3 "" H 7400 3600 50  0001 C CNN
+	1    7400 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSA473 Q8
+U 1 1 2D2CC871
+P 8500 3600
+F 0 "Q8" H 8100 3900 59  0000 L BNN
+F 1 "KSA473" H 8100 3800 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 8500 3600 50  0001 C CNN
+F 3 "" H 8500 3600 50  0001 C CNN
+	1    8500 3600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSC1173 Q5
+U 1 1 A335FF6A
+P 7400 3000
+F 0 "Q5" H 7000 3300 59  0000 L BNN
+F 1 "KSC1173" H 7000 3200 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 7400 3000 50  0001 C CNN
+F 3 "" H 7400 3000 50  0001 C CNN
+	1    7400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:KSC1173 Q6
+U 1 1 97620144
+P 8500 3000
+F 0 "Q6" H 8100 3300 59  0000 L BNN
+F 1 "KSC1173" H 8100 3200 59  0000 L BNN
+F 2 "Bot'sNotHot:MOSFET_HEATSINK" H 8500 3000 50  0001 C CNN
+F 3 "" H 8500 3000 50  0001 C CNN
+	1    8500 3000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Bot'sNotHot-eagle-import:FE10-1 SV1
+U 1 1 1FCB83CC
+P 3600 5000
+F 0 "SV1" H 3550 5630 59  0000 L BNN
+F 1 "FE10-1" H 3550 4400 59  0000 L BNN
+F 2 "Bot'sNotHot:FE10" H 3600 5000 50  0001 C CNN
+F 3 "" H 3600 5000 50  0001 C CNN
+	1    3600 5000
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

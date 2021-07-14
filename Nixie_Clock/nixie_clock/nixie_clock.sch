@@ -1,0 +1,3412 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 16769 13251
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	2950 9800 2950 9900
+Text Label 2950 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	3350 9800 3350 9900
+Text Label 3350 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	2750 11200 2750 11400
+Text Label 2750 11200 0    10   ~ 0
+GND
+Wire Wire Line
+	3150 11300 3150 11400
+Text Label 3150 11300 0    10   ~ 0
+GND
+Wire Wire Line
+	2550 11700 2550 11800
+Text Label 2550 11700 0    10   ~ 0
+GND
+Wire Wire Line
+	3950 11300 3950 11400
+Text Label 3950 11300 0    10   ~ 0
+GND
+Wire Wire Line
+	3650 10700 3650 10800
+Text Label 3650 10700 0    10   ~ 0
+GND
+Wire Wire Line
+	5150 11400 5150 11500
+Text Label 5150 11400 0    10   ~ 0
+GND
+Wire Wire Line
+	5550 9800 5550 9900
+Text Label 5550 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	5950 9800 5950 9900
+Text Label 5950 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	6150 11400 6150 11500
+Text Label 6150 11400 0    10   ~ 0
+GND
+Wire Wire Line
+	7350 11400 7350 11500
+Text Label 7350 11400 0    10   ~ 0
+GND
+Wire Wire Line
+	7750 9800 7750 9900
+Text Label 7750 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	2050 5750 2050 5850
+Text Label 2050 5750 0    10   ~ 0
+GND
+Wire Wire Line
+	4000 8250 4000 8350
+Text Label 4000 8250 0    10   ~ 0
+GND
+Wire Wire Line
+	2050 8250 2050 8350
+Text Label 2050 8250 0    10   ~ 0
+GND
+Wire Wire Line
+	4000 3250 4000 3350
+Text Label 4000 3250 0    10   ~ 0
+GND
+Wire Wire Line
+	2050 3250 2050 3350
+Text Label 2050 3250 0    10   ~ 0
+GND
+Wire Wire Line
+	4000 5750 4000 5850
+Text Label 4000 5750 0    10   ~ 0
+GND
+Wire Wire Line
+	9450 3200 9450 3600
+Wire Wire Line
+	9450 3600 8650 3600
+Wire Wire Line
+	8650 3600 8650 3500
+Wire Wire Line
+	8650 3600 8650 3700
+Connection ~ 8650 3600
+Text Label 9450 3200 0    10   ~ 0
+GND
+Wire Wire Line
+	9450 5200 9450 5600
+Wire Wire Line
+	9450 5600 8650 5600
+Wire Wire Line
+	8650 5600 8650 5500
+Wire Wire Line
+	8650 5600 8650 5700
+Connection ~ 8650 5600
+Text Label 9450 5200 0    10   ~ 0
+GND
+Wire Wire Line
+	9450 7200 9450 7600
+Wire Wire Line
+	9450 7600 8650 7600
+Wire Wire Line
+	8650 7600 8650 7500
+Wire Wire Line
+	8650 7600 8650 7700
+Connection ~ 8650 7600
+Text Label 9450 7200 0    10   ~ 0
+GND
+Wire Wire Line
+	1550 9500 1650 9500
+Wire Wire Line
+	1650 9500 1650 9600
+Text Label 1550 9500 0    10   ~ 0
+GND
+Wire Wire Line
+	8700 10500 8700 10600
+Text Label 8700 10500 0    10   ~ 0
+GND
+Wire Wire Line
+	9100 9800 9100 10600
+Text Label 9100 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	9500 9800 9500 10600
+Text Label 9500 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	9900 9800 9900 10600
+Text Label 9900 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	10900 9800 10900 10600
+Text Label 10900 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	11300 9800 11300 10600
+Text Label 11300 9800 0    10   ~ 0
+GND
+Wire Wire Line
+	6300 2400 6800 2400
+Wire Wire Line
+	6800 2400 6800 3200
+Wire Wire Line
+	6800 3200 6800 4900
+Wire Wire Line
+	6800 4900 6300 4900
+Wire Wire Line
+	6800 4900 6800 5700
+Wire Wire Line
+	6800 5700 6800 7400
+Wire Wire Line
+	6800 7400 6300 7400
+Wire Wire Line
+	6800 7400 6800 8200
+Wire Wire Line
+	5800 3100 5800 3200
+Wire Wire Line
+	5800 3200 6800 3200
+Wire Wire Line
+	5800 5600 5800 5700
+Wire Wire Line
+	5800 5700 6800 5700
+Wire Wire Line
+	5800 8100 5800 8200
+Wire Wire Line
+	5800 8200 6800 8200
+Wire Wire Line
+	5800 8250 5800 8200
+Wire Wire Line
+	7000 3100 7000 3200
+Wire Wire Line
+	7000 3200 6800 3200
+Wire Wire Line
+	7000 5600 7000 5700
+Wire Wire Line
+	7000 5700 6800 5700
+Wire Wire Line
+	7000 8100 7000 8200
+Wire Wire Line
+	7000 8200 6800 8200
+Connection ~ 6800 4900
+Connection ~ 6800 7400
+Connection ~ 6800 3200
+Connection ~ 6800 5700
+Connection ~ 5800 8200
+Connection ~ 6800 8200
+Text Label 6300 2400 0    10   ~ 0
+GND
+Wire Wire Line
+	14150 3900 14150 4000
+Text Label 14150 3900 0    10   ~ 0
+GND
+Wire Wire Line
+	12450 3200 12450 3300
+Text Label 12450 3200 0    10   ~ 0
+GND
+Wire Wire Line
+	12300 4200 12450 4200
+Wire Wire Line
+	12450 4200 12450 4250
+Wire Wire Line
+	12450 4250 12550 4250
+Text Label 12550 4250 0    70   ~ 0
+GND
+Wire Wire Line
+	13800 6700 13800 6900
+Wire Wire Line
+	13800 6900 13800 7000
+Wire Wire Line
+	13300 6800 13300 6900
+Wire Wire Line
+	13300 6900 13800 6900
+Connection ~ 13800 6900
+Text Label 13800 6700 0    10   ~ 0
+GND
+Wire Wire Line
+	13100 8450 13000 8450
+Wire Wire Line
+	13000 8450 13000 8850
+Wire Wire Line
+	13000 8850 13000 9250
+Wire Wire Line
+	13000 9250 13000 9650
+Wire Wire Line
+	13000 9650 13000 10050
+Wire Wire Line
+	13000 10050 13100 10050
+Wire Wire Line
+	13100 9650 13000 9650
+Wire Wire Line
+	13100 9250 13000 9250
+Wire Wire Line
+	13100 8850 13000 8850
+Wire Wire Line
+	13000 10050 13000 10250
+Connection ~ 13000 9650
+Connection ~ 13000 9250
+Connection ~ 13000 8850
+Connection ~ 13000 10050
+Text Label 13100 8450 0    10   ~ 0
+GND
+Wire Wire Line
+	5400 1550 5400 1600
+Wire Wire Line
+	5400 1600 5200 1600
+Wire Wire Line
+	5200 1600 5000 1600
+Wire Wire Line
+	5000 1600 4800 1600
+Wire Wire Line
+	4800 1600 4600 1600
+Wire Wire Line
+	4600 1600 4600 1550
+Wire Wire Line
+	4800 1550 4800 1600
+Wire Wire Line
+	5000 1550 5000 1600
+Wire Wire Line
+	5200 1550 5200 1600
+Wire Wire Line
+	5600 1550 5600 1600
+Wire Wire Line
+	5600 1600 5400 1600
+Wire Wire Line
+	4600 1600 4600 1650
+Connection ~ 4800 1600
+Connection ~ 5000 1600
+Connection ~ 5200 1600
+Connection ~ 5400 1600
+Connection ~ 4600 1600
+Text Label 5400 1550 0    10   ~ 0
+GND
+Wire Wire Line
+	12700 6100 12550 6100
+Wire Wire Line
+	12550 6100 12550 6400
+Wire Wire Line
+	12550 6400 12700 6400
+Wire Wire Line
+	12550 6400 12550 6500
+Connection ~ 12550 6400
+Text Label 12700 6100 0    10   ~ 0
+GND
+Wire Wire Line
+	2550 9900 2550 10600
+Wire Wire Line
+	2550 10600 2850 10600
+Wire Wire Line
+	2550 10600 2550 10800
+Wire Wire Line
+	2550 10800 2550 11300
+Wire Wire Line
+	2750 10900 2750 10800
+Wire Wire Line
+	2750 10800 2550 10800
+Wire Wire Line
+	2750 10800 3150 10800
+Wire Wire Line
+	3150 10800 3150 10900
+Connection ~ 2550 10600
+Connection ~ 2550 10800
+Connection ~ 2750 10800
+Wire Wire Line
+	2350 11500 2050 11500
+Wire Wire Line
+	2050 9900 2050 11500
+Wire Wire Line
+	2050 11500 1950 11500
+Connection ~ 2050 11500
+Wire Wire Line
+	5150 10400 5150 9300
+Wire Wire Line
+	5150 9300 4550 9300
+Wire Wire Line
+	5150 9300 5550 9300
+Wire Wire Line
+	5550 9300 5550 9500
+Wire Wire Line
+	5550 9300 5950 9300
+Wire Wire Line
+	5950 9300 5950 9500
+Wire Wire Line
+	6350 9300 5950 9300
+Connection ~ 5150 9300
+Connection ~ 5550 9300
+Connection ~ 5950 9300
+Wire Wire Line
+	3650 10400 3650 10300
+Wire Wire Line
+	3650 10300 3950 10300
+Wire Wire Line
+	3950 10300 3950 10400
+Wire Wire Line
+	3950 10300 4250 10300
+Wire Wire Line
+	4250 10300 4250 10600
+Wire Wire Line
+	4650 10600 4250 10600
+Wire Wire Line
+	4250 10300 5750 10300
+Connection ~ 3950 10300
+Connection ~ 4250 10300
+Wire Wire Line
+	3950 10800 3950 10900
+Wire Wire Line
+	3950 10900 3950 11000
+Wire Wire Line
+	3950 10900 4650 10900
+Connection ~ 3950 10900
+Wire Wire Line
+	3050 10600 3450 10600
+Wire Wire Line
+	3450 10600 3450 11700
+Wire Wire Line
+	3450 11700 4250 11700
+Wire Wire Line
+	4250 11700 4250 11200
+Wire Wire Line
+	4250 11200 4650 11200
+Wire Wire Line
+	3450 11700 3450 11900
+Wire Wire Line
+	3450 11900 3650 11900
+Wire Wire Line
+	3450 11900 3450 12200
+Wire Wire Line
+	3450 12200 3650 12200
+Connection ~ 3450 11700
+Connection ~ 3450 11900
+Wire Wire Line
+	5750 10600 5650 10600
+Wire Wire Line
+	6150 10300 6350 10300
+Wire Wire Line
+	6350 10300 6350 10900
+Wire Wire Line
+	6350 10900 6150 10900
+Wire Wire Line
+	6150 10900 5650 10900
+Wire Wire Line
+	6150 10900 6150 11100
+Wire Wire Line
+	6350 10900 6550 10900
+Connection ~ 6150 10900
+Connection ~ 6350 10900
+Wire Wire Line
+	3950 12200 4050 12200
+Wire Wire Line
+	4050 11900 4550 11900
+Wire Wire Line
+	4550 11900 4550 12200
+Wire Wire Line
+	4550 12200 4450 12200
+Wire Wire Line
+	5650 11200 5750 11200
+Wire Wire Line
+	5750 11200 5750 12200
+Wire Wire Line
+	5750 12200 4550 12200
+Wire Wire Line
+	5750 12200 8250 12200
+Wire Wire Line
+	8250 12200 8250 10000
+Wire Wire Line
+	8250 10000 8250 9800
+Wire Wire Line
+	8700 9850 8700 10000
+Wire Wire Line
+	8700 10000 8250 10000
+Wire Wire Line
+	8700 10000 8700 10100
+Connection ~ 4550 12200
+Connection ~ 5750 12200
+Connection ~ 8250 10000
+Connection ~ 8700 10000
+Wire Wire Line
+	6150 10600 6900 10600
+Wire Wire Line
+	6900 10600 6900 10500
+Wire Wire Line
+	7050 10500 7050 10600
+Wire Wire Line
+	7050 10600 7200 10600
+Wire Wire Line
+	7200 10600 7200 10500
+Wire Wire Line
+	7350 10500 7350 10600
+Wire Wire Line
+	7350 10600 7200 10600
+Wire Wire Line
+	7350 10600 7350 10900
+Wire Wire Line
+	7350 10900 6950 10900
+Wire Wire Line
+	7350 10900 7350 11000
+Connection ~ 7200 10600
+Connection ~ 7350 10600
+Connection ~ 7350 10900
+Wire Wire Line
+	6900 9700 6900 9600
+Wire Wire Line
+	6900 9600 7050 9600
+Wire Wire Line
+	7050 9600 7050 9700
+Wire Wire Line
+	7050 9600 7200 9600
+Wire Wire Line
+	7200 9600 7200 9700
+Wire Wire Line
+	7350 9700 7350 9600
+Wire Wire Line
+	7350 9600 7200 9600
+Wire Wire Line
+	7350 9600 7350 9300
+Wire Wire Line
+	7350 9300 7750 9300
+Wire Wire Line
+	7750 9300 7750 9500
+Wire Wire Line
+	7900 9300 7750 9300
+Wire Wire Line
+	6950 9300 7350 9300
+Connection ~ 7050 9600
+Connection ~ 7200 9600
+Connection ~ 7350 9600
+Connection ~ 7750 9300
+Connection ~ 7350 9300
+Wire Wire Line
+	4000 1950 4000 1850
+Text Label 4000 1950 0    10   ~ 0
++5V
+Wire Wire Line
+	2050 4450 2050 4350
+Text Label 2050 4450 0    10   ~ 0
++5V
+Wire Wire Line
+	4000 6950 4000 6850
+Text Label 4000 6950 0    10   ~ 0
++5V
+Wire Wire Line
+	2050 6950 2050 6850
+Text Label 2050 6950 0    10   ~ 0
++5V
+Wire Wire Line
+	2050 1950 2050 1850
+Text Label 2050 1950 0    10   ~ 0
++5V
+Wire Wire Line
+	4000 4450 4000 4350
+Text Label 4000 4450 0    10   ~ 0
++5V
+Wire Wire Line
+	2950 9500 2950 9300
+Wire Wire Line
+	2950 9300 3350 9300
+Wire Wire Line
+	3350 9300 3350 9500
+Wire Wire Line
+	2550 9500 2550 9300
+Wire Wire Line
+	2550 9300 2950 9300
+Wire Wire Line
+	2050 9500 2050 9300
+Wire Wire Line
+	2050 9300 2550 9300
+Wire Wire Line
+	3950 9300 3350 9300
+Wire Wire Line
+	2050 9300 2050 9200
+Wire Wire Line
+	1550 9300 2050 9300
+Connection ~ 2950 9300
+Connection ~ 2550 9300
+Connection ~ 3350 9300
+Connection ~ 2050 9300
+Text Label 2950 9500 0    10   ~ 0
++5V
+Wire Wire Line
+	6300 2700 6500 2700
+Wire Wire Line
+	6500 2700 6500 4400
+Wire Wire Line
+	6500 4400 6500 5200
+Wire Wire Line
+	6500 5200 6300 5200
+Wire Wire Line
+	6500 5200 6500 6900
+Wire Wire Line
+	6500 6900 6500 7700
+Wire Wire Line
+	6500 7700 6300 7700
+Wire Wire Line
+	6500 2700 7000 2700
+Wire Wire Line
+	7000 2700 7000 1900
+Wire Wire Line
+	5800 4500 5800 4400
+Wire Wire Line
+	5800 4400 6500 4400
+Wire Wire Line
+	5800 7000 5800 6900
+Wire Wire Line
+	5800 6900 6500 6900
+Wire Wire Line
+	5800 2000 5800 1900
+Wire Wire Line
+	5800 1900 7000 1900
+Wire Wire Line
+	5800 1900 5800 1850
+Wire Wire Line
+	7000 2700 7000 2800
+Wire Wire Line
+	6500 4400 7000 4400
+Wire Wire Line
+	7000 4400 7000 5300
+Wire Wire Line
+	6500 6900 7000 6900
+Wire Wire Line
+	7000 6900 7000 7800
+Connection ~ 6500 5200
+Connection ~ 6500 2700
+Connection ~ 6500 4400
+Connection ~ 6500 6900
+Connection ~ 5800 1900
+Connection ~ 7000 2700
+Text Label 6300 2700 0    10   ~ 0
++5V
+Wire Wire Line
+	14150 1900 14150 1800
+Text Label 14150 1900 0    10   ~ 0
++5V
+Wire Wire Line
+	12450 1850 12450 1750
+Text Label 12450 1850 0    10   ~ 0
++5V
+Wire Wire Line
+	12300 4300 12400 4300
+Wire Wire Line
+	12400 4300 12400 4400
+Wire Wire Line
+	12400 4400 12550 4400
+Text Label 12550 4400 0    70   ~ 0
++5V
+Wire Wire Line
+	13800 5900 13800 5500
+Wire Wire Line
+	13800 5500 13800 5400
+Wire Wire Line
+	14800 5600 14800 5500
+Wire Wire Line
+	14500 5600 14500 5500
+Wire Wire Line
+	14800 5500 14500 5500
+Wire Wire Line
+	14500 5500 13800 5500
+Wire Wire Line
+	13800 5500 13300 5500
+Wire Wire Line
+	13300 5500 13300 6500
+Connection ~ 14500 5500
+Connection ~ 13800 5500
+Text Label 13800 5900 0    10   ~ 0
++5V
+Wire Wire Line
+	14300 8450 14400 8450
+Wire Wire Line
+	14400 8450 14400 8850
+Wire Wire Line
+	14400 8850 14400 9250
+Wire Wire Line
+	14400 9250 14400 9650
+Wire Wire Line
+	14400 9650 14400 10050
+Wire Wire Line
+	14400 10050 14300 10050
+Wire Wire Line
+	14300 9650 14400 9650
+Wire Wire Line
+	14300 9250 14400 9250
+Wire Wire Line
+	14300 8850 14400 8850
+Wire Wire Line
+	14400 8450 14400 8050
+Connection ~ 14400 9650
+Connection ~ 14400 9250
+Connection ~ 14400 8850
+Connection ~ 14400 8450
+Text Label 14300 8450 0    10   ~ 0
++5V
+Wire Wire Line
+	4600 1150 4600 1200
+Wire Wire Line
+	4600 1200 4600 1250
+Wire Wire Line
+	4600 1200 4800 1200
+Wire Wire Line
+	4800 1200 4800 1250
+Wire Wire Line
+	4800 1200 5000 1200
+Wire Wire Line
+	5000 1200 5000 1250
+Wire Wire Line
+	5000 1200 5200 1200
+Wire Wire Line
+	5200 1200 5200 1250
+Wire Wire Line
+	5200 1200 5400 1200
+Wire Wire Line
+	5400 1200 5400 1250
+Wire Wire Line
+	5600 1250 5600 1200
+Wire Wire Line
+	5600 1200 5400 1200
+Connection ~ 4600 1200
+Connection ~ 4800 1200
+Connection ~ 5000 1200
+Connection ~ 5200 1200
+Connection ~ 5400 1200
+Text Label 4600 1150 0    10   ~ 0
++5V
+Wire Wire Line
+	1650 2150 1750 2150
+Wire Wire Line
+	1750 2250 1650 2250
+Wire Wire Line
+	1650 2350 1750 2350
+Wire Wire Line
+	1750 2450 1650 2450
+Wire Wire Line
+	1650 2550 1750 2550
+Wire Wire Line
+	1750 2650 1650 2650
+Wire Wire Line
+	1650 2750 1750 2750
+Wire Wire Line
+	1750 2850 1650 2850
+Wire Wire Line
+	1650 2950 1750 2950
+Wire Wire Line
+	1750 3050 1650 3050
+Wire Wire Line
+	1350 1950 1350 1850
+Wire Wire Line
+	3200 1950 3200 1850
+Wire Wire Line
+	3500 2150 3700 2150
+Wire Wire Line
+	3500 2250 3700 2250
+Wire Wire Line
+	3500 2350 3700 2350
+Wire Wire Line
+	3500 2450 3700 2450
+Wire Wire Line
+	3500 2550 3700 2550
+Wire Wire Line
+	3500 2650 3700 2650
+Wire Wire Line
+	3500 2750 3700 2750
+Wire Wire Line
+	3500 2850 3700 2850
+Wire Wire Line
+	3500 2950 3700 2950
+Wire Wire Line
+	3500 3050 3700 3050
+Wire Wire Line
+	1350 4450 1350 4350
+Wire Wire Line
+	1650 4650 1750 4650
+Wire Wire Line
+	1650 4750 1750 4750
+Wire Wire Line
+	1650 4850 1750 4850
+Wire Wire Line
+	1650 4950 1750 4950
+Wire Wire Line
+	1650 5050 1750 5050
+Wire Wire Line
+	1650 5150 1750 5150
+Wire Wire Line
+	1650 5250 1750 5250
+Wire Wire Line
+	1650 5350 1750 5350
+Wire Wire Line
+	1650 5450 1750 5450
+Wire Wire Line
+	1650 5550 1750 5550
+Wire Wire Line
+	3200 4450 3200 4350
+Wire Wire Line
+	3500 4650 3700 4650
+Wire Wire Line
+	3500 4750 3700 4750
+Wire Wire Line
+	3500 4850 3700 4850
+Wire Wire Line
+	3500 4950 3700 4950
+Wire Wire Line
+	3500 5050 3700 5050
+Wire Wire Line
+	3500 5150 3700 5150
+Wire Wire Line
+	3500 5250 3700 5250
+Wire Wire Line
+	3500 5350 3700 5350
+Wire Wire Line
+	3500 5450 3700 5450
+Wire Wire Line
+	3500 5550 3700 5550
+Wire Wire Line
+	1350 6950 1350 6850
+Wire Wire Line
+	1650 7150 1750 7150
+Wire Wire Line
+	1650 7250 1750 7250
+Wire Wire Line
+	1650 7350 1750 7350
+Wire Wire Line
+	1650 7450 1750 7450
+Wire Wire Line
+	1650 7550 1750 7550
+Wire Wire Line
+	1650 7650 1750 7650
+Wire Wire Line
+	1650 7750 1750 7750
+Wire Wire Line
+	1650 7850 1750 7850
+Wire Wire Line
+	1650 7950 1750 7950
+Wire Wire Line
+	1650 8050 1750 8050
+Wire Wire Line
+	3200 6950 3200 6850
+Wire Wire Line
+	3500 7150 3700 7150
+Wire Wire Line
+	3500 7250 3700 7250
+Wire Wire Line
+	3500 7350 3700 7350
+Wire Wire Line
+	3500 7450 3700 7450
+Wire Wire Line
+	3500 7550 3700 7550
+Wire Wire Line
+	3500 7650 3700 7650
+Wire Wire Line
+	3500 7750 3700 7750
+Wire Wire Line
+	3500 7850 3700 7850
+Wire Wire Line
+	3500 7950 3700 7950
+Wire Wire Line
+	3500 8050 3700 8050
+Wire Wire Line
+	9450 2200 9450 2100
+Wire Wire Line
+	9450 2100 10250 2100
+Wire Wire Line
+	10250 2100 10250 2500
+Wire Wire Line
+	10250 2100 10250 2000
+Connection ~ 10250 2100
+Text Label 9450 2200 0    10   ~ 0
++160V
+Wire Wire Line
+	9450 4200 9450 4100
+Wire Wire Line
+	9450 4100 10250 4100
+Wire Wire Line
+	10250 4100 10250 4500
+Wire Wire Line
+	10250 4100 10250 4000
+Connection ~ 10250 4100
+Text Label 9450 4200 0    10   ~ 0
++160V
+Wire Wire Line
+	9450 6200 9450 6100
+Wire Wire Line
+	9450 6100 10250 6100
+Wire Wire Line
+	10250 6100 10250 6500
+Wire Wire Line
+	10250 6100 10250 6000
+Connection ~ 10250 6100
+Text Label 9450 6200 0    10   ~ 0
++160V
+Wire Wire Line
+	10900 9300 10900 9500
+Wire Wire Line
+	11300 9500 11300 9300
+Wire Wire Line
+	11300 9300 10900 9300
+Wire Wire Line
+	11300 9300 11300 9200
+Wire Wire Line
+	10700 9300 10900 9300
+Connection ~ 11300 9300
+Connection ~ 10900 9300
+Text Label 10900 9300 0    10   ~ 0
++160V
+Wire Wire Line
+	8750 7000 8650 7000
+Wire Wire Line
+	8650 7000 8550 7000
+Wire Wire Line
+	8650 7100 8650 7000
+Connection ~ 8650 7000
+Text Label 8550 7000 2    70   ~ 0
+SW_SY
+Wire Wire Line
+	14950 3500 15050 3500
+Text Label 15050 3500 0    70   ~ 0
+SW_SY
+Wire Wire Line
+	10250 6900 10250 7000
+Wire Wire Line
+	10250 7000 10350 7000
+Text Label 10350 7000 0    70   ~ 0
+V_SEC/YR
+Wire Wire Line
+	3200 6450 3200 6350
+Wire Wire Line
+	3200 6350 3300 6350
+Wire Wire Line
+	1350 6350 1350 6450
+Wire Wire Line
+	1350 6350 3200 6350
+Text Label 3300 6350 0    70   ~ 0
+V_SEC/YR
+Connection ~ 3200 6350
+Wire Wire Line
+	10250 2900 10250 3000
+Wire Wire Line
+	10250 3000 10350 3000
+Text Label 10350 3000 0    70   ~ 0
+V_HR/DAY
+Wire Wire Line
+	3200 1350 3200 1450
+Wire Wire Line
+	3200 1350 3300 1350
+Wire Wire Line
+	1350 1450 1350 1350
+Wire Wire Line
+	1350 1350 3200 1350
+Text Label 3300 1350 0    70   ~ 0
+V_HR/DAY
+Connection ~ 3200 1350
+Wire Wire Line
+	10250 4900 10250 5000
+Wire Wire Line
+	10250 5000 10350 5000
+Text Label 10350 5000 0    70   ~ 0
+V_MIN/MONTH
+Wire Wire Line
+	3200 3850 3200 3950
+Wire Wire Line
+	3200 3850 3300 3850
+Wire Wire Line
+	1350 3950 1350 3850
+Wire Wire Line
+	1350 3850 3200 3850
+Text Label 3300 3850 0    70   ~ 0
+V_MIN/MONTH
+Connection ~ 3200 3850
+Wire Wire Line
+	8750 3000 8650 3000
+Wire Wire Line
+	8650 3000 8550 3000
+Wire Wire Line
+	8650 3100 8650 3000
+Connection ~ 8650 3000
+Text Label 8550 3000 2    70   ~ 0
+SW_HD
+Wire Wire Line
+	15250 1400 15350 1400
+Text Label 15350 1400 0    70   ~ 0
+SW_HD
+Wire Wire Line
+	8750 5000 8650 5000
+Wire Wire Line
+	8650 5000 8550 5000
+Wire Wire Line
+	8650 5100 8650 5000
+Connection ~ 8650 5000
+Text Label 8550 5000 2    70   ~ 0
+SW_MM
+Wire Wire Line
+	14950 3300 15050 3300
+Text Label 15050 3300 0    70   ~ 0
+SW_MM
+Wire Wire Line
+	9450 6800 9450 6700
+Wire Wire Line
+	9450 6700 9450 6600
+Wire Wire Line
+	9550 6700 9450 6700
+Connection ~ 9450 6700
+Wire Wire Line
+	9450 4800 9450 4700
+Wire Wire Line
+	9450 4700 9450 4600
+Wire Wire Line
+	9550 4700 9450 4700
+Connection ~ 9450 4700
+Wire Wire Line
+	9450 2800 9450 2700
+Wire Wire Line
+	9450 2700 9450 2600
+Wire Wire Line
+	9550 2700 9450 2700
+Connection ~ 9450 2700
+Wire Wire Line
+	10050 2700 9950 2700
+Wire Wire Line
+	10050 4700 9950 4700
+Wire Wire Line
+	10050 6700 9950 6700
+Wire Wire Line
+	9250 3000 9150 3000
+Wire Wire Line
+	9250 5000 9150 5000
+Wire Wire Line
+	9250 7000 9150 7000
+Wire Wire Line
+	8100 9300 8250 9300
+Wire Wire Line
+	8250 9300 8250 9500
+Wire Wire Line
+	8250 9300 8700 9300
+Wire Wire Line
+	8700 9300 8700 9450
+Wire Wire Line
+	9100 9500 9100 9300
+Wire Wire Line
+	9100 9300 8700 9300
+Wire Wire Line
+	9500 9500 9500 9300
+Wire Wire Line
+	9500 9300 9100 9300
+Wire Wire Line
+	9900 9500 9900 9300
+Wire Wire Line
+	9900 9300 9500 9300
+Wire Wire Line
+	10100 9300 9900 9300
+Connection ~ 8700 9300
+Connection ~ 9100 9300
+Connection ~ 9500 9300
+Connection ~ 9900 9300
+Wire Wire Line
+	13700 8450 13600 8450
+Wire Wire Line
+	13600 8450 13500 8450
+Wire Wire Line
+	13600 8450 13600 8650
+Wire Wire Line
+	13600 8650 13700 8650
+Connection ~ 13600 8450
+Text Label 13700 8650 0    70   ~ 0
+UP
+Wire Wire Line
+	13350 3700 13250 3700
+Text Label 13250 3700 2    70   ~ 0
+UP
+Wire Wire Line
+	13500 8850 13600 8850
+Wire Wire Line
+	13600 8850 13700 8850
+Wire Wire Line
+	13600 8850 13600 9050
+Wire Wire Line
+	13600 9050 13700 9050
+Connection ~ 13600 8850
+Text Label 13700 9050 0    70   ~ 0
+DOWN
+Wire Wire Line
+	13350 3500 13250 3500
+Text Label 13250 3500 2    70   ~ 0
+DOWN
+Wire Wire Line
+	13700 9250 13600 9250
+Wire Wire Line
+	13600 9250 13500 9250
+Wire Wire Line
+	13600 9250 13600 9450
+Wire Wire Line
+	13600 9450 13700 9450
+Connection ~ 13600 9250
+Text Label 13700 9450 0    70   ~ 0
+LEFT
+Wire Wire Line
+	13350 3300 13250 3300
+Text Label 13250 3300 2    70   ~ 0
+LEFT
+Wire Wire Line
+	13700 9650 13600 9650
+Wire Wire Line
+	13600 9650 13500 9650
+Wire Wire Line
+	13600 9650 13600 9850
+Wire Wire Line
+	13600 9850 13700 9850
+Connection ~ 13600 9650
+Text Label 13700 9850 0    70   ~ 0
+RIGHT
+Wire Wire Line
+	13350 3100 13250 3100
+Text Label 13250 3100 2    70   ~ 0
+RIGHT
+Wire Wire Line
+	13700 10050 13600 10050
+Wire Wire Line
+	13600 10050 13500 10050
+Wire Wire Line
+	13600 10050 13600 10250
+Wire Wire Line
+	13600 10250 13700 10250
+Connection ~ 13600 10050
+Text Label 13700 10250 0    70   ~ 0
+MODE
+Wire Wire Line
+	13350 2900 13250 2900
+Text Label 13250 2900 2    70   ~ 0
+MODE
+Wire Wire Line
+	6600 2600 6600 3500
+Wire Wire Line
+	6600 3500 6600 5100
+Wire Wire Line
+	6600 5100 6300 5100
+Wire Wire Line
+	6600 5100 6600 7600
+Wire Wire Line
+	6600 7600 6300 7600
+Wire Wire Line
+	6300 2600 6600 2600
+Wire Wire Line
+	6600 3500 7200 3500
+Connection ~ 6600 5100
+Connection ~ 6600 3500
+Text Label 7200 3500 0    70   ~ 0
+SCK
+Wire Wire Line
+	14950 2500 15050 2500
+Text Label 15050 2500 0    70   ~ 0
+SCK
+Wire Wire Line
+	6300 2800 6400 2800
+Wire Wire Line
+	6400 2800 6400 4800
+Wire Wire Line
+	6400 4800 6300 4800
+Wire Wire Line
+	6300 5300 6400 5300
+Wire Wire Line
+	6400 5300 6400 7300
+Wire Wire Line
+	6400 7300 6300 7300
+Wire Wire Line
+	6300 2500 6700 2500
+Wire Wire Line
+	6700 2500 6700 3300
+Wire Wire Line
+	6700 3300 6700 5000
+Wire Wire Line
+	6700 5000 6300 5000
+Wire Wire Line
+	6700 5000 6700 7500
+Wire Wire Line
+	6700 7500 6300 7500
+Wire Wire Line
+	6700 3300 7200 3300
+Connection ~ 6700 5000
+Connection ~ 6700 3300
+Text Label 7200 3300 0    70   ~ 0
+RCK
+Wire Wire Line
+	6300 2300 6400 2300
+Text Label 6400 2300 0    70   ~ 0
+SER
+Wire Wire Line
+	15250 1200 15350 1200
+Text Label 15350 1200 0    70   ~ 0
+SER
+Wire Wire Line
+	12450 2250 12450 2500
+Wire Wire Line
+	12450 2500 12700 2500
+Wire Wire Line
+	12450 2500 12450 2700
+Wire Wire Line
+	12450 2700 12350 2700
+Connection ~ 12450 2500
+Wire Wire Line
+	14200 6500 14800 6500
+Wire Wire Line
+	14800 6500 14900 6500
+Wire Wire Line
+	14800 6500 14800 6000
+Text Label 14900 6500 0    70   ~ 0
+SDA
+Connection ~ 14800 6500
+Wire Wire Line
+	13350 2300 13250 2300
+Text Label 13250 2300 2    70   ~ 0
+SDA
+Wire Wire Line
+	14200 6300 14500 6300
+Wire Wire Line
+	14500 6300 14900 6300
+Wire Wire Line
+	14500 6300 14500 6000
+Text Label 14900 6300 0    70   ~ 0
+SCL
+Connection ~ 14500 6300
+Wire Wire Line
+	13350 2100 13250 2100
+Text Label 13250 2100 2    70   ~ 0
+SCL
+Wire Wire Line
+	1550 11500 1450 11500
+Text Label 1450 11500 2    70   ~ 0
+EN_HV
+Wire Wire Line
+	14950 2700 15050 2700
+Text Label 15050 2700 0    70   ~ 0
+EN_HV
+Wire Wire Line
+	12300 4000 12400 4000
+Wire Wire Line
+	12400 4000 12400 3900
+Wire Wire Line
+	12400 3900 12550 3900
+Text Label 12550 3900 0    70   ~ 0
+PGC
+Wire Wire Line
+	15250 1300 15350 1300
+Text Label 15350 1300 0    70   ~ 0
+PGC
+Wire Wire Line
+	12300 3900 12350 3900
+Wire Wire Line
+	12350 3900 12350 3750
+Wire Wire Line
+	12350 3750 12550 3750
+Text Label 12550 3750 0    70   ~ 0
+LVP
+Wire Wire Line
+	12300 4400 12350 4400
+Wire Wire Line
+	12350 4400 12350 4550
+Wire Wire Line
+	12350 4550 12550 4550
+Text Label 12550 4550 0    70   ~ 0
+MCLR
+Wire Wire Line
+	13100 2500 13350 2500
+Text Label 13100 2500 0    10   ~ 0
+MCLR
+Wire Wire Line
+	12300 4100 12450 4100
+Wire Wire Line
+	12450 4100 12450 4050
+Wire Wire Line
+	12450 4050 12550 4050
+Text Label 12550 4050 0    70   ~ 0
+PDG
+Wire Wire Line
+	15250 1100 15350 1100
+Text Label 15350 1100 0    70   ~ 0
+PDG
+Wire Wire Line
+	12350 2800 12450 2800
+Wire Wire Line
+	12450 2800 12450 2900
+Wire Wire Line
+	6300 7800 6400 7800
+Text Label 6400 7800 0    70   ~ 0
+SDI
+Wire Wire Line
+	14950 3700 15050 3700
+Text Label 15050 3700 0    70   ~ 0
+SDI
+Wire Wire Line
+	4300 2900 4400 2900
+Text Label 4400 2900 0    70   ~ 0
+D2
+Wire Wire Line
+	5300 2700 5150 2700
+Wire Wire Line
+	5150 2700 5150 2850
+Wire Wire Line
+	5150 2850 5050 2850
+Text Label 5050 2850 2    70   ~ 0
+D2
+Wire Wire Line
+	4300 2700 4400 2700
+Text Label 4400 2700 0    70   ~ 0
+C2
+Wire Wire Line
+	5300 2900 5250 2900
+Wire Wire Line
+	5250 2900 5250 3250
+Wire Wire Line
+	5250 3250 5050 3250
+Text Label 5050 3250 2    70   ~ 0
+C2
+Wire Wire Line
+	4300 2500 4400 2500
+Text Label 4400 2500 0    70   ~ 0
+B2
+Wire Wire Line
+	5300 2800 5200 2800
+Wire Wire Line
+	5200 2800 5200 3050
+Wire Wire Line
+	5200 3050 5050 3050
+Text Label 5050 3050 2    70   ~ 0
+B2
+Wire Wire Line
+	4300 2300 4400 2300
+Text Label 4400 2300 0    70   ~ 0
+A2
+Wire Wire Line
+	5300 2600 5100 2600
+Wire Wire Line
+	5100 2600 5100 2650
+Wire Wire Line
+	5100 2650 5050 2650
+Text Label 5050 2650 2    70   ~ 0
+A2
+Wire Wire Line
+	4300 5400 4400 5400
+Text Label 4400 5400 0    70   ~ 0
+D4
+Wire Wire Line
+	5150 5200 5150 5350
+Wire Wire Line
+	5150 5350 5050 5350
+Wire Wire Line
+	5300 5200 5150 5200
+Text Label 5050 5350 2    70   ~ 0
+D4
+Wire Wire Line
+	4300 5200 4400 5200
+Text Label 4400 5200 0    70   ~ 0
+C4
+Wire Wire Line
+	5250 5400 5250 5750
+Wire Wire Line
+	5250 5750 5050 5750
+Wire Wire Line
+	5300 5400 5250 5400
+Text Label 5050 5750 2    70   ~ 0
+C4
+Wire Wire Line
+	4300 5000 4400 5000
+Text Label 4400 5000 0    70   ~ 0
+B4
+Wire Wire Line
+	5200 5300 5200 5550
+Wire Wire Line
+	5200 5550 5050 5550
+Wire Wire Line
+	5300 5300 5200 5300
+Text Label 5050 5550 2    70   ~ 0
+B4
+Wire Wire Line
+	4300 4800 4400 4800
+Text Label 4400 4800 0    70   ~ 0
+A4
+Wire Wire Line
+	5100 5100 5100 5150
+Wire Wire Line
+	5100 5150 5050 5150
+Wire Wire Line
+	5300 5100 5100 5100
+Text Label 5050 5150 2    70   ~ 0
+A4
+Wire Wire Line
+	4300 7900 4400 7900
+Text Label 4400 7900 0    70   ~ 0
+D6
+Wire Wire Line
+	5150 7700 5150 7850
+Wire Wire Line
+	5150 7850 5050 7850
+Wire Wire Line
+	5300 7700 5150 7700
+Text Label 5050 7850 2    70   ~ 0
+D6
+Wire Wire Line
+	4300 7700 4400 7700
+Text Label 4400 7700 0    70   ~ 0
+C6
+Wire Wire Line
+	5250 7900 5250 8250
+Wire Wire Line
+	5250 8250 5050 8250
+Wire Wire Line
+	5300 7900 5250 7900
+Text Label 5050 8250 2    70   ~ 0
+C6
+Wire Wire Line
+	4300 7500 4400 7500
+Text Label 4400 7500 0    70   ~ 0
+B6
+Wire Wire Line
+	5200 7800 5200 8050
+Wire Wire Line
+	5200 8050 5050 8050
+Wire Wire Line
+	5300 7800 5200 7800
+Text Label 5050 8050 2    70   ~ 0
+B6
+Wire Wire Line
+	4300 7300 4400 7300
+Text Label 4400 7300 0    70   ~ 0
+A6
+Wire Wire Line
+	5100 7600 5100 7650
+Wire Wire Line
+	5100 7650 5050 7650
+Wire Wire Line
+	5300 7600 5100 7600
+Text Label 5050 7650 2    70   ~ 0
+A6
+Wire Wire Line
+	2350 2300 2450 2300
+Text Label 2450 2300 0    70   ~ 0
+A1
+Wire Wire Line
+	5300 2300 5200 2300
+Wire Wire Line
+	5200 2300 5200 2050
+Wire Wire Line
+	5200 2050 5050 2050
+Text Label 5050 2050 2    70   ~ 0
+A1
+Wire Wire Line
+	2350 2500 2450 2500
+Text Label 2450 2500 0    70   ~ 0
+B1
+Wire Wire Line
+	5300 2500 5100 2500
+Wire Wire Line
+	5100 2500 5100 2450
+Wire Wire Line
+	5100 2450 5050 2450
+Text Label 5050 2450 2    70   ~ 0
+B1
+Wire Wire Line
+	2350 2700 2450 2700
+Text Label 2450 2700 0    70   ~ 0
+C1
+Wire Wire Line
+	5300 2200 5250 2200
+Wire Wire Line
+	5250 2200 5250 1850
+Wire Wire Line
+	5250 1850 5050 1850
+Text Label 5050 1850 2    70   ~ 0
+C1
+Wire Wire Line
+	2350 2900 2450 2900
+Text Label 2450 2900 0    70   ~ 0
+D1
+Wire Wire Line
+	5300 2400 5150 2400
+Wire Wire Line
+	5150 2400 5150 2250
+Wire Wire Line
+	5150 2250 5050 2250
+Text Label 5050 2250 2    70   ~ 0
+D1
+Wire Wire Line
+	2350 4800 2450 4800
+Text Label 2450 4800 0    70   ~ 0
+A3
+Wire Wire Line
+	5200 4800 5200 4550
+Wire Wire Line
+	5200 4550 5050 4550
+Wire Wire Line
+	5300 4800 5200 4800
+Text Label 5050 4550 2    70   ~ 0
+A3
+Wire Wire Line
+	2350 5000 2450 5000
+Text Label 2450 5000 0    70   ~ 0
+B3
+Wire Wire Line
+	5100 5000 5100 4950
+Wire Wire Line
+	5100 4950 5050 4950
+Wire Wire Line
+	5300 5000 5100 5000
+Text Label 5050 4950 2    70   ~ 0
+B3
+Wire Wire Line
+	2350 5200 2450 5200
+Text Label 2450 5200 0    70   ~ 0
+C3
+Wire Wire Line
+	5250 4700 5250 4350
+Wire Wire Line
+	5250 4350 5050 4350
+Wire Wire Line
+	5300 4700 5250 4700
+Text Label 5050 4350 2    70   ~ 0
+C3
+Wire Wire Line
+	2350 5400 2450 5400
+Text Label 2450 5400 0    70   ~ 0
+D3
+Wire Wire Line
+	5150 4900 5150 4750
+Wire Wire Line
+	5150 4750 5050 4750
+Wire Wire Line
+	5300 4900 5150 4900
+Text Label 5050 4750 2    70   ~ 0
+D3
+Wire Wire Line
+	2350 7300 2450 7300
+Text Label 2450 7300 0    70   ~ 0
+A5
+Wire Wire Line
+	5200 7300 5200 7050
+Wire Wire Line
+	5200 7050 5050 7050
+Wire Wire Line
+	5300 7300 5200 7300
+Text Label 5050 7050 2    70   ~ 0
+A5
+Wire Wire Line
+	2350 7500 2450 7500
+Text Label 2450 7500 0    70   ~ 0
+B5
+Wire Wire Line
+	5100 7500 5100 7450
+Wire Wire Line
+	5100 7450 5050 7450
+Wire Wire Line
+	5300 7500 5100 7500
+Text Label 5050 7450 2    70   ~ 0
+B5
+Wire Wire Line
+	2350 7700 2450 7700
+Text Label 2450 7700 0    70   ~ 0
+C5
+Wire Wire Line
+	5250 7200 5250 6850
+Wire Wire Line
+	5250 6850 5050 6850
+Wire Wire Line
+	5300 7200 5250 7200
+Text Label 5050 6850 2    70   ~ 0
+C5
+Wire Wire Line
+	2350 7900 2450 7900
+Text Label 2450 7900 0    70   ~ 0
+D5
+Wire Wire Line
+	5150 7400 5150 7250
+Wire Wire Line
+	5150 7250 5050 7250
+Wire Wire Line
+	5300 7400 5150 7400
+Text Label 5050 7250 2    70   ~ 0
+D5
+Wire Wire Line
+	13100 6400 13100 6350
+Wire Wire Line
+	13100 6400 13000 6400
+Wire Wire Line
+	13100 6400 13250 6400
+Wire Wire Line
+	13250 6400 13250 6300
+Wire Wire Line
+	13250 6300 13400 6300
+Connection ~ 13100 6400
+Wire Wire Line
+	13100 6150 13100 6100
+Wire Wire Line
+	13100 6100 13000 6100
+Wire Wire Line
+	13400 6100 13100 6100
+Connection ~ 13100 6100
+Wire Wire Line
+	14950 2100 15050 2100
+Text Label 15050 2100 0    70   ~ 0
+ICSPDAT
+Wire Wire Line
+	14550 1400 14450 1400
+Text Label 14450 1400 2    70   ~ 0
+ICSPDAT
+Wire Wire Line
+	14950 2300 15050 2300
+Text Label 15050 2300 0    70   ~ 0
+ICSPCLK
+Wire Wire Line
+	14550 1200 14450 1200
+Text Label 14450 1200 2    70   ~ 0
+ICSPCLK
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R7
+U 1 1 50752415
+P 2550 9700
+F 0 "R7" H 2400 9759 59  0000 L BNN
+F 1 "2k" H 2400 9570 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 2550 9700 50  0001 C CNN
+F 3 "" H 2550 9700 50  0001 C CNN
+	1    2550 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC1210 C16
+U 1 1 E304C1D9
+P 2950 9600
+F 0 "C16" H 3010 9615 59  0000 L BNN
+F 1 "100uF" H 3010 9415 59  0000 L BNN
+F 2 "nixie_clock:C1210" H 2950 9600 50  0001 C CNN
+F 3 "" H 2950 9600 50  0001 C CNN
+	1    2950 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C18
+U 1 1 9D5497DE
+P 3350 9600
+F 0 "C18" H 3410 9615 59  0000 L BNN
+F 1 "0.1uF" H 3410 9415 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 3350 9600 50  0001 C CNN
+F 3 "" H 3350 9600 50  0001 C CNN
+	1    3350 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY01
+U 1 1 F54A36B8
+P 2950 10000
+F 0 "#SUPPLY01" H 2950 10000 50  0001 C CNN
+F 1 "GND" H 2875 9875 59  0000 L BNN
+F 2 "" H 2950 10000 50  0001 C CNN
+F 3 "" H 2950 10000 50  0001 C CNN
+	1    2950 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY02
+U 1 1 19032892
+P 3350 10000
+F 0 "#SUPPLY02" H 3350 10000 50  0001 C CNN
+F 1 "GND" H 3275 9875 59  0000 L BNN
+F 2 "" H 3350 10000 50  0001 C CNN
+F 3 "" H 3350 10000 50  0001 C CNN
+	1    3350 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:BAT54 D2
+U 1 1 0CADE672
+P 2950 10600
+F 0 "D2" H 2860 10675 59  0000 L BNN
+F 1 "BAT54" H 2860 10465 59  0000 L BNN
+F 2 "nixie_clock:SOT23" H 2950 10600 50  0001 C CNN
+F 3 "" H 2950 10600 50  0001 C CNN
+	1    2950 10600
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC1206 C14
+U 1 1 BF09C543
+P 2750 11000
+F 0 "C14" H 2810 11015 59  0000 L BNN
+F 1 "47uF" H 2810 10815 59  0000 L BNN
+F 2 "nixie_clock:C1206" H 2750 11000 50  0001 C CNN
+F 3 "" H 2750 11000 50  0001 C CNN
+	1    2750 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R9
+U 1 1 1D219127
+P 3150 11100
+F 0 "R9" V 3309 11050 59  0000 R TNN
+F 1 "100k" V 3220 11050 59  0000 R TNN
+F 2 "nixie_clock:R0805" H 3150 11100 50  0001 C CNN
+F 3 "" H 3150 11100 50  0001 C CNN
+	1    3150 11100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY03
+U 1 1 4F8E092B
+P 2750 11500
+F 0 "#SUPPLY03" H 2750 11500 50  0001 C CNN
+F 1 "GND" H 2675 11375 59  0000 L BNN
+F 2 "" H 2750 11500 50  0001 C CNN
+F 3 "" H 2750 11500 50  0001 C CNN
+	1    2750 11500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY04
+U 1 1 1C9152C2
+P 3150 11500
+F 0 "#SUPPLY04" H 3150 11500 50  0001 C CNN
+F 1 "GND" H 3075 11375 59  0000 L BNN
+F 2 "" H 3150 11500 50  0001 C CNN
+F 3 "" H 3150 11500 50  0001 C CNN
+	1    3150 11500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:-NPN-SOT23-BEC Q26
+U 1 1 54F26D17
+P 2450 11500
+F 0 "Q26" H 2050 11800 59  0000 L BNN
+F 1 "MMBT42" H 2050 11700 59  0000 L BNN
+F 2 "nixie_clock:SOT23-BEC" H 2450 11500 50  0001 C CNN
+F 3 "" H 2450 11500 50  0001 C CNN
+	1    2450 11500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY05
+U 1 1 20B1DDDE
+P 2550 11900
+F 0 "#SUPPLY05" H 2550 11900 50  0001 C CNN
+F 1 "GND" H 2475 11775 59  0000 L BNN
+F 2 "" H 2550 11900 50  0001 C CNN
+F 3 "" H 2550 11900 50  0001 C CNN
+	1    2550 11900
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R4
+U 1 1 8EE1C540
+P 2050 9700
+F 0 "R4" H 1900 9759 59  0000 L BNN
+F 1 "100k" H 1900 9570 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 2050 9700 50  0001 C CNN
+F 3 "" H 2050 9700 50  0001 C CNN
+	1    2050 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R1
+U 1 1 DDF01354
+P 1750 11500
+F 0 "R1" H 1600 11559 59  0000 L BNN
+F 1 "1k" H 1600 11370 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 1750 11500 50  0001 C CNN
+F 3 "" H 1750 11500 50  0001 C CNN
+	1    1750 11500
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:BKP2125HS600-T L2
+U 1 1 B1AD6528
+P 4250 9300
+F 0 "L2" V 4200 9100 59  0000 L BNN
+F 1 "BKP2125HS600-T" V 4400 9100 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 4250 9300 50  0001 C CNN
+F 3 "" H 4250 9300 50  0001 C CNN
+	1    4250 9300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:UCC3803DTR U7
+U 1 1 3F614461
+P 5150 10900
+F 0 "U7" H 4650 11400 59  0000 L BNN
+F 1 "UCC3803DTR" H 5150 10900 50  0001 C CNN
+F 2 "nixie_clock:SO8" H 5150 10900 50  0001 C CNN
+F 3 "" H 5150 10900 50  0001 C CNN
+	1    5150 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R2
+U 1 1 FB0B0023
+P 3950 10600
+F 0 "R2" H 3800 10659 59  0000 L BNN
+F 1 "60.4k" H 3800 10470 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 3950 10600 50  0001 C CNN
+F 3 "" H 3950 10600 50  0001 C CNN
+	1    3950 10600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C10
+U 1 1 6EEB2871
+P 3650 10500
+F 0 "C10" H 3710 10515 59  0000 L BNN
+F 1 "0.1uF" H 3710 10315 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 3650 10500 50  0001 C CNN
+F 3 "" H 3650 10500 50  0001 C CNN
+	1    3650 10500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C7
+U 1 1 3A89E090
+P 3950 11100
+F 0 "C7" H 4010 11115 59  0000 L BNN
+F 1 "430pF" H 4010 10915 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 3950 11100 50  0001 C CNN
+F 3 "" H 3950 11100 50  0001 C CNN
+	1    3950 11100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY06
+U 1 1 A7CD5EB6
+P 3950 11500
+F 0 "#SUPPLY06" H 3950 11500 50  0001 C CNN
+F 1 "GND" H 3875 11375 59  0000 L BNN
+F 2 "" H 3950 11500 50  0001 C CNN
+F 3 "" H 3950 11500 50  0001 C CNN
+	1    3950 11500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY07
+U 1 1 2907E397
+P 3650 10900
+F 0 "#SUPPLY07" H 3650 10900 50  0001 C CNN
+F 1 "GND" H 3575 10775 59  0000 L BNN
+F 2 "" H 3650 10900 50  0001 C CNN
+F 3 "" H 3650 10900 50  0001 C CNN
+	1    3650 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY08
+U 1 1 39566F8A
+P 5150 11600
+F 0 "#SUPPLY08" H 5150 11600 50  0001 C CNN
+F 1 "GND" H 5075 11475 59  0000 L BNN
+F 2 "" H 5150 11600 50  0001 C CNN
+F 3 "" H 5150 11600 50  0001 C CNN
+	1    5150 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY09
+U 1 1 B8640D54
+P 5550 10000
+F 0 "#SUPPLY09" H 5550 10000 50  0001 C CNN
+F 1 "GND" H 5475 9875 59  0000 L BNN
+F 2 "" H 5550 10000 50  0001 C CNN
+F 3 "" H 5550 10000 50  0001 C CNN
+	1    5550 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY010
+U 1 1 28999800
+P 5950 10000
+F 0 "#SUPPLY010" H 5950 10000 50  0001 C CNN
+F 1 "GND" H 5875 9875 59  0000 L BNN
+F 2 "" H 5950 10000 50  0001 C CNN
+F 3 "" H 5950 10000 50  0001 C CNN
+	1    5950 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC1210 C4
+U 1 1 BD1B83AA
+P 5550 9600
+F 0 "C4" H 5610 9615 59  0000 L BNN
+F 1 "100uF" H 5610 9415 59  0000 L BNN
+F 2 "nixie_clock:C1210" H 5550 9600 50  0001 C CNN
+F 3 "" H 5550 9600 50  0001 C CNN
+	1    5550 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC1210 C8
+U 1 1 190A049D
+P 5950 9600
+F 0 "C8" H 6010 9615 59  0000 L BNN
+F 1 "100uF" H 6010 9415 59  0000 L BNN
+F 2 "nixie_clock:C1210" H 5950 9600 50  0001 C CNN
+F 3 "" H 5950 9600 50  0001 C CNN
+	1    5950 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R12
+U 1 1 EB02D104
+P 5950 10300
+F 0 "R12" H 5800 10359 59  0000 L BNN
+F 1 "4.12k" H 5800 10170 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 5950 10300 50  0001 C CNN
+F 3 "" H 5950 10300 50  0001 C CNN
+	1    5950 10300
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R6
+U 1 1 1D372C77
+P 5950 10600
+F 0 "R6" H 5800 10659 59  0000 L BNN
+F 1 "0" H 5800 10470 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 5950 10600 50  0001 C CNN
+F 3 "" H 5950 10600 50  0001 C CNN
+	1    5950 10600
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C5
+U 1 1 5FB3C2EC
+P 3750 12200
+F 0 "C5" H 3810 12215 59  0000 L BNN
+F 1 "220pF" H 3810 12015 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 3750 12200 50  0001 C CNN
+F 3 "" H 3750 12200 50  0001 C CNN
+	1    3750 12200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R3
+U 1 1 955EB68C
+P 3850 11900
+F 0 "R3" V 4009 11850 59  0000 R TNN
+F 1 "N.U." V 3920 11850 59  0000 R TNN
+F 2 "nixie_clock:R0805" H 3850 11900 50  0001 C CNN
+F 3 "" H 3850 11900 50  0001 C CNN
+	1    3850 11900
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R5
+U 1 1 CC34444D
+P 4250 12200
+F 0 "R5" V 4409 12150 59  0000 R TNN
+F 1 "0" V 4320 12150 59  0000 R TNN
+F 2 "nixie_clock:R0805" H 4250 12200 50  0001 C CNN
+F 3 "" H 4250 12200 50  0001 C CNN
+	1    4250 12200
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C11
+U 1 1 90B66C03
+P 6150 11200
+F 0 "C11" H 6210 11215 59  0000 L BNN
+F 1 "1nF" H 6210 11015 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 6150 11200 50  0001 C CNN
+F 3 "" H 6150 11200 50  0001 C CNN
+	1    6150 11200
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY011
+U 1 1 E0B04C0E
+P 6150 11600
+F 0 "#SUPPLY011" H 6150 11600 50  0001 C CNN
+F 1 "GND" H 6075 11475 59  0000 L BNN
+F 2 "" H 6150 11600 50  0001 C CNN
+F 3 "" H 6150 11600 50  0001 C CNN
+	1    6150 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R8
+U 1 1 B2A0FD76
+P 6750 10900
+F 0 "R8" H 6600 10959 59  0000 L BNN
+F 1 "1k" H 6600 10770 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 6750 10900 50  0001 C CNN
+F 3 "" H 6750 10900 50  0001 C CNN
+	1    6750 10900
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:FD52672CT Q1
+U 1 1 22BC07EB
+P 7050 10100
+F 0 "Q1" V 7510 9800 59  0000 L BNN
+F 1 "FD52672CT" H 7050 10100 50  0001 C CNN
+F 2 "nixie_clock:SO8" H 7050 10100 50  0001 C CNN
+F 3 "" H 7050 10100 50  0001 C CNN
+	1    7050 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R10
+U 1 1 7760EF16
+P 7350 11200
+F 0 "R10" H 7200 11259 59  0000 L BNN
+F 1 "0.1 1/2W" H 7200 11070 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 7350 11200 50  0001 C CNN
+F 3 "" H 7350 11200 50  0001 C CNN
+	1    7350 11200
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY012
+U 1 1 31C2C8A5
+P 7350 11600
+F 0 "#SUPPLY012" H 7350 11600 50  0001 C CNN
+F 1 "GND" H 7275 11475 59  0000 L BNN
+F 2 "" H 7350 11600 50  0001 C CNN
+F 3 "" H 7350 11600 50  0001 C CNN
+	1    7350 11600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C15
+U 1 1 50248F43
+P 7750 9600
+F 0 "C15" H 7810 9615 59  0000 L BNN
+F 1 "560pF" H 7810 9415 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 7750 9600 50  0001 C CNN
+F 3 "" H 7750 9600 50  0001 C CNN
+	1    7750 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY013
+U 1 1 8D803956
+P 7750 10000
+F 0 "#SUPPLY013" H 7750 10000 50  0001 C CNN
+F 1 "GND" H 7675 9875 59  0000 L BNN
+F 2 "" H 7750 10000 50  0001 C CNN
+F 3 "" H 7750 10000 50  0001 C CNN
+	1    7750 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY014
+U 1 1 C4643C99
+P 2050 5950
+F 0 "#SUPPLY014" H 2050 5950 50  0001 C CNN
+F 1 "GND" H 1975 5825 59  0000 L BNN
+F 2 "" H 2050 5950 50  0001 C CNN
+F 3 "" H 2050 5950 50  0001 C CNN
+	1    2050 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY015
+U 1 1 2739B52F
+P 4000 8450
+F 0 "#SUPPLY015" H 4000 8450 50  0001 C CNN
+F 1 "GND" H 3925 8325 59  0000 L BNN
+F 2 "" H 4000 8450 50  0001 C CNN
+F 3 "" H 4000 8450 50  0001 C CNN
+	1    4000 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY016
+U 1 1 86F85EE9
+P 2050 8450
+F 0 "#SUPPLY016" H 2050 8450 50  0001 C CNN
+F 1 "GND" H 1975 8325 59  0000 L BNN
+F 2 "" H 2050 8450 50  0001 C CNN
+F 3 "" H 2050 8450 50  0001 C CNN
+	1    2050 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY017
+U 1 1 26B7FE90
+P 4000 3450
+F 0 "#SUPPLY017" H 4000 3450 50  0001 C CNN
+F 1 "GND" H 3925 3325 59  0000 L BNN
+F 2 "" H 4000 3450 50  0001 C CNN
+F 3 "" H 4000 3450 50  0001 C CNN
+	1    4000 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY018
+U 1 1 C00D883A
+P 2050 3450
+F 0 "#SUPPLY018" H 2050 3450 50  0001 C CNN
+F 1 "GND" H 1975 3325 59  0000 L BNN
+F 2 "" H 2050 3450 50  0001 C CNN
+F 3 "" H 2050 3450 50  0001 C CNN
+	1    2050 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY019
+U 1 1 9765D681
+P 4000 5950
+F 0 "#SUPPLY019" H 4000 5950 50  0001 C CNN
+F 1 "GND" H 3925 5825 59  0000 L BNN
+F 2 "" H 4000 5950 50  0001 C CNN
+F 3 "" H 4000 5950 50  0001 C CNN
+	1    4000 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+01
+U 1 1 6A081B6E
+P 4000 1750
+F 0 "#P+01" H 4000 1750 50  0001 C CNN
+F 1 "+5V" V 4000 1800 59  0000 C BNN
+F 2 "" H 4000 1750 50  0001 C CNN
+F 3 "" H 4000 1750 50  0001 C CNN
+	1    4000 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+02
+U 1 1 637B3A6A
+P 2050 4250
+F 0 "#P+02" H 2050 4250 50  0001 C CNN
+F 1 "+5V" V 2050 4300 59  0000 C BNN
+F 2 "" H 2050 4250 50  0001 C CNN
+F 3 "" H 2050 4250 50  0001 C CNN
+	1    2050 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+03
+U 1 1 48C2C5DB
+P 4000 6750
+F 0 "#P+03" H 4000 6750 50  0001 C CNN
+F 1 "+5V" V 4000 6800 59  0000 C BNN
+F 2 "" H 4000 6750 50  0001 C CNN
+F 3 "" H 4000 6750 50  0001 C CNN
+	1    4000 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+04
+U 1 1 459FCD94
+P 2050 6750
+F 0 "#P+04" H 2050 6750 50  0001 C CNN
+F 1 "+5V" V 2050 6800 59  0000 C BNN
+F 2 "" H 2050 6750 50  0001 C CNN
+F 3 "" H 2050 6750 50  0001 C CNN
+	1    2050 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+05
+U 1 1 57F4DC09
+P 2050 1750
+F 0 "#P+05" H 2050 1750 50  0001 C CNN
+F 1 "+5V" V 2050 1800 59  0000 C BNN
+F 2 "" H 2050 1750 50  0001 C CNN
+F 3 "" H 2050 1750 50  0001 C CNN
+	1    2050 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+06
+U 1 1 4B6CF0C8
+P 4000 4250
+F 0 "#P+06" H 4000 4250 50  0001 C CNN
+F 1 "+5V" V 4000 4300 59  0000 C BNN
+F 2 "" H 4000 4250 50  0001 C CNN
+F 3 "" H 4000 4250 50  0001 C CNN
+	1    4000 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R11
+U 1 1 8B33538D
+P 1350 1650
+F 0 "R11" H 1200 1709 59  0000 L BNN
+F 1 "2k" H 1200 1520 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 1350 1650 50  0001 C CNN
+F 3 "" H 1350 1650 50  0001 C CNN
+	1    1350 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R13
+U 1 1 EB2A17F4
+P 3200 4150
+F 0 "R13" H 3050 4209 59  0000 L BNN
+F 1 "2k" H 3050 4020 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 3200 4150 50  0001 C CNN
+F 3 "" H 3200 4150 50  0001 C CNN
+	1    3200 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R14
+U 1 1 E4BAF4D0
+P 1350 6650
+F 0 "R14" H 1200 6709 59  0000 L BNN
+F 1 "2k" H 1200 6520 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 1350 6650 50  0001 C CNN
+F 3 "" H 1350 6650 50  0001 C CNN
+	1    1350 6650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R155
+U 1 1 5AF1140D
+P 3200 1650
+F 0 "R155" H 3050 1709 59  0000 L BNN
+F 1 "2k" H 3050 1520 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 3200 1650 50  0001 C CNN
+F 3 "" H 3200 1650 50  0001 C CNN
+	1    3200 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R166
+U 1 1 B51F38D8
+P 1350 4150
+F 0 "R166" H 1200 4209 59  0000 L BNN
+F 1 "2k" H 1200 4020 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 1350 4150 50  0001 C CNN
+F 3 "" H 1350 4150 50  0001 C CNN
+	1    1350 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R17
+U 1 1 1190B549
+P 3200 6650
+F 0 "R17" H 3050 6709 59  0000 L BNN
+F 1 "2k" H 3050 6520 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 3200 6650 50  0001 C CNN
+F 3 "" H 3200 6650 50  0001 C CNN
+	1    3200 6650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:-NPN-TO92-EBC Q3
+U 1 1 9A1C1EBA
+P 9350 3000
+F 0 "Q3" H 9450 3000 59  0000 L BNN
+F 1 "-NPN-TO92-EBC" H 8950 3200 59  0000 L BNN
+F 2 "nixie_clock:TO92-EBC" H 9350 3000 50  0001 C CNN
+F 3 "" H 9350 3000 50  0001 C CNN
+	1    9350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:-PNP-TO92-EBC Q4
+U 1 1 22452E8B
+P 10150 2700
+F 0 "Q4" H 10250 2700 59  0000 L BNN
+F 1 "-PNP-TO92-EBC" H 9750 2900 59  0000 L BNN
+F 2 "nixie_clock:TO92-EBC" H 10150 2700 50  0001 C CNN
+F 3 "" H 10150 2700 50  0001 C CNN
+	1    10150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R19
+U 1 1 4B9CEEB5
+P 9450 2400
+F 0 "R19" H 9300 2459 59  0000 L BNN
+F 1 "100k" H 9300 2270 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 9450 2400 50  0001 C CNN
+F 3 "" H 9450 2400 50  0001 C CNN
+	1    9450 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R20
+U 1 1 6A7A1984
+P 8950 3000
+F 0 "R20" H 8800 3059 59  0000 L BNN
+F 1 "10k" H 8800 2870 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8950 3000 50  0001 C CNN
+F 3 "" H 8950 3000 50  0001 C CNN
+	1    8950 3000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R21
+U 1 1 0DDF1F5D
+P 8650 3300
+F 0 "R21" H 8500 3359 59  0000 L BNN
+F 1 "10k" H 8500 3170 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8650 3300 50  0001 C CNN
+F 3 "" H 8650 3300 50  0001 C CNN
+	1    8650 3300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+013
+U 1 1 71DB5D41
+P 10250 1900
+F 0 "#P+013" H 10250 1900 50  0001 C CNN
+F 1 "+160V" V 10250 1950 59  0000 C BNN
+F 2 "" H 10250 1900 50  0001 C CNN
+F 3 "" H 10250 1900 50  0001 C CNN
+	1    10250 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY021
+U 1 1 5F7BB948
+P 8650 3800
+F 0 "#SUPPLY021" H 8650 3800 50  0001 C CNN
+F 1 "GND" H 8575 3675 59  0000 L BNN
+F 2 "" H 8650 3800 50  0001 C CNN
+F 3 "" H 8650 3800 50  0001 C CNN
+	1    8650 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:-NPN-TO92-EBC Q5
+U 1 1 A335FF6A
+P 9350 5000
+F 0 "Q5" H 9450 5000 59  0000 L BNN
+F 1 "-NPN-TO92-EBC" H 8950 5200 59  0000 L BNN
+F 2 "nixie_clock:TO92-EBC" H 9350 5000 50  0001 C CNN
+F 3 "" H 9350 5000 50  0001 C CNN
+	1    9350 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:-PNP-TO92-EBC Q6
+U 1 1 97620144
+P 10150 4700
+F 0 "Q6" H 10250 4700 59  0000 L BNN
+F 1 "-PNP-TO92-EBC" H 9750 4900 59  0000 L BNN
+F 2 "nixie_clock:TO92-EBC" H 10150 4700 50  0001 C CNN
+F 3 "" H 10150 4700 50  0001 C CNN
+	1    10150 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R23
+U 1 1 66E47F28
+P 9450 4400
+F 0 "R23" H 9300 4459 59  0000 L BNN
+F 1 "100k" H 9300 4270 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 9450 4400 50  0001 C CNN
+F 3 "" H 9450 4400 50  0001 C CNN
+	1    9450 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R24
+U 1 1 710310B2
+P 8950 5000
+F 0 "R24" H 8800 5059 59  0000 L BNN
+F 1 "10k" H 8800 4870 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8950 5000 50  0001 C CNN
+F 3 "" H 8950 5000 50  0001 C CNN
+	1    8950 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R25
+U 1 1 CA2E3B38
+P 8650 5300
+F 0 "R25" H 8500 5359 59  0000 L BNN
+F 1 "10k" H 8500 5170 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8650 5300 50  0001 C CNN
+F 3 "" H 8650 5300 50  0001 C CNN
+	1    8650 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+014
+U 1 1 AE2697C3
+P 10250 3900
+F 0 "#P+014" H 10250 3900 50  0001 C CNN
+F 1 "+160V" V 10250 3950 59  0000 C BNN
+F 2 "" H 10250 3900 50  0001 C CNN
+F 3 "" H 10250 3900 50  0001 C CNN
+	1    10250 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY022
+U 1 1 15C4ECC7
+P 8650 5800
+F 0 "#SUPPLY022" H 8650 5800 50  0001 C CNN
+F 1 "GND" H 8575 5675 59  0000 L BNN
+F 2 "" H 8650 5800 50  0001 C CNN
+F 3 "" H 8650 5800 50  0001 C CNN
+	1    8650 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:-NPN-TO92-EBC Q7
+U 1 1 6A33A87D
+P 9350 7000
+F 0 "Q7" H 9450 7000 59  0000 L BNN
+F 1 "-NPN-TO92-EBC" H 8950 7200 59  0000 L BNN
+F 2 "nixie_clock:TO92-EBC" H 9350 7000 50  0001 C CNN
+F 3 "" H 9350 7000 50  0001 C CNN
+	1    9350 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:-PNP-TO92-EBC Q8
+U 1 1 2D2CC871
+P 10150 6700
+F 0 "Q8" H 10250 6700 59  0000 L BNN
+F 1 "-PNP-TO92-EBC" H 9750 6900 59  0000 L BNN
+F 2 "nixie_clock:TO92-EBC" H 10150 6700 50  0001 C CNN
+F 3 "" H 10150 6700 50  0001 C CNN
+	1    10150 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R27
+U 1 1 6B521807
+P 9450 6400
+F 0 "R27" H 9300 6459 59  0000 L BNN
+F 1 "100k" H 9300 6270 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 9450 6400 50  0001 C CNN
+F 3 "" H 9450 6400 50  0001 C CNN
+	1    9450 6400
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R28
+U 1 1 A83A3BF8
+P 8950 7000
+F 0 "R28" H 8800 7059 59  0000 L BNN
+F 1 "10k" H 8800 6870 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8950 7000 50  0001 C CNN
+F 3 "" H 8950 7000 50  0001 C CNN
+	1    8950 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R29
+U 1 1 C2BF7456
+P 8650 7300
+F 0 "R29" H 8500 7359 59  0000 L BNN
+F 1 "10k" H 8500 7170 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8650 7300 50  0001 C CNN
+F 3 "" H 8650 7300 50  0001 C CNN
+	1    8650 7300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+015
+U 1 1 E8B77DC6
+P 10250 5900
+F 0 "#P+015" H 10250 5900 50  0001 C CNN
+F 1 "+160V" V 10250 5950 59  0000 C BNN
+F 2 "" H 10250 5900 50  0001 C CNN
+F 3 "" H 10250 5900 50  0001 C CNN
+	1    10250 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY023
+U 1 1 F460BE83
+P 8650 7800
+F 0 "#SUPPLY023" H 8650 7800 50  0001 C CNN
+F 1 "GND" H 8575 7675 59  0000 L BNN
+F 2 "" H 8650 7800 50  0001 C CNN
+F 3 "" H 8650 7800 50  0001 C CNN
+	1    8650 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+07
+U 1 1 FAFE20BD
+P 2050 9100
+F 0 "#P+07" H 2050 9100 50  0001 C CNN
+F 1 "+5V" V 2050 9150 59  0000 C BNN
+F 2 "" H 2050 9100 50  0001 C CNN
+F 3 "" H 2050 9100 50  0001 C CNN
+	1    2050 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:USB-C_RECEPTACLE U$1
+U 1 1 89E33A62
+P 1050 9600
+F 0 "U$1" H 1050 9600 50  0001 C CNN
+F 1 "USB-C_RECEPTACLE" H 1050 9600 50  0001 C CNN
+F 2 "nixie_clock:USB-C_RECEPTACLE" H 1050 9600 50  0001 C CNN
+F 3 "" H 1050 9600 50  0001 C CNN
+	1    1050 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY024
+U 1 1 29BDD468
+P 1650 9700
+F 0 "#SUPPLY024" H 1650 9700 50  0001 C CNN
+F 1 "GND" H 1575 9575 59  0000 L BNN
+F 2 "" H 1650 9700 50  0001 C CNN
+F 3 "" H 1650 9700 50  0001 C CNN
+	1    1650 9700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GF1 D1
+U 1 1 CAA7320F
+P 8000 9300
+F 0 "D1" H 7900 9400 59  0000 L BNN
+F 1 "ESD1" H 7900 9150 59  0000 L BNN
+F 2 "nixie_clock:SMA-DO214AC" H 8000 9300 50  0001 C CNN
+F 3 "" H 8000 9300 50  0001 C CNN
+	1    8000 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C6
+U 1 1 5C7DDE00
+P 8250 9600
+F 0 "C6" H 8310 9615 59  0000 L BNN
+F 1 "100pF" H 8310 9415 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 8250 9600 50  0001 C CNN
+F 3 "" H 8250 9600 50  0001 C CNN
+	1    8250 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R15
+U 1 1 8598BC98
+P 8700 9650
+F 0 "R15" H 8550 9709 59  0000 L BNN
+F 1 "634k" H 8550 9520 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8700 9650 50  0001 C CNN
+F 3 "" H 8700 9650 50  0001 C CNN
+	1    8700 9650
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R16
+U 1 1 47AA921E
+P 8700 10300
+F 0 "R16" H 8550 10359 59  0000 L BNN
+F 1 "7.68k" H 8550 10170 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 8700 10300 50  0001 C CNN
+F 3 "" H 8700 10300 50  0001 C CNN
+	1    8700 10300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY026
+U 1 1 CB2EE093
+P 8700 10700
+F 0 "#SUPPLY026" H 8700 10700 50  0001 C CNN
+F 1 "GND" H 8625 10575 59  0000 L BNN
+F 2 "" H 8700 10700 50  0001 C CNN
+F 3 "" H 8700 10700 50  0001 C CNN
+	1    8700 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC2220K C1
+U 1 1 C8E3AF05
+P 9100 9600
+F 0 "C1" H 9160 9615 59  0000 L BNN
+F 1 "1uF" H 9160 9415 59  0000 L BNN
+F 2 "nixie_clock:C2220K" H 9100 9600 50  0001 C CNN
+F 3 "" H 9100 9600 50  0001 C CNN
+	1    9100 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC2220K C2
+U 1 1 AC671DB5
+P 9500 9600
+F 0 "C2" H 9560 9615 59  0000 L BNN
+F 1 "1uF" H 9560 9415 59  0000 L BNN
+F 2 "nixie_clock:C2220K" H 9500 9600 50  0001 C CNN
+F 3 "" H 9500 9600 50  0001 C CNN
+	1    9500 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY027
+U 1 1 19AA1EB1
+P 9100 10700
+F 0 "#SUPPLY027" H 9100 10700 50  0001 C CNN
+F 1 "GND" H 9025 10575 59  0000 L BNN
+F 2 "" H 9100 10700 50  0001 C CNN
+F 3 "" H 9100 10700 50  0001 C CNN
+	1    9100 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY028
+U 1 1 390F8B27
+P 9500 10700
+F 0 "#SUPPLY028" H 9500 10700 50  0001 C CNN
+F 1 "GND" H 9425 10575 59  0000 L BNN
+F 2 "" H 9500 10700 50  0001 C CNN
+F 3 "" H 9500 10700 50  0001 C CNN
+	1    9500 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C12
+U 1 1 415E56D5
+P 9900 9600
+F 0 "C12" H 9960 9615 59  0000 L BNN
+F 1 "0.1uF" H 9960 9415 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 9900 9600 50  0001 C CNN
+F 3 "" H 9900 9600 50  0001 C CNN
+	1    9900 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY029
+U 1 1 D637372C
+P 9900 10700
+F 0 "#SUPPLY029" H 9900 10700 50  0001 C CNN
+F 1 "GND" H 9825 10575 59  0000 L BNN
+F 2 "" H 9900 10700 50  0001 C CNN
+F 3 "" H 9900 10700 50  0001 C CNN
+	1    9900 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C3
+U 1 1 88676885
+P 10900 9600
+F 0 "C3" H 10960 9615 59  0000 L BNN
+F 1 "0.1uF" H 10960 9415 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 10900 9600 50  0001 C CNN
+F 3 "" H 10900 9600 50  0001 C CNN
+	1    10900 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C13
+U 1 1 69A086C3
+P 11300 9600
+F 0 "C13" H 11360 9615 59  0000 L BNN
+F 1 "0.1uF" H 11360 9415 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 11300 9600 50  0001 C CNN
+F 3 "" H 11300 9600 50  0001 C CNN
+	1    11300 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY030
+U 1 1 065DB38D
+P 10900 10700
+F 0 "#SUPPLY030" H 10900 10700 50  0001 C CNN
+F 1 "GND" H 10825 10575 59  0000 L BNN
+F 2 "" H 10900 10700 50  0001 C CNN
+F 3 "" H 10900 10700 50  0001 C CNN
+	1    10900 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY031
+U 1 1 668EE308
+P 11300 10700
+F 0 "#SUPPLY031" H 11300 10700 50  0001 C CNN
+F 1 "GND" H 11225 10575 59  0000 L BNN
+F 2 "" H 11300 10700 50  0001 C CNN
+F 3 "" H 11300 10700 50  0001 C CNN
+	1    11300 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #+160V0101
+U 1 1 FCF9CD3B
+P 11300 9100
+F 0 "#+160V0101" H 11300 9100 50  0001 C CNN
+F 1 "+160V" V 11300 9150 59  0000 C BNN
+F 2 "" H 11300 9100 50  0001 C CNN
+F 3 "" H 11300 9100 50  0001 C CNN
+	1    11300 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:7447709330 L3
+U 1 1 D8782625
+P 6650 9300
+F 0 "L3" V 6600 9100 59  0000 L BNN
+F 1 "33uH" V 6800 9100 59  0000 L BNN
+F 2 "nixie_clock:DR125" H 6650 9300 50  0001 C CNN
+F 3 "" H 6650 9300 50  0001 C CNN
+	1    6650 9300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:BKP2125HS600-T L5
+U 1 1 31814C62
+P 10400 9300
+F 0 "L5" V 10350 9100 59  0000 L BNN
+F 1 "BKP2125HS600-T" V 10550 9100 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 10400 9300 50  0001 C CNN
+F 3 "" H 10400 9300 50  0001 C CNN
+	1    10400 9300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+012
+U 1 1 BC83E68F
+P 14400 7950
+F 0 "#P+012" H 14400 7950 50  0001 C CNN
+F 1 "+5V" V 14400 8000 59  0000 C BNN
+F 2 "" H 14400 7950 50  0001 C CNN
+F 3 "" H 14400 7950 50  0001 C CNN
+	1    14400 7950
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R30
+U 1 1 AF927572
+P 13300 8450
+F 0 "R30" H 13150 8509 59  0000 L BNN
+F 1 "10k" H 13150 8320 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 13300 8450 50  0001 C CNN
+F 3 "" H 13300 8450 50  0001 C CNN
+	1    13300 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R31
+U 1 1 941D0DBE
+P 13300 8850
+F 0 "R31" H 13150 8909 59  0000 L BNN
+F 1 "10k" H 13150 8720 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 13300 8850 50  0001 C CNN
+F 3 "" H 13300 8850 50  0001 C CNN
+	1    13300 8850
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R32
+U 1 1 ABCAA887
+P 13300 9250
+F 0 "R32" H 13150 9309 59  0000 L BNN
+F 1 "10k" H 13150 9120 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 13300 9250 50  0001 C CNN
+F 3 "" H 13300 9250 50  0001 C CNN
+	1    13300 9250
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R33
+U 1 1 533B5267
+P 13300 9650
+F 0 "R33" H 13150 9709 59  0000 L BNN
+F 1 "10k" H 13150 9520 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 13300 9650 50  0001 C CNN
+F 3 "" H 13300 9650 50  0001 C CNN
+	1    13300 9650
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R34
+U 1 1 B966ED6F
+P 13300 10050
+F 0 "R34" H 13150 10109 59  0000 L BNN
+F 1 "10k" H 13150 9920 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 13300 10050 50  0001 C CNN
+F 3 "" H 13300 10050 50  0001 C CNN
+	1    13300 10050
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R1210 R18
+U 1 1 E9519ED8
+P 9750 2700
+F 0 "R18" H 9600 2759 59  0000 L BNN
+F 1 "47k" H 9600 2570 59  0000 L BNN
+F 2 "nixie_clock:R1210" H 9750 2700 50  0001 C CNN
+F 3 "" H 9750 2700 50  0001 C CNN
+	1    9750 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R1210 R22
+U 1 1 732875F7
+P 9750 4700
+F 0 "R22" H 9600 4759 59  0000 L BNN
+F 1 "47k" H 9600 4570 59  0000 L BNN
+F 2 "nixie_clock:R1210" H 9750 4700 50  0001 C CNN
+F 3 "" H 9750 4700 50  0001 C CNN
+	1    9750 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R1210 R26
+U 1 1 8CC97C7A
+P 9750 6700
+F 0 "R26" H 9600 6759 59  0000 L BNN
+F 1 "47k" H 9600 6570 59  0000 L BNN
+F 2 "nixie_clock:R1210" H 9750 6700 50  0001 C CNN
+F 3 "" H 9750 6700 50  0001 C CNN
+	1    9750 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY033
+U 1 1 C39E5E7F
+P 5800 8350
+F 0 "#SUPPLY033" H 5800 8350 50  0001 C CNN
+F 1 "GND" H 5725 8225 59  0000 L BNN
+F 2 "" H 5800 8350 50  0001 C CNN
+F 3 "" H 5800 8350 50  0001 C CNN
+	1    5800 8350
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+08
+U 1 1 E32DC4A8
+P 5800 1750
+F 0 "#P+08" H 5800 1750 50  0001 C CNN
+F 1 "+5V" V 5800 1800 59  0000 C BNN
+F 2 "" H 5800 1750 50  0001 C CNN
+F 3 "" H 5800 1750 50  0001 C CNN
+	1    5800 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C130
+U 1 1 4CDFD9CD
+P 7000 3000
+F 0 "C130" H 7060 3015 59  0000 L BNN
+F 1 "10uF" H 7060 2815 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 7000 3000 50  0001 C CNN
+F 3 "" H 7000 3000 50  0001 C CNN
+	1    7000 3000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C17
+U 1 1 0D67D074
+P 7000 5500
+F 0 "C17" H 7060 5515 59  0000 L BNN
+F 1 "10uF" H 7060 5315 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 7000 5500 50  0001 C CNN
+F 3 "" H 7000 5500 50  0001 C CNN
+	1    7000 5500
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C19
+U 1 1 7D85CFC1
+P 7000 8000
+F 0 "C19" H 7060 8015 59  0000 L BNN
+F 1 "10uF" H 7060 7815 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 7000 8000 50  0001 C CNN
+F 3 "" H 7000 8000 50  0001 C CNN
+	1    7000 8000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:PIC16F18445 U$2
+U 1 1 87B7DF34
+P 13450 3800
+F 0 "U$2" H 13450 5650 59  0000 L BNN
+F 1 "PIC16F18445" H 14150 4700 59  0000 C CNN
+F 2 "nixie_clock:DIL20" H 13450 3800 50  0001 C CNN
+F 3 "" H 13450 3800 50  0001 C CNN
+	1    13450 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY020
+U 1 1 74256EE2
+P 14150 4100
+F 0 "#SUPPLY020" H 14150 4100 50  0001 C CNN
+F 1 "GND" H 14075 3975 59  0000 L BNN
+F 2 "" H 14150 4100 50  0001 C CNN
+F 3 "" H 14150 4100 50  0001 C CNN
+	1    14150 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+017
+U 1 1 C06B3C1E
+P 14150 1700
+F 0 "#P+017" H 14150 1700 50  0001 C CNN
+F 1 "+5V" V 14150 1750 59  0000 C BNN
+F 2 "" H 14150 1700 50  0001 C CNN
+F 3 "" H 14150 1700 50  0001 C CNN
+	1    14150 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R35
+U 1 1 6314DBB2
+P 12450 2050
+F 0 "R35" H 12300 2109 59  0000 L BNN
+F 1 "100k" H 12300 1920 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 12450 2050 50  0001 C CNN
+F 3 "" H 12450 2050 50  0001 C CNN
+	1    12450 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R36
+U 1 1 6D6E7ACD
+P 12900 2500
+F 0 "R36" H 12750 2559 59  0000 L BNN
+F 1 "100k" H 12750 2370 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 12900 2500 50  0001 C CNN
+F 3 "" H 12900 2500 50  0001 C CNN
+	1    12900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+018
+U 1 1 4FF0227B
+P 12450 1650
+F 0 "#P+018" H 12450 1650 50  0001 C CNN
+F 1 "+5V" V 12450 1700 59  0000 C BNN
+F 2 "" H 12450 1650 50  0001 C CNN
+F 3 "" H 12450 1650 50  0001 C CNN
+	1    12450 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C22
+U 1 1 05A8BE12
+P 12450 3000
+F 0 "C22" H 12510 3015 59  0000 L BNN
+F 1 "0.1uF" H 12510 2815 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 12450 3000 50  0001 C CNN
+F 3 "" H 12450 3000 50  0001 C CNN
+	1    12450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY034
+U 1 1 E0252FF9
+P 12450 3400
+F 0 "#SUPPLY034" H 12450 3400 50  0001 C CNN
+F 1 "GND" H 12375 3275 59  0000 L BNN
+F 2 "" H 12450 3400 50  0001 C CNN
+F 3 "" H 12450 3400 50  0001 C CNN
+	1    12450 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:JP1E JP4
+U 1 1 193933AB
+P 12250 2700
+F 0 "JP4" V 12200 2700 59  0000 L BNN
+F 1 "JP1E" V 12475 2700 59  0000 L BNN
+F 2 "nixie_clock:JP1" H 12250 2700 50  0001 C CNN
+F 3 "" H 12250 2700 50  0001 C CNN
+	1    12250 2700
+	0    -1   1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:MCP7940M U8
+U 1 1 CE704963
+P 13500 6600
+F 0 "U8" H 13900 7350 59  0000 L BNN
+F 1 "MCP7940M" H 13900 7250 59  0000 L BNN
+F 2 "nixie_clock:DIL8" H 13500 6600 50  0001 C CNN
+F 3 "" H 13500 6600 50  0001 C CNN
+	1    13500 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY025
+U 1 1 517FCEE6
+P 13800 7100
+F 0 "#SUPPLY025" H 13800 7100 50  0001 C CNN
+F 1 "GND" H 13725 6975 59  0000 L BNN
+F 2 "" H 13800 7100 50  0001 C CNN
+F 3 "" H 13800 7100 50  0001 C CNN
+	1    13800 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+010
+U 1 1 6665561A
+P 13800 5300
+F 0 "#P+010" H 13800 5300 50  0001 C CNN
+F 1 "+5V" V 13800 5350 59  0000 C BNN
+F 2 "" H 13800 5300 50  0001 C CNN
+F 3 "" H 13800 5300 50  0001 C CNN
+	1    13800 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R38
+U 1 1 EB0E8515
+P 14500 5800
+F 0 "R38" H 14350 5859 59  0000 L BNN
+F 1 "7.68k" H 14350 5670 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 14500 5800 50  0001 C CNN
+F 3 "" H 14500 5800 50  0001 C CNN
+	1    14500 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:R-US_R0805 R39
+U 1 1 E4F7FACA
+P 14800 5800
+F 0 "R39" H 14650 5859 59  0000 L BNN
+F 1 "7.68k" H 14650 5670 59  0000 L BNN
+F 2 "nixie_clock:R0805" H 14800 5800 50  0001 C CNN
+F 3 "" H 14800 5800 50  0001 C CNN
+	1    14800 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C24
+U 1 1 0F23406D
+P 13300 6600
+F 0 "C24" H 13360 6615 59  0000 L BNN
+F 1 "3pF" H 13360 6415 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 13300 6600 50  0001 C CNN
+F 3 "" H 13300 6600 50  0001 C CNN
+	1    13300 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:MS22 SW1
+U 1 1 F85A3293
+P 14750 1300
+F 0 "SW1" H 14750 1300 50  0001 C CNN
+F 1 "MS22" H 14750 1300 50  0001 C CNN
+F 2 "nixie_clock:MS22" H 14750 1300 50  0001 C CNN
+F 3 "" H 14750 1300 50  0001 C CNN
+	1    14750 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:B3FS-1000P U$3
+U 1 1 6E1B97F5
+P 14000 8450
+F 0 "U$3" H 14000 8450 50  0001 C CNN
+F 1 "B3FS-1000P" H 14000 8450 50  0001 C CNN
+F 2 "nixie_clock:B3FS-1000P" H 14000 8450 50  0001 C CNN
+F 3 "" H 14000 8450 50  0001 C CNN
+	1    14000 8450
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:B3FS-1000P U$4
+U 1 1 649D799B
+P 14000 8850
+F 0 "U$4" H 14000 8850 50  0001 C CNN
+F 1 "B3FS-1000P" H 14000 8850 50  0001 C CNN
+F 2 "nixie_clock:B3FS-1000P" H 14000 8850 50  0001 C CNN
+F 3 "" H 14000 8850 50  0001 C CNN
+	1    14000 8850
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:B3FS-1000P U$5
+U 1 1 BCE09641
+P 14000 9250
+F 0 "U$5" H 14000 9250 50  0001 C CNN
+F 1 "B3FS-1000P" H 14000 9250 50  0001 C CNN
+F 2 "nixie_clock:B3FS-1000P" H 14000 9250 50  0001 C CNN
+F 3 "" H 14000 9250 50  0001 C CNN
+	1    14000 9250
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:B3FS-1000P U$6
+U 1 1 CE08125E
+P 14000 9650
+F 0 "U$6" H 14000 9650 50  0001 C CNN
+F 1 "B3FS-1000P" H 14000 9650 50  0001 C CNN
+F 2 "nixie_clock:B3FS-1000P" H 14000 9650 50  0001 C CNN
+F 3 "" H 14000 9650 50  0001 C CNN
+	1    14000 9650
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:B3FS-1000P U$7
+U 1 1 63C62AE7
+P 14000 10050
+F 0 "U$7" H 14000 10050 50  0001 C CNN
+F 1 "B3FS-1000P" H 14000 10050 50  0001 C CNN
+F 2 "nixie_clock:B3FS-1000P" H 14000 10050 50  0001 C CNN
+F 3 "" H 14000 10050 50  0001 C CNN
+	1    14000 10050
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY032
+U 1 1 ED223F71
+P 13000 10350
+F 0 "#SUPPLY032" H 13000 10350 50  0001 C CNN
+F 1 "GND" H 12925 10225 59  0000 L BNN
+F 2 "" H 13000 10350 50  0001 C CNN
+F 3 "" H 13000 10350 50  0001 C CNN
+	1    13000 10350
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:+5V #P+09
+U 1 1 DD8F0AB4
+P 4600 1050
+F 0 "#P+09" H 4600 1050 50  0001 C CNN
+F 1 "+5V" V 4600 1100 59  0000 C BNN
+F 2 "" H 4600 1050 50  0001 C CNN
+F 3 "" H 4600 1050 50  0001 C CNN
+	1    4600 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C25
+U 1 1 B124C205
+P 4600 1450
+F 0 "C25" H 4660 1465 59  0000 L BNN
+F 1 "10uF" H 4660 1265 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 4600 1450 50  0001 C CNN
+F 3 "" H 4600 1450 50  0001 C CNN
+	1    4600 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C26
+U 1 1 E0D23C37
+P 4800 1450
+F 0 "C26" H 4860 1465 59  0000 L BNN
+F 1 "10uF" H 4860 1265 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 4800 1450 50  0001 C CNN
+F 3 "" H 4800 1450 50  0001 C CNN
+	1    4800 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C27
+U 1 1 2729CC2A
+P 5000 1450
+F 0 "C27" H 5060 1465 59  0000 L BNN
+F 1 "10uF" H 5060 1265 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 5000 1450 50  0001 C CNN
+F 3 "" H 5000 1450 50  0001 C CNN
+	1    5000 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C28
+U 1 1 45EE410D
+P 5200 1450
+F 0 "C28" H 5260 1465 59  0000 L BNN
+F 1 "10uF" H 5260 1265 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 5200 1450 50  0001 C CNN
+F 3 "" H 5200 1450 50  0001 C CNN
+	1    5200 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C29
+U 1 1 52D67CAE
+P 5400 1450
+F 0 "C29" H 5460 1465 59  0000 L BNN
+F 1 "10uF" H 5460 1265 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 5400 1450 50  0001 C CNN
+F 3 "" H 5400 1450 50  0001 C CNN
+	1    5400 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0603 C30
+U 1 1 FE0DD2C4
+P 5600 1450
+F 0 "C30" H 5660 1465 59  0000 L BNN
+F 1 "10uF" H 5660 1265 59  0000 L BNN
+F 2 "nixie_clock:C0603" H 5600 1450 50  0001 C CNN
+F 3 "" H 5600 1450 50  0001 C CNN
+	1    5600 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY036
+U 1 1 E3E40B96
+P 4600 1750
+F 0 "#SUPPLY036" H 4600 1750 50  0001 C CNN
+F 1 "GND" H 4525 1625 59  0000 L BNN
+F 2 "" H 4600 1750 50  0001 C CNN
+F 3 "" H 4600 1750 50  0001 C CNN
+	1    4600 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:MA06-1 SV1
+U 1 1 1FCB83CC
+P 12000 4100
+F 0 "SV1" H 11950 4430 59  0000 L BNN
+F 1 "MA06-1" H 11950 3600 59  0000 L BNN
+F 2 "nixie_clock:MA06-1" H 12000 4100 50  0001 C CNN
+F 3 "" H 12000 4100 50  0001 C CNN
+	1    12000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C9
+U 1 1 286C7332
+P 12800 6100
+F 0 "C9" H 12860 6115 59  0000 L BNN
+F 1 "3pF" H 12860 5915 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 12800 6100 50  0001 C CNN
+F 3 "" H 12800 6100 50  0001 C CNN
+	1    12800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:C-EUC0805 C23
+U 1 1 EBDBD48D
+P 12800 6400
+F 0 "C23" H 12860 6415 59  0000 L BNN
+F 1 "3pF" H 12860 6215 59  0000 L BNN
+F 2 "nixie_clock:C0805" H 12800 6400 50  0001 C CNN
+F 3 "" H 12800 6400 50  0001 C CNN
+	1    12800 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:SMDCRYSTAL XC1
+U 1 1 2BFECD88
+P 13100 6250
+F 0 "XC1" H 13200 6290 59  0000 L BNN
+F 1 "SMDCRYSTAL" H 13200 6150 59  0000 L BNN
+F 2 "nixie_clock:SMDCRYSTAL" H 13100 6250 50  0001 C CNN
+F 3 "" H 13100 6250 50  0001 C CNN
+	1    13100 6250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_clock-eagle-import:GND #SUPPLY035
+U 1 1 C61EE066
+P 12550 6600
+F 0 "#SUPPLY035" H 12550 6600 50  0001 C CNN
+F 1 "GND" H 12475 6475 59  0000 L BNN
+F 2 "" H 12550 6600 50  0001 C CNN
+F 3 "" H 12550 6600 50  0001 C CNN
+	1    12550 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:SN74HC595 U9
+U 1 1 D56F332C
+P 5400 3000
+F 0 "U9" H 5900 4050 59  0000 L BNN
+F 1 "SN74HC595" H 5900 3950 59  0000 L BNN
+F 2 "nixie_clock:DIL16" H 5400 3000 50  0001 C CNN
+F 3 "" H 5400 3000 50  0001 C CNN
+	1    5400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:SN74HC595 U10
+U 1 1 44D3FC8D
+P 5400 5500
+F 0 "U10" H 5900 6550 59  0000 L BNN
+F 1 "SN74HC595" H 5900 6450 59  0000 L BNN
+F 2 "nixie_clock:DIL16" H 5400 5500 50  0001 C CNN
+F 3 "" H 5400 5500 50  0001 C CNN
+	1    5400 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:SN74HC595 U11
+U 1 1 6BED38E3
+P 5400 8000
+F 0 "U11" H 5900 9050 59  0000 L BNN
+F 1 "SN74HC595" H 5900 8950 59  0000 L BNN
+F 2 "nixie_clock:DIL16" H 5400 8000 50  0001 C CNN
+F 3 "" H 5400 8000 50  0001 C CNN
+	1    5400 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:K155ID1 U1
+U 1 1 94FABF20
+P 1850 3150
+F 0 "U1" H 2150 4450 70  0000 L BNN
+F 1 "K155ID1" H 1850 3150 50  0001 C CNN
+F 2 "nixie_clock:DIL16" H 1850 3150 50  0001 C CNN
+F 3 "" H 1850 3150 50  0001 C CNN
+	1    1850 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:K155ID1 U2
+U 1 1 4E0AB7A9
+P 3800 3150
+F 0 "U2" H 4100 4450 70  0000 L BNN
+F 1 "K155ID1" H 3800 3150 50  0001 C CNN
+F 2 "nixie_clock:DIL16" H 3800 3150 50  0001 C CNN
+F 3 "" H 3800 3150 50  0001 C CNN
+	1    3800 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:K155ID1 U3
+U 1 1 C6A83FC2
+P 1850 5650
+F 0 "U3" H 2150 6950 70  0000 L BNN
+F 1 "K155ID1" H 1850 5650 50  0001 C CNN
+F 2 "nixie_clock:DIL16" H 1850 5650 50  0001 C CNN
+F 3 "" H 1850 5650 50  0001 C CNN
+	1    1850 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:K155ID1 U4
+U 1 1 AA9079E4
+P 3800 5650
+F 0 "U4" H 4100 6950 70  0000 L BNN
+F 1 "K155ID1" H 3800 5650 50  0001 C CNN
+F 2 "nixie_clock:DIL16" H 3800 5650 50  0001 C CNN
+F 3 "" H 3800 5650 50  0001 C CNN
+	1    3800 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:K155ID1 U5
+U 1 1 E3998434
+P 1850 8150
+F 0 "U5" H 2150 9450 70  0000 L BNN
+F 1 "K155ID1" H 1850 8150 50  0001 C CNN
+F 2 "nixie_clock:DIL16" H 1850 8150 50  0001 C CNN
+F 3 "" H 1850 8150 50  0001 C CNN
+	1    1850 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:K155ID1 U6
+U 1 1 0551BDC9
+P 3800 8150
+F 0 "U6" H 4100 9450 70  0000 L BNN
+F 1 "K155ID1" H 3800 8150 50  0001 C CNN
+F 2 "nixie_clock:DIL16" H 3800 8150 50  0001 C CNN
+F 3 "" H 3800 8150 50  0001 C CNN
+	1    3800 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:IN-14 N1
+U 1 1 1B43B371
+P 1150 3150
+F 0 "N1" H 1450 4450 70  0000 L BNN
+F 1 "IN-14" H 1150 3150 50  0001 C CNN
+F 2 "nixie_clock:IN-14" H 1150 3150 50  0001 C CNN
+F 3 "" H 1150 3150 50  0001 C CNN
+	1    1150 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:IN-14 N2
+U 1 1 DF6FB71B
+P 3000 3150
+F 0 "N2" H 3300 4450 70  0000 L BNN
+F 1 "IN-14" H 3000 3150 50  0001 C CNN
+F 2 "nixie_clock:IN-14" H 3000 3150 50  0001 C CNN
+F 3 "" H 3000 3150 50  0001 C CNN
+	1    3000 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:IN-14 N3
+U 1 1 DCCFC1C4
+P 1150 5650
+F 0 "N3" H 1450 6950 70  0000 L BNN
+F 1 "IN-14" H 1150 5650 50  0001 C CNN
+F 2 "nixie_clock:IN-14" H 1150 5650 50  0001 C CNN
+F 3 "" H 1150 5650 50  0001 C CNN
+	1    1150 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:IN-14 N4
+U 1 1 D35353E8
+P 3000 5650
+F 0 "N4" H 3300 6950 70  0000 L BNN
+F 1 "IN-14" H 3000 5650 50  0001 C CNN
+F 2 "nixie_clock:IN-14" H 3000 5650 50  0001 C CNN
+F 3 "" H 3000 5650 50  0001 C CNN
+	1    3000 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:IN-14 N5
+U 1 1 E4458DA0
+P 1150 8150
+F 0 "N5" H 1450 9450 70  0000 L BNN
+F 1 "IN-14" H 1150 8150 50  0001 C CNN
+F 2 "nixie_clock:IN-14" H 1150 8150 50  0001 C CNN
+F 3 "" H 1150 8150 50  0001 C CNN
+	1    1150 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_clock-eagle-import:IN-14 N6
+U 1 1 94DF63E5
+P 3000 8150
+F 0 "N6" H 3300 9450 70  0000 L BNN
+F 1 "IN-14" H 3000 8150 50  0001 C CNN
+F 2 "nixie_clock:IN-14" H 3000 8150 50  0001 C CNN
+F 3 "" H 3000 8150 50  0001 C CNN
+	1    3000 8150
+	1    0    0    -1  
+$EndComp
+Text Notes 2150 1950 0    70   ~ 0
+HR/DAY TENS
+Text Notes 4100 1950 0    70   ~ 0
+HR/DAY ONES
+Text Notes 2150 4450 0    70   ~ 0
+MIN/MONTH TENS
+Text Notes 4100 4450 0    70   ~ 0
+MIN/MONTH ONES
+Text Notes 2150 6950 0    70   ~ 0
+SEC/YR TENS
+Text Notes 4100 6950 0    70   ~ 0
+SEC/YR ONES
+Wire Notes Line
+	7550 700  7550 8900
+Text Notes 1050 950  0    127  ~ 0
+IN-14 and K155ID1 Connections
+Text Notes 7600 950  0    127  ~ 0
+Nixie HV Supply Switching
+Text Notes 8650 12000 0    127  ~ 0
+5V to 160V Boost Converter
+Wire Notes Line
+	15850 4750 11700 4750
+Text Notes 11750 950  0    127  ~ 0
+Microcontroller Connections
+Text Notes 11750 7750 0    127  ~ 0
+Button Interface Connections
+Text Notes 11750 5000 0    127  ~ 0
+Real Time Clock / Calendar Connections
+Wire Notes Line
+	11700 7500 15850 7500
+Wire Notes Line
+	15850 10600 11700 10600
+Text Notes 11750 11200 0    246  ~ 0
+Nixie Clock Schematic
+Text Notes 11750 11750 0    127  ~ 0
+Dylan Oh
+Text Notes 11750 10750 0    85   ~ 0
+Title:
+Wire Notes Line
+	15850 11400 11700 11400
+Text Notes 11750 11550 0    85   ~ 0
+Author:
+Text Notes 8650 12150 0    85   ~ 0
+Boost converter design by Mark Smith
+Text Notes 8650 12300 0    85   ~ 0
+https://github.com/drkmsmithjr/NixiePowerSupply
+Wire Notes Line
+	1000 8900 11700 8900
+Wire Notes Line
+	1000 700  1000 12400
+Wire Notes Line
+	1000 12400 15850 12400
+Wire Notes Line
+	1000 700  15850 700 
+Wire Notes Line
+	11700 700  11700 12400
+Wire Notes Line
+	15850 700  15850 12400
+$EndSCHEMATC

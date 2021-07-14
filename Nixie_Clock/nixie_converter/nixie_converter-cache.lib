@@ -1,0 +1,479 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# nixie_converter-eagle-import_+5V
+#
+DEF nixie_converter-eagle-import_+5V #P+ 0 40 Y Y 1 L P
+F0 "#P+" 0 0 50 H I C CNN
+F1 "nixie_converter-eagle-import_+5V" -100 -200 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 0 0 -50 -75 N
+P 2 1 0 0 50 -75 0 0 N
+X +5V 1 0 -100 100 U 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_-NPN-SOT23-BEC
+#
+DEF nixie_converter-eagle-import_-NPN-SOT23-BEC T 0 40 Y Y 1 L N
+F0 "T" -400 300 59 H V L BNN
+F1 "nixie_converter-eagle-import_-NPN-SOT23-BEC" -400 200 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -10 -100 20 100 1 0 0 F
+P 2 1 0 0 50 -100 70 -60 N
+P 2 1 0 0 60 -95 90 -95 N
+P 2 1 0 0 60 -90 75 -90 N
+P 2 1 0 0 60 -80 12 -56 N
+P 2 1 0 0 70 -70 60 -90 N
+P 2 1 0 0 70 -60 100 -100 N
+P 2 1 0 0 75 -90 70 -80 N
+P 2 1 0 0 90 -95 70 -70 N
+P 2 1 0 0 100 -100 50 -100 N
+P 2 1 0 0 100 100 20 60 N
+X B B -100 0 100 R 0 0 1 0 P
+X C C 100 200 100 D 0 0 1 0 P
+X E E 100 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_7447709330
+#
+DEF nixie_converter-eagle-import_7447709330 ~ 0 40 Y Y 1 L N
+F0 "" -50 -200 59 V V L BNN
+F1 "nixie_converter-eagle-import_7447709330" 150 -200 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A 0 -150 50 0 900 1 0 10 N 50 -150 0 -100
+A 0 -150 50 -900 0 1 0 10 N 0 -200 50 -150
+A 0 -50 50 0 900 1 0 10 N 50 -50 0 0
+A 0 -50 50 -900 0 1 0 10 N 0 -100 50 -50
+A 0 50 50 0 900 1 0 10 N 50 50 0 100
+A 0 50 50 -900 0 1 0 10 N 0 0 50 50
+A 0 150 50 0 900 1 0 10 N 50 150 0 200
+A 0 150 50 -900 0 1 0 10 N 0 100 50 150
+X 1 1 0 300 100 D 0 0 1 0 P
+X 2 2 0 -300 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_BAT54
+#
+DEF nixie_converter-eagle-import_BAT54 D 0 40 Y Y 1 L N
+F0 "D" -90 75 70 H V L BNN
+F1 "nixie_converter-eagle-import_BAT54" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -50 -50 50 0 N
+P 2 1 0 0 -50 0 -100 0 N
+P 2 1 0 0 -50 0 -50 -50 N
+P 2 1 0 0 -50 50 -50 0 N
+P 2 1 0 0 25 -40 25 -50 N
+P 2 1 0 0 50 -50 25 -50 N
+P 2 1 0 0 50 0 -50 50 N
+P 2 1 0 0 50 0 50 -50 N
+P 2 1 0 0 50 0 100 0 N
+P 2 1 0 0 50 50 50 0 N
+P 2 1 0 0 75 50 50 50 N
+P 2 1 0 0 75 50 75 40 N
+X C P$1 100 0 0 L 0 0 1 0 P
+X A P$2 -100 0 0 R 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_BKP2125HS600-T
+#
+DEF nixie_converter-eagle-import_BKP2125HS600-T ~ 0 40 Y Y 1 L N
+F0 "" -50 -200 59 V V L BNN
+F1 "nixie_converter-eagle-import_BKP2125HS600-T" 150 -200 59 V V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A 0 -150 50 0 900 1 0 10 N 50 -150 0 -100
+A 0 -150 50 -900 0 1 0 10 N 0 -200 50 -150
+A 0 -50 50 0 900 1 0 10 N 50 -50 0 0
+A 0 -50 50 -900 0 1 0 10 N 0 -100 50 -50
+A 0 50 50 0 900 1 0 10 N 50 50 0 100
+A 0 50 50 -900 0 1 0 10 N 0 0 50 50
+A 0 150 50 0 900 1 0 10 N 50 150 0 200
+A 0 150 50 -900 0 1 0 10 N 0 100 50 150
+X 1 1 0 300 100 D 0 0 1 0 P
+X 2 2 0 -300 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_C-EUC0603
+#
+DEF nixie_converter-eagle-import_C-EUC0603 C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "nixie_converter-eagle-import_C-EUC0603" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_C-EUC0805
+#
+DEF nixie_converter-eagle-import_C-EUC0805 C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "nixie_converter-eagle-import_C-EUC0805" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_C-EUC1206
+#
+DEF nixie_converter-eagle-import_C-EUC1206 C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "nixie_converter-eagle-import_C-EUC1206" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_C-EUC1210
+#
+DEF nixie_converter-eagle-import_C-EUC1210 C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "nixie_converter-eagle-import_C-EUC1210" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_C-EUC2220K
+#
+DEF nixie_converter-eagle-import_C-EUC2220K C 0 40 Y Y 1 L N
+F0 "C" 60 15 59 H V L BNN
+F1 "nixie_converter-eagle-import_C-EUC2220K" 60 -185 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -80 -80 80 -60 1 0 0 F
+S -80 -40 80 -20 1 0 0 F
+P 2 1 0 0 0 -100 0 -80 N
+P 2 1 0 0 0 0 0 -20 N
+X 1 1 0 100 100 D 0 0 1 0 P
+X 2 2 0 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_FD52672CT
+#
+DEF nixie_converter-eagle-import_FD52672CT ~ 0 40 Y Y 1 L N
+F0 "" 460 -300 59 V V L BNN
+F1 "nixie_converter-eagle-import_FD52672CT" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 80 0 175 1 0 6 N
+C 100 -100 14 1 0 0 N
+C 100 100 14 1 0 0 N
+T 900 -330 -300 59 0 1 0 FD52672CT Normal 0 L B
+P 2 1 0 0 -300 -300 -300 300 N
+P 2 1 0 0 -300 300 370 300 N
+P 2 1 0 0 -150 -200 -150 -300 N
+P 2 1 0 0 -150 200 -150 300 N
+P 2 1 0 0 0 -200 -150 -200 N
+P 2 1 0 0 0 -200 0 -300 N
+P 2 1 0 0 0 100 0 -100 N
+P 2 1 0 0 0 200 -150 200 N
+P 2 1 0 0 0 200 0 300 N
+P 2 1 0 0 30 -100 30 -125 N
+P 2 1 0 0 30 -75 30 -100 N
+P 2 1 0 0 30 0 30 -30 N
+P 2 1 0 0 30 0 100 0 N
+P 2 1 0 0 30 30 30 0 N
+P 2 1 0 0 30 100 30 75 N
+P 2 1 0 0 30 100 100 100 N
+P 2 1 0 0 30 125 30 100 N
+P 2 1 0 0 100 -200 0 -200 N
+P 2 1 0 0 100 -200 150 -200 N
+P 2 1 0 0 100 -100 30 -100 N
+P 2 1 0 0 100 -100 100 -200 N
+P 2 1 0 0 100 -100 150 -100 N
+P 2 1 0 0 100 0 100 -100 N
+P 2 1 0 0 100 100 100 200 N
+P 2 1 0 0 100 100 150 100 N
+P 2 1 0 0 100 200 0 200 N
+P 2 1 0 0 100 200 150 200 N
+P 2 1 0 0 130 20 120 10 N
+P 2 1 0 0 150 -200 150 -300 N
+P 2 1 0 0 150 -200 300 -200 N
+P 2 1 0 0 150 20 130 20 N
+P 2 1 0 0 150 20 150 -100 N
+P 2 1 0 0 150 100 150 20 N
+P 2 1 0 0 150 200 150 300 N
+P 2 1 0 0 150 200 300 200 N
+P 2 1 0 0 170 20 150 20 N
+P 2 1 0 0 180 30 170 20 N
+P 2 1 0 0 300 -200 300 -300 N
+P 2 1 0 0 300 200 300 300 N
+P 2 1 0 0 370 -300 -300 -300 N
+P 2 1 0 0 370 300 370 -300 N
+P 3 1 0 0 40 0 80 30 80 -30 F
+P 3 1 0 0 150 20 130 -10 170 -10 F
+X 1 1 300 -400 100 U 50 50 1 0 B
+X 2 2 150 -400 100 U 50 50 1 0 B
+X 3 3 0 -400 100 U 50 50 1 0 B
+X 4 4 -150 -400 100 U 50 50 1 0 B
+X 5 5 -150 400 100 D 50 50 1 0 B
+X 6 6 0 400 100 D 50 50 1 0 B
+X 7 7 150 400 100 D 50 50 1 0 B
+X 8 8 300 400 100 D 50 50 1 0 B
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_GF1
+#
+DEF nixie_converter-eagle-import_GF1 D 0 40 Y Y 1 L N
+F0 "D" -100 100 59 H V L BNN
+F1 "nixie_converter-eagle-import_GF1" -100 -150 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -50 -50 50 0 N
+P 2 1 0 0 -50 0 -100 0 N
+P 2 1 0 0 -50 0 -50 -50 N
+P 2 1 0 0 -50 50 -50 0 N
+P 2 1 0 0 50 0 -50 50 N
+P 2 1 0 0 50 0 50 -50 N
+P 2 1 0 0 50 0 100 0 N
+P 2 1 0 0 50 50 50 0 N
+X A A -100 0 0 R 0 0 1 0 P
+X C K 100 0 0 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_GND
+#
+DEF nixie_converter-eagle-import_GND #SUPPLY 0 40 Y Y 1 L P
+F0 "#SUPPLY" 0 0 50 H I C CNN
+F1 "nixie_converter-eagle-import_GND" -75 -125 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -50 0 50 0 N
+P 2 1 0 0 0 -50 -50 0 N
+P 2 1 0 0 50 0 0 -50 N
+X GND 1 0 100 100 D 0 0 1 0 W
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_M3_HOLE
+#
+DEF nixie_converter-eagle-import_M3_HOLE J 0 40 Y Y 1 L N
+F0 "J" 0 0 50 H I C CNN
+F1 "nixie_converter-eagle-import_M3_HOLE" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 50 50 1 0 10 N
+X P$1 P$1 0 -100 100 U 50 50 1 0 B
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_MMBTA42
+#
+DEF nixie_converter-eagle-import_MMBTA42 Q 0 40 Y Y 1 L N
+F0 "Q" -400 300 70 H V L BNN
+F1 "nixie_converter-eagle-import_MMBTA42" -400 200 70 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -10 -100 20 100 1 0 0 F
+P 2 1 0 0 50 -100 70 -60 N
+P 2 1 0 0 60 -95 90 -95 N
+P 2 1 0 0 60 -90 75 -90 N
+P 2 1 0 0 60 -80 12 -56 N
+P 2 1 0 0 70 -70 60 -90 N
+P 2 1 0 0 70 -60 100 -100 N
+P 2 1 0 0 75 -90 70 -80 N
+P 2 1 0 0 90 -95 70 -70 N
+P 2 1 0 0 100 -100 50 -100 N
+P 2 1 0 0 100 100 20 60 N
+X B 1 -100 0 100 R 0 0 1 0 P
+X E 2 100 -200 100 U 0 0 1 0 P
+X C 3 100 200 100 D 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_MMBTA92
+#
+DEF nixie_converter-eagle-import_MMBTA92 Q 0 40 Y Y 1 L N
+F0 "Q" -400 300 70 H V L BNN
+F1 "nixie_converter-eagle-import_MMBTA92" -400 200 70 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -10 -100 20 100 1 0 0 F
+P 2 1 0 0 20 58 82 66 N
+P 2 1 0 0 30 65 70 70 N
+P 2 1 0 0 45 75 60 75 N
+P 2 1 0 0 60 85 45 75 N
+P 2 1 0 0 60 95 30 65 N
+P 2 1 0 0 62 102 20 58 N
+P 2 1 0 0 70 70 60 85 N
+P 2 1 0 0 75 70 60 95 N
+P 2 1 0 0 82 66 62 102 N
+P 2 1 0 0 100 -100 20 -60 N
+P 2 1 0 0 100 100 71 83 N
+X B 1 -100 0 100 R 0 0 1 0 P
+X E 2 100 200 100 D 0 0 1 0 P
+X C 3 100 -200 100 U 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_R-US_R0805
+#
+DEF nixie_converter-eagle-import_R-US_R0805 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "nixie_converter-eagle-import_R-US_R0805" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 0 -85 40 N
+P 2 1 0 0 -85 40 -60 -40 N
+P 2 1 0 0 -60 -40 -35 40 N
+P 2 1 0 0 -35 40 -10 -40 N
+P 2 1 0 0 -10 -40 15 40 N
+P 2 1 0 0 15 40 40 -40 N
+P 2 1 0 0 40 -40 65 40 N
+P 2 1 0 0 65 40 90 -40 N
+P 2 1 0 0 90 -40 100 0 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_R-US_R1210
+#
+DEF nixie_converter-eagle-import_R-US_R1210 R 0 40 Y Y 1 L N
+F0 "R" -150 59 59 H V L BNN
+F1 "nixie_converter-eagle-import_R-US_R1210" -150 -130 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -100 0 -85 40 N
+P 2 1 0 0 -85 40 -60 -40 N
+P 2 1 0 0 -60 -40 -35 40 N
+P 2 1 0 0 -35 40 -10 -40 N
+P 2 1 0 0 -10 -40 15 40 N
+P 2 1 0 0 15 40 40 -40 N
+P 2 1 0 0 40 -40 65 40 N
+P 2 1 0 0 65 40 90 -40 N
+P 2 1 0 0 90 -40 100 0 N
+X 1 1 -200 0 100 R 0 0 1 0 P
+X 2 2 200 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_SSM-108-XXX-SV"
+#
+DEF nixie_converter-eagle-import_SSM-108-XXX-SV" J 0 40 Y Y 1 L N
+F0 "J" 0 930 50 H V L BNN
+F1 "nixie_converter-eagle-import_SSM-108-XXX-SV\"" 0 -80 50 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 0 0 0 900 N
+P 2 1 0 0 0 900 500 900 N
+P 2 1 0 0 500 0 0 0 N
+P 2 1 0 0 500 900 500 0 N
+X 1 1 -200 800 200 R 50 50 1 0 B
+X 2 2 700 700 200 L 50 50 1 0 B
+X 3 3 -200 600 200 R 50 50 1 0 B
+X 4 4 700 500 200 L 50 50 1 0 B
+X 5 5 -200 400 200 R 50 50 1 0 B
+X 6 6 700 300 200 L 50 50 1 0 B
+X 7 7 -200 200 200 R 50 50 1 0 B
+X 8 8 700 100 200 L 50 50 1 0 B
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_UCC3803DTR
+#
+DEF nixie_converter-eagle-import_UCC3803DTR U 0 40 Y Y 1 L N
+F0 "U" -500 500 59 H V L BNN
+F1 "nixie_converter-eagle-import_UCC3803DTR" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 100 -500 59 0 1 0 UCC3803 Normal 0 L B
+P 2 1 0 0 -400 -400 -400 400 N
+P 2 1 0 0 -400 400 400 400 N
+P 2 1 0 0 400 -400 -400 -400 N
+P 2 1 0 0 400 400 400 -400 N
+X COMP 1 -500 -300 100 R 50 50 1 0 B
+X FB 2 500 -300 100 L 50 50 1 0 B
+X ISENSE 3 500 0 100 L 50 50 1 0 B
+X R/C 4 -500 0 100 R 50 50 1 0 B
+X GND 5 0 -500 100 U 50 50 1 0 B
+X OUT 6 500 300 100 L 50 50 1 0 B
+X VCC 7 0 500 100 D 50 50 1 0 B
+X VREF 8 -500 300 100 R 50 50 1 0 B
+ENDDRAW
+ENDDEF
+#
+# nixie_converter-eagle-import_USB-C_RECEPTACLE
+#
+DEF nixie_converter-eagle-import_USB-C_RECEPTACLE ~ 0 40 Y Y 1 L N
+F0 "" 0 0 50 H I C CNN
+F1 "nixie_converter-eagle-import_USB-C_RECEPTACLE" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 0 420 42 0 1 0 USB-C Normal 0 L B
+P 2 1 0 0 0 0 0 400 N
+P 2 1 0 0 0 400 400 400 N
+P 2 1 0 0 400 0 0 0 N
+P 2 1 0 0 400 400 400 0 N
+X GND P$1 500 100 100 L 0 50 1 0 B
+X VCC P$18 500 300 100 L 0 50 1 0 B
+X GND P$2 500 100 100 L 0 50 1 0 B
+X GND P$21 500 100 100 L 0 50 1 0 B
+X VCC P$24 500 300 100 L 0 50 1 0 B
+X GND P$27 500 100 100 L 0 50 1 0 B
+X GND P$28 500 100 100 L 0 50 1 0 B
+X GND P$29 500 100 100 L 0 50 1 0 B
+X GND P$3 500 100 100 L 0 50 1 0 B
+X GND P$4 500 100 100 L 0 50 1 0 B
+X GND P$5 500 100 100 L 0 50 1 0 B
+ENDDRAW
+ENDDEF
+#
+#End Library

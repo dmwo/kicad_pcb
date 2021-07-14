@@ -1,0 +1,1523 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 12766 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	2950 4900 2950 5000
+Text Label 2950 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	3350 4900 3350 5000
+Text Label 3350 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	2750 6300 2750 6500
+Text Label 2750 6300 0    10   ~ 0
+GND
+Wire Wire Line
+	3150 6400 3150 6500
+Text Label 3150 6400 0    10   ~ 0
+GND
+Wire Wire Line
+	2550 6800 2550 6900
+Text Label 2550 6800 0    10   ~ 0
+GND
+Wire Wire Line
+	3950 6400 3950 6500
+Text Label 3950 6400 0    10   ~ 0
+GND
+Wire Wire Line
+	3650 5800 3650 5900
+Text Label 3650 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	5150 6500 5150 6600
+Text Label 5150 6500 0    10   ~ 0
+GND
+Wire Wire Line
+	5550 4900 5550 5000
+Text Label 5550 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	5950 4900 5950 5000
+Text Label 5950 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	6150 6500 6150 6600
+Text Label 6150 6500 0    10   ~ 0
+GND
+Wire Wire Line
+	7350 6500 7350 6600
+Text Label 7350 6500 0    10   ~ 0
+GND
+Wire Wire Line
+	7750 4900 7750 5000
+Text Label 7750 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	1550 4600 1650 4600
+Wire Wire Line
+	1650 4600 1650 4700
+Text Label 1550 4600 0    10   ~ 0
+GND
+Wire Wire Line
+	8700 5600 8700 5700
+Text Label 8700 5600 0    10   ~ 0
+GND
+Wire Wire Line
+	9100 4900 9100 5700
+Text Label 9100 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	9500 4900 9500 5700
+Text Label 9500 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	9900 4900 9900 5700
+Text Label 9900 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	10900 4900 10900 5700
+Text Label 10900 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	11300 4900 11300 5700
+Text Label 11300 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	3200 2550 3600 2550
+Wire Wire Line
+	3600 2550 3600 3350
+Wire Wire Line
+	3600 3350 3500 3350
+Wire Wire Line
+	3600 3350 3700 3350
+Connection ~ 3600 3350
+Text Label 3200 2550 0    10   ~ 0
+GND
+Wire Wire Line
+	5200 2550 5600 2550
+Wire Wire Line
+	5600 2550 5600 3350
+Wire Wire Line
+	5600 3350 5500 3350
+Wire Wire Line
+	5600 3350 5700 3350
+Connection ~ 5600 3350
+Text Label 5200 2550 0    10   ~ 0
+GND
+Wire Wire Line
+	7600 2550 7600 3350
+Wire Wire Line
+	7600 3350 7500 3350
+Wire Wire Line
+	7600 3350 7700 3350
+Wire Wire Line
+	7200 2550 7600 2550
+Connection ~ 7600 3350
+Text Label 7600 2550 0    10   ~ 0
+GND
+Wire Wire Line
+	8700 3400 8700 3500
+Wire Wire Line
+	8700 3500 8900 3500
+Wire Wire Line
+	8900 3400 8900 3500
+Wire Wire Line
+	8700 3500 8700 3600
+Connection ~ 8700 3500
+Text Label 8700 3400 0    10   ~ 0
+GND
+Wire Wire Line
+	2550 5000 2550 5700
+Wire Wire Line
+	2550 5700 2850 5700
+Wire Wire Line
+	2550 5700 2550 5900
+Wire Wire Line
+	2550 5900 2550 6400
+Wire Wire Line
+	2750 6000 2750 5900
+Wire Wire Line
+	2750 5900 2550 5900
+Wire Wire Line
+	2750 5900 3150 5900
+Wire Wire Line
+	3150 5900 3150 6000
+Connection ~ 2550 5700
+Connection ~ 2550 5900
+Connection ~ 2750 5900
+Wire Wire Line
+	2350 6600 2050 6600
+Wire Wire Line
+	2050 5000 2050 6600
+Wire Wire Line
+	2050 6600 1950 6600
+Connection ~ 2050 6600
+Wire Wire Line
+	5150 5500 5150 4400
+Wire Wire Line
+	5150 4400 4550 4400
+Wire Wire Line
+	5150 4400 5550 4400
+Wire Wire Line
+	5550 4400 5550 4600
+Wire Wire Line
+	5550 4400 5950 4400
+Wire Wire Line
+	5950 4400 5950 4600
+Wire Wire Line
+	6350 4400 5950 4400
+Connection ~ 5150 4400
+Connection ~ 5550 4400
+Connection ~ 5950 4400
+Wire Wire Line
+	3650 5500 3650 5400
+Wire Wire Line
+	3650 5400 3950 5400
+Wire Wire Line
+	3950 5400 3950 5500
+Wire Wire Line
+	3950 5400 4250 5400
+Wire Wire Line
+	4250 5400 4250 5700
+Wire Wire Line
+	4650 5700 4250 5700
+Wire Wire Line
+	4250 5400 5750 5400
+Connection ~ 3950 5400
+Connection ~ 4250 5400
+Wire Wire Line
+	3950 5900 3950 6000
+Wire Wire Line
+	3950 6000 3950 6100
+Wire Wire Line
+	3950 6000 4650 6000
+Connection ~ 3950 6000
+Wire Wire Line
+	3050 5700 3450 5700
+Wire Wire Line
+	3450 5700 3450 6800
+Wire Wire Line
+	3450 6800 4250 6800
+Wire Wire Line
+	4250 6800 4250 6300
+Wire Wire Line
+	4250 6300 4650 6300
+Wire Wire Line
+	3450 6800 3450 7000
+Wire Wire Line
+	3450 7000 3650 7000
+Wire Wire Line
+	3450 7000 3450 7300
+Wire Wire Line
+	3450 7300 3650 7300
+Connection ~ 3450 6800
+Connection ~ 3450 7000
+Wire Wire Line
+	5750 5700 5650 5700
+Wire Wire Line
+	6150 5400 6350 5400
+Wire Wire Line
+	6350 5400 6350 6000
+Wire Wire Line
+	6350 6000 6150 6000
+Wire Wire Line
+	6150 6000 5650 6000
+Wire Wire Line
+	6150 6000 6150 6200
+Wire Wire Line
+	6350 6000 6550 6000
+Connection ~ 6150 6000
+Connection ~ 6350 6000
+Wire Wire Line
+	3950 7300 4050 7300
+Wire Wire Line
+	4050 7000 4550 7000
+Wire Wire Line
+	4550 7000 4550 7300
+Wire Wire Line
+	4550 7300 4450 7300
+Wire Wire Line
+	5650 6300 5750 6300
+Wire Wire Line
+	5750 6300 5750 7300
+Wire Wire Line
+	5750 7300 4550 7300
+Wire Wire Line
+	5750 7300 8250 7300
+Wire Wire Line
+	8250 7300 8250 5100
+Wire Wire Line
+	8250 5100 8250 4900
+Wire Wire Line
+	8700 4950 8700 5100
+Wire Wire Line
+	8700 5100 8250 5100
+Wire Wire Line
+	8700 5100 8700 5200
+Connection ~ 4550 7300
+Connection ~ 5750 7300
+Connection ~ 8250 5100
+Connection ~ 8700 5100
+Wire Wire Line
+	6150 5700 6900 5700
+Wire Wire Line
+	6900 5700 6900 5600
+Wire Wire Line
+	7050 5600 7050 5700
+Wire Wire Line
+	7050 5700 7200 5700
+Wire Wire Line
+	7200 5700 7200 5600
+Wire Wire Line
+	7350 5600 7350 5700
+Wire Wire Line
+	7350 5700 7200 5700
+Wire Wire Line
+	7350 5700 7350 6000
+Wire Wire Line
+	7350 6000 6950 6000
+Wire Wire Line
+	7350 6000 7350 6100
+Connection ~ 7200 5700
+Connection ~ 7350 5700
+Connection ~ 7350 6000
+Wire Wire Line
+	6900 4800 6900 4700
+Wire Wire Line
+	6900 4700 7050 4700
+Wire Wire Line
+	7050 4700 7050 4800
+Wire Wire Line
+	7050 4700 7200 4700
+Wire Wire Line
+	7200 4700 7200 4800
+Wire Wire Line
+	7350 4800 7350 4700
+Wire Wire Line
+	7350 4700 7200 4700
+Wire Wire Line
+	7350 4700 7350 4400
+Wire Wire Line
+	7350 4400 7750 4400
+Wire Wire Line
+	7750 4400 7750 4600
+Wire Wire Line
+	7900 4400 7750 4400
+Wire Wire Line
+	6950 4400 7350 4400
+Connection ~ 7050 4700
+Connection ~ 7200 4700
+Connection ~ 7350 4700
+Connection ~ 7750 4400
+Connection ~ 7350 4400
+Wire Wire Line
+	2950 4600 2950 4400
+Wire Wire Line
+	2950 4400 3350 4400
+Wire Wire Line
+	3350 4400 3350 4600
+Wire Wire Line
+	2550 4600 2550 4400
+Wire Wire Line
+	2550 4400 2950 4400
+Wire Wire Line
+	2050 4600 2050 4400
+Wire Wire Line
+	2050 4400 2550 4400
+Wire Wire Line
+	3950 4400 3350 4400
+Wire Wire Line
+	2050 4400 2050 4300
+Wire Wire Line
+	1550 4400 2050 4400
+Connection ~ 2950 4400
+Connection ~ 2550 4400
+Connection ~ 3350 4400
+Connection ~ 2050 4400
+Text Label 2950 4600 0    10   ~ 0
++5V
+Wire Wire Line
+	10300 2600 10200 2600
+Text Label 10300 2600 0    70   ~ 0
++5V
+Wire Wire Line
+	10900 4400 10900 4600
+Wire Wire Line
+	11300 4600 11300 4400
+Wire Wire Line
+	11300 4400 10900 4400
+Wire Wire Line
+	11300 4400 11300 4300
+Wire Wire Line
+	10700 4400 10900 4400
+Connection ~ 11300 4400
+Connection ~ 10900 4400
+Text Label 10900 4400 0    10   ~ 0
++160V
+Wire Wire Line
+	2200 2550 2100 2550
+Wire Wire Line
+	2100 2550 2100 1750
+Wire Wire Line
+	2100 1750 2500 1750
+Wire Wire Line
+	2100 1750 2000 1750
+Connection ~ 2100 1750
+Text Label 2200 2550 0    10   ~ 0
++160V
+Wire Wire Line
+	4200 2550 4100 2550
+Wire Wire Line
+	4100 2550 4100 1750
+Wire Wire Line
+	4100 1750 4500 1750
+Wire Wire Line
+	4100 1750 4000 1750
+Connection ~ 4100 1750
+Text Label 4200 2550 0    10   ~ 0
++160V
+Wire Wire Line
+	6200 2550 6100 2550
+Wire Wire Line
+	6100 2550 6100 1750
+Wire Wire Line
+	6100 1750 6500 1750
+Wire Wire Line
+	6100 1750 6000 1750
+Connection ~ 6100 1750
+Text Label 6200 2550 0    10   ~ 0
++160V
+Wire Wire Line
+	8100 4400 8250 4400
+Wire Wire Line
+	8250 4400 8250 4600
+Wire Wire Line
+	8250 4400 8700 4400
+Wire Wire Line
+	8700 4400 8700 4550
+Wire Wire Line
+	9100 4600 9100 4400
+Wire Wire Line
+	9100 4400 8700 4400
+Wire Wire Line
+	9500 4600 9500 4400
+Wire Wire Line
+	9500 4400 9100 4400
+Wire Wire Line
+	9900 4600 9900 4400
+Wire Wire Line
+	9900 4400 9500 4400
+Wire Wire Line
+	10100 4400 9900 4400
+Connection ~ 8700 4400
+Connection ~ 9100 4400
+Connection ~ 9500 4400
+Connection ~ 9900 4400
+Wire Wire Line
+	1550 6600 1450 6600
+Text Label 1450 6600 2    70   ~ 0
+EN_HV
+Wire Wire Line
+	9200 2500 9300 2500
+Text Label 9200 2500 2    70   ~ 0
+EN_HV
+Wire Wire Line
+	7000 3250 7000 3350
+Wire Wire Line
+	7000 3350 7000 3450
+Wire Wire Line
+	7100 3350 7000 3350
+Connection ~ 7000 3350
+Text Label 7000 3450 3    70   ~ 0
+SW_SY
+Wire Wire Line
+	10300 2400 10200 2400
+Text Label 10300 2400 0    70   ~ 0
+SW_SY
+Wire Wire Line
+	6900 1750 7000 1750
+Wire Wire Line
+	7000 1750 7000 1650
+Text Label 7000 1650 1    70   ~ 0
+V_SEC/YR
+Wire Wire Line
+	9200 2100 9300 2100
+Text Label 9200 2100 2    70   ~ 0
+V_SEC/YR
+Wire Wire Line
+	2900 1750 3000 1750
+Wire Wire Line
+	3000 1750 3000 1650
+Text Label 3000 1650 1    70   ~ 0
+V_HR/DAY
+Wire Wire Line
+	9200 1900 9300 1900
+Text Label 9200 1900 2    70   ~ 0
+V_HR/DAY
+Wire Wire Line
+	4900 1750 5000 1750
+Wire Wire Line
+	5000 1750 5000 1650
+Text Label 5000 1650 1    70   ~ 0
+V_MIN/MONTH
+Wire Wire Line
+	10300 2000 10200 2000
+Text Label 10300 2000 0    70   ~ 0
+V_MIN/MONTH
+Wire Wire Line
+	3000 3250 3000 3350
+Wire Wire Line
+	3000 3350 3000 3450
+Wire Wire Line
+	3100 3350 3000 3350
+Connection ~ 3000 3350
+Text Label 3000 3450 3    70   ~ 0
+SW_HD
+Wire Wire Line
+	10300 2200 10200 2200
+Text Label 10300 2200 0    70   ~ 0
+SW_HD
+Wire Wire Line
+	5000 3250 5000 3350
+Wire Wire Line
+	5000 3350 5000 3450
+Wire Wire Line
+	5100 3350 5000 3350
+Connection ~ 5000 3350
+Text Label 5000 3450 3    70   ~ 0
+SW_MM
+Wire Wire Line
+	9200 2300 9300 2300
+Text Label 9200 2300 2    70   ~ 0
+SW_MM
+Wire Wire Line
+	6800 2550 6700 2550
+Wire Wire Line
+	6700 2550 6600 2550
+Wire Wire Line
+	6700 2450 6700 2550
+Connection ~ 6700 2550
+Wire Wire Line
+	4800 2550 4700 2550
+Wire Wire Line
+	4700 2550 4600 2550
+Wire Wire Line
+	4700 2450 4700 2550
+Connection ~ 4700 2550
+Wire Wire Line
+	2800 2550 2700 2550
+Wire Wire Line
+	2700 2550 2600 2550
+Wire Wire Line
+	2700 2450 2700 2550
+Connection ~ 2700 2550
+Wire Wire Line
+	2700 1950 2700 2050
+Wire Wire Line
+	4700 1950 4700 2050
+Wire Wire Line
+	6700 1950 6700 2050
+Wire Wire Line
+	3000 2750 3000 2850
+Wire Wire Line
+	5000 2750 5000 2850
+Wire Wire Line
+	7000 2750 7000 2850
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R7
+U 1 1 50752415
+P 2550 4800
+F 0 "R7" H 2400 4859 59  0000 L BNN
+F 1 "2k" H 2400 4670 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 2550 4800 50  0001 C CNN
+F 3 "" H 2550 4800 50  0001 C CNN
+	1    2550 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC1210 C16
+U 1 1 E304C1D9
+P 2950 4700
+F 0 "C16" H 3010 4715 59  0000 L BNN
+F 1 "100uF" H 3010 4515 59  0000 L BNN
+F 2 "nixie_converter:C1210" H 2950 4700 50  0001 C CNN
+F 3 "" H 2950 4700 50  0001 C CNN
+	1    2950 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C18
+U 1 1 9D5497DE
+P 3350 4700
+F 0 "C18" H 3410 4715 59  0000 L BNN
+F 1 "0.1uF" H 3410 4515 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 3350 4700 50  0001 C CNN
+F 3 "" H 3350 4700 50  0001 C CNN
+	1    3350 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY1
+U 1 1 F54A36B8
+P 2950 5100
+F 0 "#SUPPLY1" H 2950 5100 50  0001 C CNN
+F 1 "GND" H 2875 4975 59  0000 L BNN
+F 2 "" H 2950 5100 50  0001 C CNN
+F 3 "" H 2950 5100 50  0001 C CNN
+	1    2950 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY2
+U 1 1 19032892
+P 3350 5100
+F 0 "#SUPPLY2" H 3350 5100 50  0001 C CNN
+F 1 "GND" H 3275 4975 59  0000 L BNN
+F 2 "" H 3350 5100 50  0001 C CNN
+F 3 "" H 3350 5100 50  0001 C CNN
+	1    3350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC1206 C14
+U 1 1 BF09C543
+P 2750 6100
+F 0 "C14" H 2810 6115 59  0000 L BNN
+F 1 "47uF" H 2810 5915 59  0000 L BNN
+F 2 "nixie_converter:C1206" H 2750 6100 50  0001 C CNN
+F 3 "" H 2750 6100 50  0001 C CNN
+	1    2750 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R9
+U 1 1 1D219127
+P 3150 6200
+F 0 "R9" V 3309 6150 59  0000 R TNN
+F 1 "100k" V 3220 6150 59  0000 R TNN
+F 2 "nixie_converter:R0805" H 3150 6200 50  0001 C CNN
+F 3 "" H 3150 6200 50  0001 C CNN
+	1    3150 6200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY3
+U 1 1 4F8E092B
+P 2750 6600
+F 0 "#SUPPLY3" H 2750 6600 50  0001 C CNN
+F 1 "GND" H 2675 6475 59  0000 L BNN
+F 2 "" H 2750 6600 50  0001 C CNN
+F 3 "" H 2750 6600 50  0001 C CNN
+	1    2750 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY4
+U 1 1 1C9152C2
+P 3150 6600
+F 0 "#SUPPLY4" H 3150 6600 50  0001 C CNN
+F 1 "GND" H 3075 6475 59  0000 L BNN
+F 2 "" H 3150 6600 50  0001 C CNN
+F 3 "" H 3150 6600 50  0001 C CNN
+	1    3150 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:-NPN-SOT23-BEC Q26
+U 1 1 54F26D17
+P 2450 6600
+F 0 "Q26" H 2050 6900 59  0000 L BNN
+F 1 "MMBT42" H 2050 6800 59  0000 L BNN
+F 2 "nixie_converter:SOT23-BEC" H 2450 6600 50  0001 C CNN
+F 3 "" H 2450 6600 50  0001 C CNN
+	1    2450 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY5
+U 1 1 20B1DDDE
+P 2550 7000
+F 0 "#SUPPLY5" H 2550 7000 50  0001 C CNN
+F 1 "GND" H 2475 6875 59  0000 L BNN
+F 2 "" H 2550 7000 50  0001 C CNN
+F 3 "" H 2550 7000 50  0001 C CNN
+	1    2550 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R4
+U 1 1 8EE1C540
+P 2050 4800
+F 0 "R4" H 1900 4859 59  0000 L BNN
+F 1 "100k" H 1900 4670 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 2050 4800 50  0001 C CNN
+F 3 "" H 2050 4800 50  0001 C CNN
+	1    2050 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R1
+U 1 1 DDF01354
+P 1750 6600
+F 0 "R1" H 1600 6659 59  0000 L BNN
+F 1 "1k" H 1600 6470 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 1750 6600 50  0001 C CNN
+F 3 "" H 1750 6600 50  0001 C CNN
+	1    1750 6600
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:BKP2125HS600-T L2
+U 1 1 B1AD6528
+P 4250 4400
+F 0 "L2" V 4200 4200 59  0000 L BNN
+F 1 "BKP2125HS600-T" V 4400 4200 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 4250 4400 50  0001 C CNN
+F 3 "" H 4250 4400 50  0001 C CNN
+	1    4250 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:UCC3803DTR U7
+U 1 1 3F614461
+P 5150 6000
+F 0 "U7" H 4650 6500 59  0000 L BNN
+F 1 "UCC3803DTR" H 5150 6000 50  0001 C CNN
+F 2 "nixie_converter:SO8" H 5150 6000 50  0001 C CNN
+F 3 "" H 5150 6000 50  0001 C CNN
+	1    5150 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R2
+U 1 1 FB0B0023
+P 3950 5700
+F 0 "R2" H 3800 5759 59  0000 L BNN
+F 1 "60.4k" H 3800 5570 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 3950 5700 50  0001 C CNN
+F 3 "" H 3950 5700 50  0001 C CNN
+	1    3950 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C10
+U 1 1 6EEB2871
+P 3650 5600
+F 0 "C10" H 3710 5615 59  0000 L BNN
+F 1 "0.1uF" H 3710 5415 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 3650 5600 50  0001 C CNN
+F 3 "" H 3650 5600 50  0001 C CNN
+	1    3650 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C7
+U 1 1 3A89E090
+P 3950 6200
+F 0 "C7" H 4010 6215 59  0000 L BNN
+F 1 "430pF" H 4010 6015 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 3950 6200 50  0001 C CNN
+F 3 "" H 3950 6200 50  0001 C CNN
+	1    3950 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY6
+U 1 1 A7CD5EB6
+P 3950 6600
+F 0 "#SUPPLY6" H 3950 6600 50  0001 C CNN
+F 1 "GND" H 3875 6475 59  0000 L BNN
+F 2 "" H 3950 6600 50  0001 C CNN
+F 3 "" H 3950 6600 50  0001 C CNN
+	1    3950 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY7
+U 1 1 2907E397
+P 3650 6000
+F 0 "#SUPPLY7" H 3650 6000 50  0001 C CNN
+F 1 "GND" H 3575 5875 59  0000 L BNN
+F 2 "" H 3650 6000 50  0001 C CNN
+F 3 "" H 3650 6000 50  0001 C CNN
+	1    3650 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY8
+U 1 1 39566F8A
+P 5150 6700
+F 0 "#SUPPLY8" H 5150 6700 50  0001 C CNN
+F 1 "GND" H 5075 6575 59  0000 L BNN
+F 2 "" H 5150 6700 50  0001 C CNN
+F 3 "" H 5150 6700 50  0001 C CNN
+	1    5150 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY9
+U 1 1 B8640D54
+P 5550 5100
+F 0 "#SUPPLY9" H 5550 5100 50  0001 C CNN
+F 1 "GND" H 5475 4975 59  0000 L BNN
+F 2 "" H 5550 5100 50  0001 C CNN
+F 3 "" H 5550 5100 50  0001 C CNN
+	1    5550 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY10
+U 1 1 28999800
+P 5950 5100
+F 0 "#SUPPLY10" H 5950 5100 50  0001 C CNN
+F 1 "GND" H 5875 4975 59  0000 L BNN
+F 2 "" H 5950 5100 50  0001 C CNN
+F 3 "" H 5950 5100 50  0001 C CNN
+	1    5950 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC1210 C4
+U 1 1 BD1B83AA
+P 5550 4700
+F 0 "C4" H 5610 4715 59  0000 L BNN
+F 1 "100uF" H 5610 4515 59  0000 L BNN
+F 2 "nixie_converter:C1210" H 5550 4700 50  0001 C CNN
+F 3 "" H 5550 4700 50  0001 C CNN
+	1    5550 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC1210 C8
+U 1 1 190A049D
+P 5950 4700
+F 0 "C8" H 6010 4715 59  0000 L BNN
+F 1 "100uF" H 6010 4515 59  0000 L BNN
+F 2 "nixie_converter:C1210" H 5950 4700 50  0001 C CNN
+F 3 "" H 5950 4700 50  0001 C CNN
+	1    5950 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R12
+U 1 1 EB02D104
+P 5950 5400
+F 0 "R12" H 5800 5459 59  0000 L BNN
+F 1 "4.12k" H 5800 5270 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 5950 5400 50  0001 C CNN
+F 3 "" H 5950 5400 50  0001 C CNN
+	1    5950 5400
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R6
+U 1 1 1D372C77
+P 5950 5700
+F 0 "R6" H 5800 5759 59  0000 L BNN
+F 1 "0" H 5800 5570 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 5950 5700 50  0001 C CNN
+F 3 "" H 5950 5700 50  0001 C CNN
+	1    5950 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C5
+U 1 1 5FB3C2EC
+P 3750 7300
+F 0 "C5" H 3810 7315 59  0000 L BNN
+F 1 "220pF" H 3810 7115 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 3750 7300 50  0001 C CNN
+F 3 "" H 3750 7300 50  0001 C CNN
+	1    3750 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R3
+U 1 1 955EB68C
+P 3850 7000
+F 0 "R3" V 4009 6950 59  0000 R TNN
+F 1 "N.U." V 3920 6950 59  0000 R TNN
+F 2 "nixie_converter:R0805" H 3850 7000 50  0001 C CNN
+F 3 "" H 3850 7000 50  0001 C CNN
+	1    3850 7000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R5
+U 1 1 CC34444D
+P 4250 7300
+F 0 "R5" V 4409 7250 59  0000 R TNN
+F 1 "0" V 4320 7250 59  0000 R TNN
+F 2 "nixie_converter:R0805" H 4250 7300 50  0001 C CNN
+F 3 "" H 4250 7300 50  0001 C CNN
+	1    4250 7300
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C11
+U 1 1 90B66C03
+P 6150 6300
+F 0 "C11" H 6210 6315 59  0000 L BNN
+F 1 "1nF" H 6210 6115 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 6150 6300 50  0001 C CNN
+F 3 "" H 6150 6300 50  0001 C CNN
+	1    6150 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY11
+U 1 1 E0B04C0E
+P 6150 6700
+F 0 "#SUPPLY11" H 6150 6700 50  0001 C CNN
+F 1 "GND" H 6075 6575 59  0000 L BNN
+F 2 "" H 6150 6700 50  0001 C CNN
+F 3 "" H 6150 6700 50  0001 C CNN
+	1    6150 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R8
+U 1 1 B2A0FD76
+P 6750 6000
+F 0 "R8" H 6600 6059 59  0000 L BNN
+F 1 "1k" H 6600 5870 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 6750 6000 50  0001 C CNN
+F 3 "" H 6750 6000 50  0001 C CNN
+	1    6750 6000
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:FD52672CT Q1
+U 1 1 22BC07EB
+P 7050 5200
+F 0 "Q1" V 7510 4900 59  0000 L BNN
+F 1 "FD52672CT" H 7050 5200 50  0001 C CNN
+F 2 "nixie_converter:SO8" H 7050 5200 50  0001 C CNN
+F 3 "" H 7050 5200 50  0001 C CNN
+	1    7050 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R10
+U 1 1 7760EF16
+P 7350 6300
+F 0 "R10" H 7200 6359 59  0000 L BNN
+F 1 "0.1 1/2W" H 7200 6170 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 7350 6300 50  0001 C CNN
+F 3 "" H 7350 6300 50  0001 C CNN
+	1    7350 6300
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY12
+U 1 1 31C2C8A5
+P 7350 6700
+F 0 "#SUPPLY12" H 7350 6700 50  0001 C CNN
+F 1 "GND" H 7275 6575 59  0000 L BNN
+F 2 "" H 7350 6700 50  0001 C CNN
+F 3 "" H 7350 6700 50  0001 C CNN
+	1    7350 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0603 C15
+U 1 1 50248F43
+P 7750 4700
+F 0 "C15" H 7810 4715 59  0000 L BNN
+F 1 "560pF" H 7810 4515 59  0000 L BNN
+F 2 "nixie_converter:C0603" H 7750 4700 50  0001 C CNN
+F 3 "" H 7750 4700 50  0001 C CNN
+	1    7750 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY13
+U 1 1 8D803956
+P 7750 5100
+F 0 "#SUPPLY13" H 7750 5100 50  0001 C CNN
+F 1 "GND" H 7675 4975 59  0000 L BNN
+F 2 "" H 7750 5100 50  0001 C CNN
+F 3 "" H 7750 5100 50  0001 C CNN
+	1    7750 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:+5V #P+7
+U 1 1 FAFE20BD
+P 2050 4200
+F 0 "#P+7" H 2050 4200 50  0001 C CNN
+F 1 "+5V" V 2050 4250 59  0000 C BNN
+F 2 "" H 2050 4200 50  0001 C CNN
+F 3 "" H 2050 4200 50  0001 C CNN
+	1    2050 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:USB-C_RECEPTACLE U$1
+U 1 1 89E33A62
+P 1050 4700
+F 0 "U$1" H 1050 4700 50  0001 C CNN
+F 1 "USB-C_RECEPTACLE" H 1050 4700 50  0001 C CNN
+F 2 "nixie_converter:USB-C_RECEPTACLE" H 1050 4700 50  0001 C CNN
+F 3 "" H 1050 4700 50  0001 C CNN
+	1    1050 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY24
+U 1 1 29BDD468
+P 1650 4800
+F 0 "#SUPPLY24" H 1650 4800 50  0001 C CNN
+F 1 "GND" H 1575 4675 59  0000 L BNN
+F 2 "" H 1650 4800 50  0001 C CNN
+F 3 "" H 1650 4800 50  0001 C CNN
+	1    1650 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GF1 D1
+U 1 1 CAA7320F
+P 8000 4400
+F 0 "D1" H 7900 4500 59  0000 L BNN
+F 1 "ESD1" H 7900 4250 59  0000 L BNN
+F 2 "nixie_converter:SMA-DO214AC" H 8000 4400 50  0001 C CNN
+F 3 "" H 8000 4400 50  0001 C CNN
+	1    8000 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C6
+U 1 1 5C7DDE00
+P 8250 4700
+F 0 "C6" H 8310 4715 59  0000 L BNN
+F 1 "100pF" H 8310 4515 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 8250 4700 50  0001 C CNN
+F 3 "" H 8250 4700 50  0001 C CNN
+	1    8250 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R15
+U 1 1 8598BC98
+P 8700 4750
+F 0 "R15" H 8550 4809 59  0000 L BNN
+F 1 "634k" H 8550 4620 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 8700 4750 50  0001 C CNN
+F 3 "" H 8700 4750 50  0001 C CNN
+	1    8700 4750
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R16
+U 1 1 47AA921E
+P 8700 5400
+F 0 "R16" H 8550 5459 59  0000 L BNN
+F 1 "7.68k" H 8550 5270 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 8700 5400 50  0001 C CNN
+F 3 "" H 8700 5400 50  0001 C CNN
+	1    8700 5400
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY26
+U 1 1 CB2EE093
+P 8700 5800
+F 0 "#SUPPLY26" H 8700 5800 50  0001 C CNN
+F 1 "GND" H 8625 5675 59  0000 L BNN
+F 2 "" H 8700 5800 50  0001 C CNN
+F 3 "" H 8700 5800 50  0001 C CNN
+	1    8700 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC2220K C1
+U 1 1 C8E3AF05
+P 9100 4700
+F 0 "C1" H 9160 4715 59  0000 L BNN
+F 1 "1uF" H 9160 4515 59  0000 L BNN
+F 2 "nixie_converter:C2220K" H 9100 4700 50  0001 C CNN
+F 3 "" H 9100 4700 50  0001 C CNN
+	1    9100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC2220K C2
+U 1 1 AC671DB5
+P 9500 4700
+F 0 "C2" H 9560 4715 59  0000 L BNN
+F 1 "1uF" H 9560 4515 59  0000 L BNN
+F 2 "nixie_converter:C2220K" H 9500 4700 50  0001 C CNN
+F 3 "" H 9500 4700 50  0001 C CNN
+	1    9500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY27
+U 1 1 19AA1EB1
+P 9100 5800
+F 0 "#SUPPLY27" H 9100 5800 50  0001 C CNN
+F 1 "GND" H 9025 5675 59  0000 L BNN
+F 2 "" H 9100 5800 50  0001 C CNN
+F 3 "" H 9100 5800 50  0001 C CNN
+	1    9100 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY28
+U 1 1 390F8B27
+P 9500 5800
+F 0 "#SUPPLY28" H 9500 5800 50  0001 C CNN
+F 1 "GND" H 9425 5675 59  0000 L BNN
+F 2 "" H 9500 5800 50  0001 C CNN
+F 3 "" H 9500 5800 50  0001 C CNN
+	1    9500 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C12
+U 1 1 415E56D5
+P 9900 4700
+F 0 "C12" H 9960 4715 59  0000 L BNN
+F 1 "0.1uF" H 9960 4515 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 9900 4700 50  0001 C CNN
+F 3 "" H 9900 4700 50  0001 C CNN
+	1    9900 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY29
+U 1 1 D637372C
+P 9900 5800
+F 0 "#SUPPLY29" H 9900 5800 50  0001 C CNN
+F 1 "GND" H 9825 5675 59  0000 L BNN
+F 2 "" H 9900 5800 50  0001 C CNN
+F 3 "" H 9900 5800 50  0001 C CNN
+	1    9900 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C3
+U 1 1 88676885
+P 10900 4700
+F 0 "C3" H 10960 4715 59  0000 L BNN
+F 1 "0.1uF" H 10960 4515 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 10900 4700 50  0001 C CNN
+F 3 "" H 10900 4700 50  0001 C CNN
+	1    10900 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:C-EUC0805 C13
+U 1 1 69A086C3
+P 11300 4700
+F 0 "C13" H 11360 4715 59  0000 L BNN
+F 1 "0.1uF" H 11360 4515 59  0000 L BNN
+F 2 "nixie_converter:C0805" H 11300 4700 50  0001 C CNN
+F 3 "" H 11300 4700 50  0001 C CNN
+	1    11300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY30
+U 1 1 065DB38D
+P 10900 5800
+F 0 "#SUPPLY30" H 10900 5800 50  0001 C CNN
+F 1 "GND" H 10825 5675 59  0000 L BNN
+F 2 "" H 10900 5800 50  0001 C CNN
+F 3 "" H 10900 5800 50  0001 C CNN
+	1    10900 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY31
+U 1 1 668EE308
+P 11300 5800
+F 0 "#SUPPLY31" H 11300 5800 50  0001 C CNN
+F 1 "GND" H 11225 5675 59  0000 L BNN
+F 2 "" H 11300 5800 50  0001 C CNN
+F 3 "" H 11300 5800 50  0001 C CNN
+	1    11300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:+5V #+160V
+U 1 1 FCF9CD3B
+P 11300 4200
+F 0 "#+160V" H 11300 4200 50  0001 C CNN
+F 1 "+160V" V 11300 4250 59  0000 C BNN
+F 2 "" H 11300 4200 50  0001 C CNN
+F 3 "" H 11300 4200 50  0001 C CNN
+	1    11300 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:7447709330 L3
+U 1 1 D8782625
+P 6650 4400
+F 0 "L3" V 6600 4200 59  0000 L BNN
+F 1 "33uH" V 6800 4200 59  0000 L BNN
+F 2 "nixie_converter:DR125" H 6650 4400 50  0001 C CNN
+F 3 "" H 6650 4400 50  0001 C CNN
+	1    6650 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:BKP2125HS600-T L5
+U 1 1 31814C62
+P 10400 4400
+F 0 "L5" V 10350 4200 59  0000 L BNN
+F 1 "BKP2125HS600-T" V 10550 4200 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 10400 4400 50  0001 C CNN
+F 3 "" H 10400 4400 50  0001 C CNN
+	1    10400 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R19
+U 1 1 4B9CEEB5
+P 2400 2550
+F 0 "R19" H 2250 2609 59  0000 L BNN
+F 1 "100k" H 2250 2420 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 2400 2550 50  0001 C CNN
+F 3 "" H 2400 2550 50  0001 C CNN
+	1    2400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R20
+U 1 1 6A7A1984
+P 3000 3050
+F 0 "R20" H 2850 3109 59  0000 L BNN
+F 1 "10k" H 2850 2920 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 3000 3050 50  0001 C CNN
+F 3 "" H 3000 3050 50  0001 C CNN
+	1    3000 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R21
+U 1 1 0DDF1F5D
+P 3300 3350
+F 0 "R21" H 3150 3409 59  0000 L BNN
+F 1 "10k" H 3150 3220 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 3300 3350 50  0001 C CNN
+F 3 "" H 3300 3350 50  0001 C CNN
+	1    3300 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:+5V #P+13
+U 1 1 71DB5D41
+P 1900 1750
+F 0 "#P+13" H 1900 1750 50  0001 C CNN
+F 1 "+160V" V 1900 1800 59  0000 C BNN
+F 2 "" H 1900 1750 50  0001 C CNN
+F 3 "" H 1900 1750 50  0001 C CNN
+	1    1900 1750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY21
+U 1 1 5F7BB948
+P 3800 3350
+F 0 "#SUPPLY21" H 3800 3350 50  0001 C CNN
+F 1 "GND" H 3725 3225 59  0000 L BNN
+F 2 "" H 3800 3350 50  0001 C CNN
+F 3 "" H 3800 3350 50  0001 C CNN
+	1    3800 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R23
+U 1 1 66E47F28
+P 4400 2550
+F 0 "R23" H 4250 2609 59  0000 L BNN
+F 1 "100k" H 4250 2420 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 4400 2550 50  0001 C CNN
+F 3 "" H 4400 2550 50  0001 C CNN
+	1    4400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R24
+U 1 1 710310B2
+P 5000 3050
+F 0 "R24" H 4850 3109 59  0000 L BNN
+F 1 "10k" H 4850 2920 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 5000 3050 50  0001 C CNN
+F 3 "" H 5000 3050 50  0001 C CNN
+	1    5000 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R25
+U 1 1 CA2E3B38
+P 5300 3350
+F 0 "R25" H 5150 3409 59  0000 L BNN
+F 1 "10k" H 5150 3220 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 5300 3350 50  0001 C CNN
+F 3 "" H 5300 3350 50  0001 C CNN
+	1    5300 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:+5V #P+14
+U 1 1 AE2697C3
+P 3900 1750
+F 0 "#P+14" H 3900 1750 50  0001 C CNN
+F 1 "+160V" V 3900 1800 59  0000 C BNN
+F 2 "" H 3900 1750 50  0001 C CNN
+F 3 "" H 3900 1750 50  0001 C CNN
+	1    3900 1750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY22
+U 1 1 15C4ECC7
+P 5800 3350
+F 0 "#SUPPLY22" H 5800 3350 50  0001 C CNN
+F 1 "GND" H 5725 3225 59  0000 L BNN
+F 2 "" H 5800 3350 50  0001 C CNN
+F 3 "" H 5800 3350 50  0001 C CNN
+	1    5800 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R27
+U 1 1 6B521807
+P 6400 2550
+F 0 "R27" H 6250 2609 59  0000 L BNN
+F 1 "100k" H 6250 2420 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 6400 2550 50  0001 C CNN
+F 3 "" H 6400 2550 50  0001 C CNN
+	1    6400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R28
+U 1 1 A83A3BF8
+P 7000 3050
+F 0 "R28" H 6850 3109 59  0000 L BNN
+F 1 "10k" H 6850 2920 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 7000 3050 50  0001 C CNN
+F 3 "" H 7000 3050 50  0001 C CNN
+	1    7000 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R0805 R29
+U 1 1 C2BF7456
+P 7300 3350
+F 0 "R29" H 7150 3409 59  0000 L BNN
+F 1 "10k" H 7150 3220 59  0000 L BNN
+F 2 "nixie_converter:R0805" H 7300 3350 50  0001 C CNN
+F 3 "" H 7300 3350 50  0001 C CNN
+	1    7300 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:+5V #P+15
+U 1 1 E8B77DC6
+P 5900 1750
+F 0 "#P+15" H 5900 1750 50  0001 C CNN
+F 1 "+160V" V 5900 1800 59  0000 C BNN
+F 2 "" H 5900 1750 50  0001 C CNN
+F 3 "" H 5900 1750 50  0001 C CNN
+	1    5900 1750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY23
+U 1 1 F460BE83
+P 7800 3350
+F 0 "#SUPPLY23" H 7800 3350 50  0001 C CNN
+F 1 "GND" H 7725 3225 59  0000 L BNN
+F 2 "" H 7800 3350 50  0001 C CNN
+F 3 "" H 7800 3350 50  0001 C CNN
+	1    7800 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R1210 R18
+U 1 1 E9519ED8
+P 2700 2250
+F 0 "R18" H 2550 2309 59  0000 L BNN
+F 1 "47k" H 2550 2120 59  0000 L BNN
+F 2 "nixie_converter:R1210" H 2700 2250 50  0001 C CNN
+F 3 "" H 2700 2250 50  0001 C CNN
+	1    2700 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R1210 R22
+U 1 1 732875F7
+P 4700 2250
+F 0 "R22" H 4550 2309 59  0000 L BNN
+F 1 "47k" H 4550 2120 59  0000 L BNN
+F 2 "nixie_converter:R1210" H 4700 2250 50  0001 C CNN
+F 3 "" H 4700 2250 50  0001 C CNN
+	1    4700 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:R-US_R1210 R26
+U 1 1 8CC97C7A
+P 6700 2250
+F 0 "R26" H 6550 2309 59  0000 L BNN
+F 1 "47k" H 6550 2120 59  0000 L BNN
+F 2 "nixie_converter:R1210" H 6700 2250 50  0001 C CNN
+F 3 "" H 6700 2250 50  0001 C CNN
+	1    6700 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:MMBTA42 Q2
+U 1 1 FC4D4FCD
+P 3000 2650
+F 0 "Q2" H 2600 2950 70  0000 L BNN
+F 1 "MMBTA42" H 2600 2850 70  0000 L BNN
+F 2 "nixie_converter:SOT95P237X111-3" H 3000 2650 50  0001 C CNN
+F 3 "" H 3000 2650 50  0001 C CNN
+	1    3000 2650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:MMBTA42 Q3
+U 1 1 9A1C1EBA
+P 5000 2650
+F 0 "Q3" H 4600 2950 70  0000 L BNN
+F 1 "MMBTA42" H 4600 2850 70  0000 L BNN
+F 2 "nixie_converter:SOT95P237X111-3" H 5000 2650 50  0001 C CNN
+F 3 "" H 5000 2650 50  0001 C CNN
+	1    5000 2650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:MMBTA92 Q6
+U 1 1 97620144
+P 4700 1850
+F 0 "Q6" H 4300 2150 70  0000 L BNN
+F 1 "MMBTA92" H 4300 2050 70  0000 L BNN
+F 2 "nixie_converter:SOT95P237X111-3" H 4700 1850 50  0001 C CNN
+F 3 "" H 4700 1850 50  0001 C CNN
+	1    4700 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:MMBTA92 Q7
+U 1 1 6A33A87D
+P 6700 1850
+F 0 "Q7" H 6300 2150 70  0000 L BNN
+F 1 "MMBTA92" H 6300 2050 70  0000 L BNN
+F 2 "nixie_converter:SOT95P237X111-3" H 6700 1850 50  0001 C CNN
+F 3 "" H 6700 1850 50  0001 C CNN
+	1    6700 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:MMBTA42 Q4
+U 1 1 22452E8B
+P 7000 2650
+F 0 "Q4" H 6600 2950 70  0000 L BNN
+F 1 "MMBTA42" H 6600 2850 70  0000 L BNN
+F 2 "nixie_converter:SOT95P237X111-3" H 7000 2650 50  0001 C CNN
+F 3 "" H 7000 2650 50  0001 C CNN
+	1    7000 2650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:MMBTA92 Q5
+U 1 1 A335FF6A
+P 2700 1850
+F 0 "Q5" H 2300 2150 70  0000 L BNN
+F 1 "MMBTA92" H 2300 2050 70  0000 L BNN
+F 2 "nixie_converter:SOT95P237X111-3" H 2700 1850 50  0001 C CNN
+F 3 "" H 2700 1850 50  0001 C CNN
+	1    2700 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:SSM-108-XXX-SV" J1
+U 1 1 449C7C68
+P 9500 2700
+F 0 "J1" H 9500 3630 50  0000 L BNN
+F 1 "SSM-108-XXX-SV\"" H 9500 2620 50  0000 L BNN
+F 2 "nixie_converter:SSM-108-XXX-SV" H 9500 2700 50  0001 C CNN
+F 3 "" H 9500 2700 50  0001 C CNN
+	1    9500 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:BAT54 D2
+U 1 1 0CADE672
+P 2950 5700
+F 0 "D2" H 2860 5775 70  0000 L BNN
+F 1 "BAT54" H 2950 5700 50  0001 C CNN
+F 2 "nixie_converter:SOD-323" H 2950 5700 50  0001 C CNN
+F 3 "" H 2950 5700 50  0001 C CNN
+	1    2950 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L nixie_converter-eagle-import:M3_HOLE J2
+U 1 1 C3E76336
+P 8700 3300
+F 0 "J2" H 8700 3300 50  0001 C CNN
+F 1 "M3_HOLE" H 8700 3300 50  0001 C CNN
+F 2 "nixie_converter:MOUNTING_HOLE" H 8700 3300 50  0001 C CNN
+F 3 "" H 8700 3300 50  0001 C CNN
+	1    8700 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:M3_HOLE J3
+U 1 1 B665FDA9
+P 8900 3300
+F 0 "J3" H 8900 3300 50  0001 C CNN
+F 1 "M3_HOLE" H 8900 3300 50  0001 C CNN
+F 2 "nixie_converter:MOUNTING_HOLE" H 8900 3300 50  0001 C CNN
+F 3 "" H 8900 3300 50  0001 C CNN
+	1    8900 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L nixie_converter-eagle-import:GND #SUPPLY36
+U 1 1 E3E40B96
+P 8700 3700
+F 0 "#SUPPLY36" H 8700 3700 50  0001 C CNN
+F 1 "GND" H 8625 3575 59  0000 L BNN
+F 2 "" H 8700 3700 50  0001 C CNN
+F 3 "" H 8700 3700 50  0001 C CNN
+	1    8700 3700
+	1    0    0    -1  
+$EndComp
+Text Notes 8650 7000 0    127  ~ 0
+5V to 160V Boost Converter
+Text Notes 8650 7150 0    85   ~ 0
+Boost converter design by Mark Smith
+Text Notes 8650 7300 0    85   ~ 0
+https://github.com/drkmsmithjr/NixiePowerSupply
+Wire Notes Line
+	900  7400 11700 7400
+Wire Notes Line
+	900  4000 11700 4000
+Wire Notes Line
+	900  800  11700 800 
+Wire Notes Line
+	11700 800  11700 7400
+Wire Notes Line
+	900  800  900  7400
+$EndSCHEMATC
